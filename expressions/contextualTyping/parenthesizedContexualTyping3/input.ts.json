@@ -1258,7 +1258,7 @@
                   "type": "ArrowFunctionExpression",
                   "span": {
                     "start": 484,
-                    "end": 491,
+                    "end": 490,
                     "ctxt": 0
                   },
                   "params": [
@@ -1461,7 +1461,7 @@
                     "type": "ArrowFunctionExpression",
                     "span": {
                       "start": 526,
-                      "end": 533,
+                      "end": 532,
                       "ctxt": 0
                     },
                     "params": [
@@ -1947,7 +1947,7 @@
                   "type": "ArrowFunctionExpression",
                   "span": {
                     "start": 629,
-                    "end": 636,
+                    "end": 635,
                     "ctxt": 0
                   },
                   "params": [
@@ -2215,7 +2215,7 @@
                     "type": "ArrowFunctionExpression",
                     "span": {
                       "start": 682,
-                      "end": 689,
+                      "end": 688,
                       "ctxt": 0
                     },
                     "params": [
@@ -2441,7 +2441,7 @@
                   "type": "ArrowFunctionExpression",
                   "span": {
                     "start": 723,
-                    "end": 730,
+                    "end": 729,
                     "ctxt": 0
                   },
                   "params": [
@@ -2499,7 +2499,7 @@
                       "type": "ArrowFunctionExpression",
                       "span": {
                         "start": 739,
-                        "end": 746,
+                        "end": 745,
                         "ctxt": 0
                       },
                       "params": [
@@ -2726,7 +2726,7 @@
                   "type": "ArrowFunctionExpression",
                   "span": {
                     "start": 781,
-                    "end": 788,
+                    "end": 787,
                     "ctxt": 0
                   },
                   "params": [
@@ -2784,7 +2784,7 @@
                       "type": "ArrowFunctionExpression",
                       "span": {
                         "start": 797,
-                        "end": 804,
+                        "end": 803,
                         "ctxt": 0
                       },
                       "params": [

@@ -198,7 +198,7 @@
               "type": "ArrowFunctionExpression",
               "span": {
                 "start": 80,
-                "end": 128,
+                "end": 127,
                 "ctxt": 0
               },
               "params": [

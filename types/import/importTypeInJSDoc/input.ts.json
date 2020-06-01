@@ -856,7 +856,7 @@
               "type": "ArrowFunctionExpression",
               "span": {
                 "start": 673,
-                "end": 680,
+                "end": 679,
                 "ctxt": 0
               },
               "params": [

@@ -1011,7 +1011,7 @@
                     "type": "ArrowFunctionExpression",
                     "span": {
                       "start": 633,
-                      "end": 674,
+                      "end": 673,
                       "ctxt": 0
                     },
                     "params": [
@@ -1211,7 +1211,7 @@
                       "type": "ArrowFunctionExpression",
                       "span": {
                         "start": 695,
-                        "end": 736,
+                        "end": 735,
                         "ctxt": 0
                       },
                       "params": [
@@ -1419,7 +1419,7 @@
                         "type": "ArrowFunctionExpression",
                         "span": {
                           "start": 759,
-                          "end": 800,
+                          "end": 799,
                           "ctxt": 0
                         },
                         "params": [
@@ -1918,7 +1918,7 @@
                     "type": "ArrowFunctionExpression",
                     "span": {
                       "start": 924,
-                      "end": 965,
+                      "end": 964,
                       "ctxt": 0
                     },
                     "params": [
@@ -2045,7 +2045,7 @@
                     "type": "ArrowFunctionExpression",
                     "span": {
                       "start": 967,
-                      "end": 1008,
+                      "end": 1007,
                       "ctxt": 0
                     },
                     "params": [
@@ -2245,7 +2245,7 @@
                       "type": "ArrowFunctionExpression",
                       "span": {
                         "start": 1029,
-                        "end": 1070,
+                        "end": 1069,
                         "ctxt": 0
                       },
                       "params": [
@@ -2380,7 +2380,7 @@
                       "type": "ArrowFunctionExpression",
                       "span": {
                         "start": 1074,
-                        "end": 1115,
+                        "end": 1114,
                         "ctxt": 0
                       },
                       "params": [
@@ -2588,7 +2588,7 @@
                         "type": "ArrowFunctionExpression",
                         "span": {
                           "start": 1138,
-                          "end": 1179,
+                          "end": 1178,
                           "ctxt": 0
                         },
                         "params": [
@@ -2724,7 +2724,7 @@
                       "type": "ArrowFunctionExpression",
                       "span": {
                         "start": 1184,
-                        "end": 1225,
+                        "end": 1224,
                         "ctxt": 0
                       },
                       "params": [
@@ -3287,7 +3287,7 @@
                         "type": "ArrowFunctionExpression",
                         "span": {
                           "start": 1393,
-                          "end": 1434,
+                          "end": 1433,
                           "ctxt": 0
                         },
                         "params": [
@@ -3411,7 +3411,7 @@
                         "type": "ArrowFunctionExpression",
                         "span": {
                           "start": 1438,
-                          "end": 1453,
+                          "end": 1452,
                           "ctxt": 0
                         },
                         "params": [
@@ -3599,7 +3599,7 @@
                         "type": "ArrowFunctionExpression",
                         "span": {
                           "start": 1497,
-                          "end": 1538,
+                          "end": 1537,
                           "ctxt": 0
                         },
                         "params": [
@@ -3723,7 +3723,7 @@
                         "type": "ArrowFunctionExpression",
                         "span": {
                           "start": 1542,
-                          "end": 1557,
+                          "end": 1556,
                           "ctxt": 0
                         },
                         "params": [
@@ -4044,7 +4044,7 @@
                             "type": "ArrowFunctionExpression",
                             "span": {
                               "start": 1645,
-                              "end": 1686,
+                              "end": 1685,
                               "ctxt": 0
                             },
                             "params": [
@@ -4176,7 +4176,7 @@
                             "type": "ArrowFunctionExpression",
                             "span": {
                               "start": 1692,
-                              "end": 1707,
+                              "end": 1706,
                               "ctxt": 0
                             },
                             "params": [
@@ -4234,7 +4234,7 @@
                       "type": "ArrowFunctionExpression",
                       "span": {
                         "start": 1713,
-                        "end": 1754,
+                        "end": 1753,
                         "ctxt": 0
                       },
                       "params": [
@@ -4609,7 +4609,7 @@
               "type": "ArrowFunctionExpression",
               "span": {
                 "start": 1854,
-                "end": 1895,
+                "end": 1894,
                 "ctxt": 0
               },
               "params": [
