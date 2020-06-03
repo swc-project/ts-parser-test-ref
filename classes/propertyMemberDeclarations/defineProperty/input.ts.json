@@ -590,7 +590,7 @@
           "isStatic": false,
           "decorators": [],
           "computed": false,
-          "accessibility": "public",
+          "accessibility": null,
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
