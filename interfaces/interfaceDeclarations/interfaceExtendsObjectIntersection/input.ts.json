@@ -388,22 +388,40 @@
         },
         "elemTypes": [
           {
-            "type": "TsKeywordType",
+            "type": "TsTupleElement",
             "span": {
               "start": 171,
               "end": 177,
               "ctxt": 0
             },
-            "kind": "string"
+            "label": null,
+            "ty": {
+              "type": "TsKeywordType",
+              "span": {
+                "start": 171,
+                "end": 177,
+                "ctxt": 0
+              },
+              "kind": "string"
+            }
           },
           {
-            "type": "TsKeywordType",
+            "type": "TsTupleElement",
             "span": {
               "start": 179,
               "end": 185,
               "ctxt": 0
             },
-            "kind": "number"
+            "label": null,
+            "ty": {
+              "type": "TsKeywordType",
+              "span": {
+                "start": 179,
+                "end": 185,
+                "ctxt": 0
+              },
+              "kind": "number"
+            }
           }
         ]
       }
@@ -1463,6 +1481,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -1585,6 +1604,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -1707,6 +1727,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -1829,6 +1850,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -1951,6 +1973,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -2073,6 +2096,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -2195,6 +2219,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -2397,6 +2422,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -3864,6 +3890,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -4015,6 +4042,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -4166,6 +4194,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -4317,6 +4346,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],

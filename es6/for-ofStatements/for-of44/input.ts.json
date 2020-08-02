@@ -54,50 +54,68 @@
                   },
                   "elemTypes": [
                     {
-                      "type": "TsKeywordType",
+                      "type": "TsTupleElement",
                       "span": {
                         "start": 27,
                         "end": 33,
                         "ctxt": 0
                       },
-                      "kind": "number"
+                      "label": null,
+                      "ty": {
+                        "type": "TsKeywordType",
+                        "span": {
+                          "start": 27,
+                          "end": 33,
+                          "ctxt": 0
+                        },
+                        "kind": "number"
+                      }
                     },
                     {
-                      "type": "TsUnionType",
+                      "type": "TsTupleElement",
                       "span": {
                         "start": 35,
                         "end": 60,
                         "ctxt": 0
                       },
-                      "types": [
-                        {
-                          "type": "TsKeywordType",
-                          "span": {
-                            "start": 35,
-                            "end": 41,
-                            "ctxt": 0
-                          },
-                          "kind": "string"
+                      "label": null,
+                      "ty": {
+                        "type": "TsUnionType",
+                        "span": {
+                          "start": 35,
+                          "end": 60,
+                          "ctxt": 0
                         },
-                        {
-                          "type": "TsKeywordType",
-                          "span": {
-                            "start": 44,
-                            "end": 51,
-                            "ctxt": 0
+                        "types": [
+                          {
+                            "type": "TsKeywordType",
+                            "span": {
+                              "start": 35,
+                              "end": 41,
+                              "ctxt": 0
+                            },
+                            "kind": "string"
                           },
-                          "kind": "boolean"
-                        },
-                        {
-                          "type": "TsKeywordType",
-                          "span": {
-                            "start": 54,
-                            "end": 60,
-                            "ctxt": 0
+                          {
+                            "type": "TsKeywordType",
+                            "span": {
+                              "start": 44,
+                              "end": 51,
+                              "ctxt": 0
+                            },
+                            "kind": "boolean"
                           },
-                          "kind": "symbol"
-                        }
-                      ]
+                          {
+                            "type": "TsKeywordType",
+                            "span": {
+                              "start": 54,
+                              "end": 60,
+                              "ctxt": 0
+                            },
+                            "kind": "symbol"
+                          }
+                        ]
+                      }
                     }
                   ]
                 }

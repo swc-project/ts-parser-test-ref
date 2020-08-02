@@ -315,6 +315,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": true,
+          "declare": false,
           "definite": false
         }
       ],

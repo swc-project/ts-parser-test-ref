@@ -114,6 +114,11 @@
           "end": 71,
           "ctxt": 0
         },
+        "questionDotToken": {
+          "start": 67,
+          "end": 68,
+          "ctxt": 0
+        },
         "expr": {
           "type": "CallExpression",
           "span": {
@@ -285,6 +290,11 @@
           "span": {
             "start": 125,
             "end": 130,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 127,
+            "end": 128,
             "ctxt": 0
           },
           "expr": {
@@ -522,6 +532,11 @@
           "span": {
             "start": 195,
             "end": 203,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 199,
+            "end": 200,
             "ctxt": 0
           },
           "expr": {

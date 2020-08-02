@@ -88,31 +88,58 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 25,
                       "end": 31,
                       "ctxt": 0
                     },
-                    "kind": "string"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 25,
+                        "end": 31,
+                        "ctxt": 0
+                      },
+                      "kind": "string"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 33,
                       "end": 39,
                       "ctxt": 0
                     },
-                    "kind": "number"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 33,
+                        "end": 39,
+                        "ctxt": 0
+                      },
+                      "kind": "number"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 41,
                       "end": 48,
                       "ctxt": 0
                     },
-                    "kind": "boolean"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 41,
+                        "end": 48,
+                        "ctxt": 0
+                      },
+                      "kind": "boolean"
+                    }
                   }
                 ]
               }

@@ -6111,61 +6111,70 @@
                           },
                           "elemTypes": [
                             {
-                              "type": "TsUnionType",
+                              "type": "TsTupleElement",
                               "span": {
                                 "start": 3919,
                                 "end": 3947,
                                 "ctxt": 0
                               },
-                              "types": [
-                                {
-                                  "type": "TsKeywordType",
-                                  "span": {
-                                    "start": 3919,
-                                    "end": 3925,
-                                    "ctxt": 0
-                                  },
-                                  "kind": "number"
+                              "label": null,
+                              "ty": {
+                                "type": "TsUnionType",
+                                "span": {
+                                  "start": 3919,
+                                  "end": 3947,
+                                  "ctxt": 0
                                 },
-                                {
-                                  "type": "TsTypeReference",
-                                  "span": {
-                                    "start": 3928,
-                                    "end": 3947,
-                                    "ctxt": 0
-                                  },
-                                  "typeName": {
-                                    "type": "Identifier",
+                                "types": [
+                                  {
+                                    "type": "TsKeywordType",
                                     "span": {
-                                      "start": 3928,
-                                      "end": 3939,
+                                      "start": 3919,
+                                      "end": 3925,
                                       "ctxt": 0
                                     },
-                                    "value": "PromiseLike",
-                                    "typeAnnotation": null,
-                                    "optional": false
+                                    "kind": "number"
                                   },
-                                  "typeParams": {
-                                    "type": "TsTypeParameterInstantiation",
+                                  {
+                                    "type": "TsTypeReference",
                                     "span": {
-                                      "start": 3939,
+                                      "start": 3928,
                                       "end": 3947,
                                       "ctxt": 0
                                     },
-                                    "params": [
-                                      {
-                                        "type": "TsKeywordType",
-                                        "span": {
-                                          "start": 3940,
-                                          "end": 3946,
-                                          "ctxt": 0
-                                        },
-                                        "kind": "number"
-                                      }
-                                    ]
+                                    "typeName": {
+                                      "type": "Identifier",
+                                      "span": {
+                                        "start": 3928,
+                                        "end": 3939,
+                                        "ctxt": 0
+                                      },
+                                      "value": "PromiseLike",
+                                      "typeAnnotation": null,
+                                      "optional": false
+                                    },
+                                    "typeParams": {
+                                      "type": "TsTypeParameterInstantiation",
+                                      "span": {
+                                        "start": 3939,
+                                        "end": 3947,
+                                        "ctxt": 0
+                                      },
+                                      "params": [
+                                        {
+                                          "type": "TsKeywordType",
+                                          "span": {
+                                            "start": 3940,
+                                            "end": 3946,
+                                            "ctxt": 0
+                                          },
+                                          "kind": "number"
+                                        }
+                                      ]
+                                    }
                                   }
-                                }
-                              ]
+                                ]
+                              }
                             }
                           ]
                         }

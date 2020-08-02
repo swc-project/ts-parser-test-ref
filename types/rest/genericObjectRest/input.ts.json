@@ -528,14 +528,22 @@
                     {
                       "type": "KeyValuePatternProperty",
                       "key": {
-                        "type": "StringLiteral",
+                        "type": "Computed",
                         "span": {
-                          "start": 252,
-                          "end": 255,
+                          "start": 251,
+                          "end": 256,
                           "ctxt": 0
                         },
-                        "value": "a",
-                        "hasEscape": false
+                        "expression": {
+                          "type": "StringLiteral",
+                          "span": {
+                            "start": 252,
+                            "end": 255,
+                            "ctxt": 0
+                          },
+                          "value": "a",
+                          "hasEscape": false
+                        }
                       },
                       "value": {
                         "type": "Identifier",

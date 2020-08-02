@@ -47,31 +47,58 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 711,
                       "end": 714,
                       "ctxt": 0
                     },
-                    "kind": "any"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 711,
+                        "end": 714,
+                        "ctxt": 0
+                      },
+                      "kind": "any"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 716,
                       "end": 719,
                       "ctxt": 0
                     },
-                    "kind": "any"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 716,
+                        "end": 719,
+                        "ctxt": 0
+                      },
+                      "kind": "any"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 721,
                       "end": 724,
                       "ctxt": 0
                     },
-                    "kind": "any"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 721,
+                        "end": 724,
+                        "ctxt": 0
+                      },
+                      "kind": "any"
+                    }
                   }
                 ]
               }
@@ -132,31 +159,58 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 778,
                       "end": 785,
                       "ctxt": 0
                     },
-                    "kind": "boolean"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 778,
+                        "end": 785,
+                        "ctxt": 0
+                      },
+                      "kind": "boolean"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 787,
                       "end": 793,
                       "ctxt": 0
                     },
-                    "kind": "string"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 787,
+                        "end": 793,
+                        "ctxt": 0
+                      },
+                      "kind": "string"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 795,
                       "end": 801,
                       "ctxt": 0
                     },
-                    "kind": "number"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 795,
+                        "end": 801,
+                        "ctxt": 0
+                      },
+                      "kind": "number"
+                    }
                   }
                 ]
               }
@@ -279,22 +333,40 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 1169,
                       "end": 1175,
                       "ctxt": 0
                     },
-                    "kind": "number"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 1169,
+                        "end": 1175,
+                        "ctxt": 0
+                      },
+                      "kind": "number"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 1177,
                       "end": 1183,
                       "ctxt": 0
                     },
-                    "kind": "number"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 1177,
+                        "end": 1183,
+                        "ctxt": 0
+                      },
+                      "kind": "number"
+                    }
                   }
                 ]
               }
@@ -563,37 +635,55 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsArrayType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 1571,
                       "end": 1579,
                       "ctxt": 0
                     },
-                    "elemType": {
-                      "type": "TsKeywordType",
+                    "label": null,
+                    "ty": {
+                      "type": "TsArrayType",
                       "span": {
                         "start": 1571,
-                        "end": 1577,
+                        "end": 1579,
                         "ctxt": 0
                       },
-                      "kind": "number"
+                      "elemType": {
+                        "type": "TsKeywordType",
+                        "span": {
+                          "start": 1571,
+                          "end": 1577,
+                          "ctxt": 0
+                        },
+                        "kind": "number"
+                      }
                     }
                   },
                   {
-                    "type": "TsArrayType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 1581,
                       "end": 1589,
                       "ctxt": 0
                     },
-                    "elemType": {
-                      "type": "TsKeywordType",
+                    "label": null,
+                    "ty": {
+                      "type": "TsArrayType",
                       "span": {
                         "start": 1581,
-                        "end": 1587,
+                        "end": 1589,
                         "ctxt": 0
                       },
-                      "kind": "string"
+                      "elemType": {
+                        "type": "TsKeywordType",
+                        "span": {
+                          "start": 1581,
+                          "end": 1587,
+                          "ctxt": 0
+                        },
+                        "kind": "string"
+                      }
                     }
                   }
                 ]
@@ -1205,31 +1295,58 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 1862,
                       "end": 1868,
                       "ctxt": 0
                     },
-                    "kind": "number"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 1862,
+                        "end": 1868,
+                        "ctxt": 0
+                      },
+                      "kind": "number"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 1870,
                       "end": 1876,
                       "ctxt": 0
                     },
-                    "kind": "number"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 1870,
+                        "end": 1876,
+                        "ctxt": 0
+                      },
+                      "kind": "number"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 1878,
                       "end": 1884,
                       "ctxt": 0
                     },
-                    "kind": "number"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 1878,
+                        "end": 1884,
+                        "ctxt": 0
+                      },
+                      "kind": "number"
+                    }
                   }
                 ]
               }

@@ -159,6 +159,7 @@
           "isAbstract": false,
           "isOptional": true,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -232,6 +233,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -3257,14 +3259,22 @@
               {
                 "type": "KeyValueProperty",
                 "key": {
-                  "type": "StringLiteral",
+                  "type": "Computed",
                   "span": {
-                    "start": 1704,
-                    "end": 1719,
+                    "start": 1703,
+                    "end": 1720,
                     "ctxt": 0
                   },
-                  "value": "in the middle",
-                  "hasEscape": false
+                  "expression": {
+                    "type": "StringLiteral",
+                    "span": {
+                      "start": 1704,
+                      "end": 1719,
+                      "ctxt": 0
+                    },
+                    "value": "in the middle",
+                    "hasEscape": false
+                  }
                 },
                 "value": {
                   "type": "NumericLiteral",
@@ -4169,6 +4179,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {

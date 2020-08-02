@@ -98,44 +98,62 @@
                   },
                   "elemTypes": [
                     {
-                      "type": "TsTypeReference",
+                      "type": "TsTupleElement",
                       "span": {
                         "start": 40,
                         "end": 43,
                         "ctxt": 0
                       },
-                      "typeName": {
-                        "type": "Identifier",
+                      "label": null,
+                      "ty": {
+                        "type": "TsTypeReference",
                         "span": {
                           "start": 40,
                           "end": 43,
                           "ctxt": 0
                         },
-                        "value": "Bar",
-                        "typeAnnotation": null,
-                        "optional": false
-                      },
-                      "typeParams": null
+                        "typeName": {
+                          "type": "Identifier",
+                          "span": {
+                            "start": 40,
+                            "end": 43,
+                            "ctxt": 0
+                          },
+                          "value": "Bar",
+                          "typeAnnotation": null,
+                          "optional": false
+                        },
+                        "typeParams": null
+                      }
                     },
                     {
-                      "type": "TsTypeReference",
+                      "type": "TsTupleElement",
                       "span": {
                         "start": 45,
                         "end": 48,
                         "ctxt": 0
                       },
-                      "typeName": {
-                        "type": "Identifier",
+                      "label": null,
+                      "ty": {
+                        "type": "TsTypeReference",
                         "span": {
                           "start": 45,
                           "end": 48,
                           "ctxt": 0
                         },
-                        "value": "Bar",
-                        "typeAnnotation": null,
-                        "optional": false
-                      },
-                      "typeParams": null
+                        "typeName": {
+                          "type": "Identifier",
+                          "span": {
+                            "start": 45,
+                            "end": 48,
+                            "ctxt": 0
+                          },
+                          "value": "Bar",
+                          "typeAnnotation": null,
+                          "optional": false
+                        },
+                        "typeParams": null
+                      }
                     }
                   ]
                 }
@@ -270,6 +288,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -327,6 +346,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],

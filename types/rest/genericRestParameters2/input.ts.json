@@ -47,45 +47,72 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 59,
                       "end": 65,
                       "ctxt": 0
                     },
-                    "kind": "number"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 59,
+                        "end": 65,
+                        "ctxt": 0
+                      },
+                      "kind": "number"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 67,
                       "end": 73,
                       "ctxt": 0
                     },
-                    "kind": "string"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 67,
+                        "end": 73,
+                        "ctxt": 0
+                      },
+                      "kind": "string"
+                    }
                   },
                   {
-                    "type": "TsRestType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 75,
                       "end": 87,
                       "ctxt": 0
                     },
-                    "typeAnnotation": {
-                      "type": "TsArrayType",
+                    "label": null,
+                    "ty": {
+                      "type": "TsRestType",
                       "span": {
-                        "start": 78,
+                        "start": 75,
                         "end": 87,
                         "ctxt": 0
                       },
-                      "elemType": {
-                        "type": "TsKeywordType",
+                      "typeAnnotation": {
+                        "type": "TsArrayType",
                         "span": {
                           "start": 78,
-                          "end": 85,
+                          "end": 87,
                           "ctxt": 0
                         },
-                        "kind": "boolean"
+                        "elemType": {
+                          "type": "TsKeywordType",
+                          "span": {
+                            "start": 78,
+                            "end": 85,
+                            "ctxt": 0
+                          },
+                          "kind": "boolean"
+                        }
                       }
                     }
                   }
@@ -140,36 +167,54 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 109,
                       "end": 115,
                       "ctxt": 0
                     },
-                    "kind": "string"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 109,
+                        "end": 115,
+                        "ctxt": 0
+                      },
+                      "kind": "string"
+                    }
                   },
                   {
-                    "type": "TsRestType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 117,
                       "end": 129,
                       "ctxt": 0
                     },
-                    "typeAnnotation": {
-                      "type": "TsArrayType",
+                    "label": null,
+                    "ty": {
+                      "type": "TsRestType",
                       "span": {
-                        "start": 120,
+                        "start": 117,
                         "end": 129,
                         "ctxt": 0
                       },
-                      "elemType": {
-                        "type": "TsKeywordType",
+                      "typeAnnotation": {
+                        "type": "TsArrayType",
                         "span": {
                           "start": 120,
-                          "end": 127,
+                          "end": 129,
                           "ctxt": 0
                         },
-                        "kind": "boolean"
+                        "elemType": {
+                          "type": "TsKeywordType",
+                          "span": {
+                            "start": 120,
+                            "end": 127,
+                            "ctxt": 0
+                          },
+                          "kind": "boolean"
+                        }
                       }
                     }
                   }
@@ -224,27 +269,36 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsRestType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 151,
                       "end": 163,
                       "ctxt": 0
                     },
-                    "typeAnnotation": {
-                      "type": "TsArrayType",
+                    "label": null,
+                    "ty": {
+                      "type": "TsRestType",
                       "span": {
-                        "start": 154,
+                        "start": 151,
                         "end": 163,
                         "ctxt": 0
                       },
-                      "elemType": {
-                        "type": "TsKeywordType",
+                      "typeAnnotation": {
+                        "type": "TsArrayType",
                         "span": {
                           "start": 154,
-                          "end": 161,
+                          "end": 163,
                           "ctxt": 0
                         },
-                        "kind": "boolean"
+                        "elemType": {
+                          "type": "TsKeywordType",
+                          "span": {
+                            "start": 154,
+                            "end": 161,
+                            "ctxt": 0
+                          },
+                          "kind": "boolean"
+                        }
                       }
                     }
                   }
@@ -386,31 +440,58 @@
                         },
                         "elemTypes": [
                           {
-                            "type": "TsKeywordType",
+                            "type": "TsTupleElement",
                             "span": {
                               "start": 214,
                               "end": 220,
                               "ctxt": 0
                             },
-                            "kind": "number"
+                            "label": null,
+                            "ty": {
+                              "type": "TsKeywordType",
+                              "span": {
+                                "start": 214,
+                                "end": 220,
+                                "ctxt": 0
+                              },
+                              "kind": "number"
+                            }
                           },
                           {
-                            "type": "TsKeywordType",
+                            "type": "TsTupleElement",
                             "span": {
                               "start": 222,
                               "end": 228,
                               "ctxt": 0
                             },
-                            "kind": "string"
+                            "label": null,
+                            "ty": {
+                              "type": "TsKeywordType",
+                              "span": {
+                                "start": 222,
+                                "end": 228,
+                                "ctxt": 0
+                              },
+                              "kind": "string"
+                            }
                           },
                           {
-                            "type": "TsKeywordType",
+                            "type": "TsTupleElement",
                             "span": {
                               "start": 230,
                               "end": 237,
                               "ctxt": 0
                             },
-                            "kind": "boolean"
+                            "label": null,
+                            "ty": {
+                              "type": "TsKeywordType",
+                              "span": {
+                                "start": 230,
+                                "end": 237,
+                                "ctxt": 0
+                              },
+                              "kind": "boolean"
+                            }
                           }
                         ]
                       }
@@ -550,22 +631,40 @@
                         },
                         "elemTypes": [
                           {
-                            "type": "TsKeywordType",
+                            "type": "TsTupleElement",
                             "span": {
                               "start": 285,
                               "end": 291,
                               "ctxt": 0
                             },
-                            "kind": "string"
+                            "label": null,
+                            "ty": {
+                              "type": "TsKeywordType",
+                              "span": {
+                                "start": 285,
+                                "end": 291,
+                                "ctxt": 0
+                              },
+                              "kind": "string"
+                            }
                           },
                           {
-                            "type": "TsKeywordType",
+                            "type": "TsTupleElement",
                             "span": {
                               "start": 293,
                               "end": 300,
                               "ctxt": 0
                             },
-                            "kind": "boolean"
+                            "label": null,
+                            "ty": {
+                              "type": "TsKeywordType",
+                              "span": {
+                                "start": 293,
+                                "end": 300,
+                                "ctxt": 0
+                              },
+                              "kind": "boolean"
+                            }
                           }
                         ]
                       }
@@ -732,13 +831,22 @@
                         },
                         "elemTypes": [
                           {
-                            "type": "TsKeywordType",
+                            "type": "TsTupleElement",
                             "span": {
                               "start": 359,
                               "end": 366,
                               "ctxt": 0
                             },
-                            "kind": "boolean"
+                            "label": null,
+                            "ty": {
+                              "type": "TsKeywordType",
+                              "span": {
+                                "start": 359,
+                                "end": 366,
+                                "ctxt": 0
+                              },
+                              "kind": "boolean"
+                            }
                           }
                         ]
                       }
@@ -1190,45 +1298,72 @@
                         },
                         "elemTypes": [
                           {
-                            "type": "TsKeywordType",
+                            "type": "TsTupleElement",
                             "span": {
                               "start": 536,
                               "end": 542,
                               "ctxt": 0
                             },
-                            "kind": "number"
+                            "label": null,
+                            "ty": {
+                              "type": "TsKeywordType",
+                              "span": {
+                                "start": 536,
+                                "end": 542,
+                                "ctxt": 0
+                              },
+                              "kind": "number"
+                            }
                           },
                           {
-                            "type": "TsKeywordType",
+                            "type": "TsTupleElement",
                             "span": {
                               "start": 544,
                               "end": 550,
                               "ctxt": 0
                             },
-                            "kind": "string"
+                            "label": null,
+                            "ty": {
+                              "type": "TsKeywordType",
+                              "span": {
+                                "start": 544,
+                                "end": 550,
+                                "ctxt": 0
+                              },
+                              "kind": "string"
+                            }
                           },
                           {
-                            "type": "TsRestType",
+                            "type": "TsTupleElement",
                             "span": {
                               "start": 552,
                               "end": 564,
                               "ctxt": 0
                             },
-                            "typeAnnotation": {
-                              "type": "TsArrayType",
+                            "label": null,
+                            "ty": {
+                              "type": "TsRestType",
                               "span": {
-                                "start": 555,
+                                "start": 552,
                                 "end": 564,
                                 "ctxt": 0
                               },
-                              "elemType": {
-                                "type": "TsKeywordType",
+                              "typeAnnotation": {
+                                "type": "TsArrayType",
                                 "span": {
                                   "start": 555,
-                                  "end": 562,
+                                  "end": 564,
                                   "ctxt": 0
                                 },
-                                "kind": "boolean"
+                                "elemType": {
+                                  "type": "TsKeywordType",
+                                  "span": {
+                                    "start": 555,
+                                    "end": 562,
+                                    "ctxt": 0
+                                  },
+                                  "kind": "boolean"
+                                }
                               }
                             }
                           }
@@ -1370,36 +1505,54 @@
                         },
                         "elemTypes": [
                           {
-                            "type": "TsKeywordType",
+                            "type": "TsTupleElement",
                             "span": {
                               "start": 612,
                               "end": 618,
                               "ctxt": 0
                             },
-                            "kind": "string"
+                            "label": null,
+                            "ty": {
+                              "type": "TsKeywordType",
+                              "span": {
+                                "start": 612,
+                                "end": 618,
+                                "ctxt": 0
+                              },
+                              "kind": "string"
+                            }
                           },
                           {
-                            "type": "TsRestType",
+                            "type": "TsTupleElement",
                             "span": {
                               "start": 620,
                               "end": 632,
                               "ctxt": 0
                             },
-                            "typeAnnotation": {
-                              "type": "TsArrayType",
+                            "label": null,
+                            "ty": {
+                              "type": "TsRestType",
                               "span": {
-                                "start": 623,
+                                "start": 620,
                                 "end": 632,
                                 "ctxt": 0
                               },
-                              "elemType": {
-                                "type": "TsKeywordType",
+                              "typeAnnotation": {
+                                "type": "TsArrayType",
                                 "span": {
                                   "start": 623,
-                                  "end": 630,
+                                  "end": 632,
                                   "ctxt": 0
                                 },
-                                "kind": "boolean"
+                                "elemType": {
+                                  "type": "TsKeywordType",
+                                  "span": {
+                                    "start": 623,
+                                    "end": 630,
+                                    "ctxt": 0
+                                  },
+                                  "kind": "boolean"
+                                }
                               }
                             }
                           }
@@ -1568,27 +1721,36 @@
                         },
                         "elemTypes": [
                           {
-                            "type": "TsRestType",
+                            "type": "TsTupleElement",
                             "span": {
                               "start": 691,
                               "end": 703,
                               "ctxt": 0
                             },
-                            "typeAnnotation": {
-                              "type": "TsArrayType",
+                            "label": null,
+                            "ty": {
+                              "type": "TsRestType",
                               "span": {
-                                "start": 694,
+                                "start": 691,
                                 "end": 703,
                                 "ctxt": 0
                               },
-                              "elemType": {
-                                "type": "TsKeywordType",
+                              "typeAnnotation": {
+                                "type": "TsArrayType",
                                 "span": {
                                   "start": 694,
-                                  "end": 701,
+                                  "end": 703,
                                   "ctxt": 0
                                 },
-                                "kind": "boolean"
+                                "elemType": {
+                                  "type": "TsKeywordType",
+                                  "span": {
+                                    "start": 694,
+                                    "end": 701,
+                                    "ctxt": 0
+                                  },
+                                  "kind": "boolean"
+                                }
                               }
                             }
                           }
@@ -1836,22 +1998,40 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 801,
                       "end": 807,
                       "ctxt": 0
                     },
-                    "kind": "number"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 801,
+                        "end": 807,
+                        "ctxt": 0
+                      },
+                      "kind": "number"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 809,
                       "end": 815,
                       "ctxt": 0
                     },
-                    "kind": "string"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 809,
+                        "end": 815,
+                        "ctxt": 0
+                      },
+                      "kind": "string"
+                    }
                   }
                 ]
               }
@@ -1904,22 +2084,40 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 837,
                       "end": 843,
                       "ctxt": 0
                     },
-                    "kind": "string"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 837,
+                        "end": 843,
+                        "ctxt": 0
+                      },
+                      "kind": "string"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 845,
                       "end": 851,
                       "ctxt": 0
                     },
-                    "kind": "number"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 845,
+                        "end": 851,
+                        "ctxt": 0
+                      },
+                      "kind": "number"
+                    }
                   }
                 ]
               }
@@ -5608,45 +5806,72 @@
                       },
                       "elemTypes": [
                         {
-                          "type": "TsKeywordType",
+                          "type": "TsTupleElement",
                           "span": {
                             "start": 2049,
                             "end": 2055,
                             "ctxt": 0
                           },
-                          "kind": "number"
+                          "label": null,
+                          "ty": {
+                            "type": "TsKeywordType",
+                            "span": {
+                              "start": 2049,
+                              "end": 2055,
+                              "ctxt": 0
+                            },
+                            "kind": "number"
+                          }
                         },
                         {
-                          "type": "TsKeywordType",
+                          "type": "TsTupleElement",
                           "span": {
                             "start": 2057,
                             "end": 2063,
                             "ctxt": 0
                           },
-                          "kind": "string"
+                          "label": null,
+                          "ty": {
+                            "type": "TsKeywordType",
+                            "span": {
+                              "start": 2057,
+                              "end": 2063,
+                              "ctxt": 0
+                            },
+                            "kind": "string"
+                          }
                         },
                         {
-                          "type": "TsRestType",
+                          "type": "TsTupleElement",
                           "span": {
                             "start": 2065,
                             "end": 2077,
                             "ctxt": 0
                           },
-                          "typeAnnotation": {
-                            "type": "TsArrayType",
+                          "label": null,
+                          "ty": {
+                            "type": "TsRestType",
                             "span": {
-                              "start": 2068,
+                              "start": 2065,
                               "end": 2077,
                               "ctxt": 0
                             },
-                            "elemType": {
-                              "type": "TsKeywordType",
+                            "typeAnnotation": {
+                              "type": "TsArrayType",
                               "span": {
                                 "start": 2068,
-                                "end": 2075,
+                                "end": 2077,
                                 "ctxt": 0
                               },
-                              "kind": "boolean"
+                              "elemType": {
+                                "type": "TsKeywordType",
+                                "span": {
+                                  "start": 2068,
+                                  "end": 2075,
+                                  "ctxt": 0
+                                },
+                                "kind": "boolean"
+                              }
                             }
                           }
                         }
@@ -5952,45 +6177,72 @@
                       },
                       "elemTypes": [
                         {
-                          "type": "TsKeywordType",
+                          "type": "TsTupleElement",
                           "span": {
                             "start": 2225,
                             "end": 2231,
                             "ctxt": 0
                           },
-                          "kind": "number"
+                          "label": null,
+                          "ty": {
+                            "type": "TsKeywordType",
+                            "span": {
+                              "start": 2225,
+                              "end": 2231,
+                              "ctxt": 0
+                            },
+                            "kind": "number"
+                          }
                         },
                         {
-                          "type": "TsKeywordType",
+                          "type": "TsTupleElement",
                           "span": {
                             "start": 2233,
                             "end": 2239,
                             "ctxt": 0
                           },
-                          "kind": "string"
+                          "label": null,
+                          "ty": {
+                            "type": "TsKeywordType",
+                            "span": {
+                              "start": 2233,
+                              "end": 2239,
+                              "ctxt": 0
+                            },
+                            "kind": "string"
+                          }
                         },
                         {
-                          "type": "TsRestType",
+                          "type": "TsTupleElement",
                           "span": {
                             "start": 2241,
                             "end": 2253,
                             "ctxt": 0
                           },
-                          "typeAnnotation": {
-                            "type": "TsArrayType",
+                          "label": null,
+                          "ty": {
+                            "type": "TsRestType",
                             "span": {
-                              "start": 2244,
+                              "start": 2241,
                               "end": 2253,
                               "ctxt": 0
                             },
-                            "elemType": {
-                              "type": "TsKeywordType",
+                            "typeAnnotation": {
+                              "type": "TsArrayType",
                               "span": {
                                 "start": 2244,
-                                "end": 2251,
+                                "end": 2253,
                                 "ctxt": 0
                               },
-                              "kind": "boolean"
+                              "elemType": {
+                                "type": "TsKeywordType",
+                                "span": {
+                                  "start": 2244,
+                                  "end": 2251,
+                                  "ctxt": 0
+                                },
+                                "kind": "boolean"
+                              }
                             }
                           }
                         }
@@ -6280,36 +6532,54 @@
               },
               "elemTypes": [
                 {
-                  "type": "TsKeywordType",
+                  "type": "TsTupleElement",
                   "span": {
                     "start": 2355,
                     "end": 2361,
                     "ctxt": 0
                   },
-                  "kind": "number"
+                  "label": null,
+                  "ty": {
+                    "type": "TsKeywordType",
+                    "span": {
+                      "start": 2355,
+                      "end": 2361,
+                      "ctxt": 0
+                    },
+                    "kind": "number"
+                  }
                 },
                 {
-                  "type": "TsRestType",
+                  "type": "TsTupleElement",
                   "span": {
                     "start": 2363,
                     "end": 2375,
                     "ctxt": 0
                   },
-                  "typeAnnotation": {
-                    "type": "TsArrayType",
+                  "label": null,
+                  "ty": {
+                    "type": "TsRestType",
                     "span": {
-                      "start": 2366,
+                      "start": 2363,
                       "end": 2375,
                       "ctxt": 0
                     },
-                    "elemType": {
-                      "type": "TsKeywordType",
+                    "typeAnnotation": {
+                      "type": "TsArrayType",
                       "span": {
                         "start": 2366,
-                        "end": 2373,
+                        "end": 2375,
                         "ctxt": 0
                       },
-                      "kind": "boolean"
+                      "elemType": {
+                        "type": "TsKeywordType",
+                        "span": {
+                          "start": 2366,
+                          "end": 2373,
+                          "ctxt": 0
+                        },
+                        "kind": "boolean"
+                      }
                     }
                   }
                 }

@@ -611,19 +611,37 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsThisType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 223,
                       "end": 227,
                       "ctxt": 0
+                    },
+                    "label": null,
+                    "ty": {
+                      "type": "TsThisType",
+                      "span": {
+                        "start": 223,
+                        "end": 227,
+                        "ctxt": 0
+                      }
                     }
                   },
                   {
-                    "type": "TsThisType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 229,
                       "end": 233,
                       "ctxt": 0
+                    },
+                    "label": null,
+                    "ty": {
+                      "type": "TsThisType",
+                      "span": {
+                        "start": 229,
+                        "end": 233,
+                        "ctxt": 0
+                      }
                     }
                   }
                 ]

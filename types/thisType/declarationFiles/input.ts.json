@@ -69,6 +69,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -571,6 +572,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -608,19 +610,37 @@
               },
               "elemTypes": [
                 {
-                  "type": "TsThisType",
+                  "type": "TsTupleElement",
                   "span": {
                     "start": 238,
                     "end": 242,
                     "ctxt": 0
+                  },
+                  "label": null,
+                  "ty": {
+                    "type": "TsThisType",
+                    "span": {
+                      "start": 238,
+                      "end": 242,
+                      "ctxt": 0
+                    }
                   }
                 },
                 {
-                  "type": "TsThisType",
+                  "type": "TsTupleElement",
                   "span": {
                     "start": 244,
                     "end": 248,
                     "ctxt": 0
+                  },
+                  "label": null,
+                  "ty": {
+                    "type": "TsThisType",
+                    "span": {
+                      "start": 244,
+                      "end": 248,
+                      "ctxt": 0
+                    }
                   }
                 }
               ]
@@ -633,6 +653,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -707,6 +728,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -781,6 +803,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -849,6 +872,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -938,6 +962,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -1027,6 +1052,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -1100,6 +1126,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -1217,6 +1244,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -1335,6 +1363,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -1423,6 +1452,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -1472,6 +1502,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -1545,6 +1576,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -1594,6 +1626,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {

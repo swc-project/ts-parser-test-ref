@@ -9807,24 +9807,33 @@
                     },
                     "elemTypes": [
                       {
-                        "type": "TsTypeReference",
+                        "type": "TsTupleElement",
                         "span": {
                           "start": 4105,
                           "end": 4106,
                           "ctxt": 0
                         },
-                        "typeName": {
-                          "type": "Identifier",
+                        "label": null,
+                        "ty": {
+                          "type": "TsTypeReference",
                           "span": {
                             "start": 4105,
                             "end": 4106,
                             "ctxt": 0
                           },
-                          "value": "K",
-                          "typeAnnotation": null,
-                          "optional": false
-                        },
-                        "typeParams": null
+                          "typeName": {
+                            "type": "Identifier",
+                            "span": {
+                              "start": 4105,
+                              "end": 4106,
+                              "ctxt": 0
+                            },
+                            "value": "K",
+                            "typeAnnotation": null,
+                            "optional": false
+                          },
+                          "typeParams": null
+                        }
                       }
                     ]
                   }

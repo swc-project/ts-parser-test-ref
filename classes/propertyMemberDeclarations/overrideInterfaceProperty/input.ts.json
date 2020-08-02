@@ -295,44 +295,62 @@
                                 },
                                 "elemTypes": [
                                   {
-                                    "type": "TsTypeReference",
+                                    "type": "TsTupleElement",
                                     "span": {
                                       "start": 167,
                                       "end": 168,
                                       "ctxt": 0
                                     },
-                                    "typeName": {
-                                      "type": "Identifier",
+                                    "label": null,
+                                    "ty": {
+                                      "type": "TsTypeReference",
                                       "span": {
                                         "start": 167,
                                         "end": 168,
                                         "ctxt": 0
                                       },
-                                      "value": "K",
-                                      "typeAnnotation": null,
-                                      "optional": false
-                                    },
-                                    "typeParams": null
+                                      "typeName": {
+                                        "type": "Identifier",
+                                        "span": {
+                                          "start": 167,
+                                          "end": 168,
+                                          "ctxt": 0
+                                        },
+                                        "value": "K",
+                                        "typeAnnotation": null,
+                                        "optional": false
+                                      },
+                                      "typeParams": null
+                                    }
                                   },
                                   {
-                                    "type": "TsTypeReference",
+                                    "type": "TsTupleElement",
                                     "span": {
                                       "start": 170,
                                       "end": 171,
                                       "ctxt": 0
                                     },
-                                    "typeName": {
-                                      "type": "Identifier",
+                                    "label": null,
+                                    "ty": {
+                                      "type": "TsTypeReference",
                                       "span": {
                                         "start": 170,
                                         "end": 171,
                                         "ctxt": 0
                                       },
-                                      "value": "V",
-                                      "typeAnnotation": null,
-                                      "optional": false
-                                    },
-                                    "typeParams": null
+                                      "typeName": {
+                                        "type": "Identifier",
+                                        "span": {
+                                          "start": 170,
+                                          "end": 171,
+                                          "ctxt": 0
+                                        },
+                                        "value": "V",
+                                        "typeAnnotation": null,
+                                        "optional": false
+                                      },
+                                      "typeParams": null
+                                    }
                                   }
                                 ]
                               }
@@ -795,6 +813,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],

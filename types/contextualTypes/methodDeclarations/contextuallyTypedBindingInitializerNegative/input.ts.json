@@ -467,14 +467,22 @@
               {
                 "type": "KeyValuePatternProperty",
                 "key": {
-                  "type": "StringLiteral",
+                  "type": "Computed",
                   "span": {
-                    "start": 196,
-                    "end": 202,
+                    "start": 195,
+                    "end": 203,
                     "ctxt": 0
                   },
-                  "value": "show",
-                  "hasEscape": false
+                  "expression": {
+                    "type": "StringLiteral",
+                    "span": {
+                      "start": 196,
+                      "end": 202,
+                      "ctxt": 0
+                    },
+                    "value": "show",
+                    "hasEscape": false
+                  }
                 },
                 "value": {
                   "type": "AssignmentPattern",
@@ -1228,22 +1236,40 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 536,
                       "end": 542,
                       "ctxt": 0
                     },
-                    "kind": "string"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 536,
+                        "end": 542,
+                        "ctxt": 0
+                      },
+                      "kind": "string"
+                    }
                   },
                   {
-                    "type": "TsKeywordType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 544,
                       "end": 550,
                       "ctxt": 0
                     },
-                    "kind": "number"
+                    "label": null,
+                    "ty": {
+                      "type": "TsKeywordType",
+                      "span": {
+                        "start": 544,
+                        "end": 550,
+                        "ctxt": 0
+                      },
+                      "kind": "number"
+                    }
                   }
                 ]
               }

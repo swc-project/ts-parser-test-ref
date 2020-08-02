@@ -386,6 +386,14 @@
           "accessibility": null,
           "isAbstract": false,
           "isOptional": false
+        },
+        {
+          "type": "EmptyStatement",
+          "span": {
+            "start": 278,
+            "end": 279,
+            "ctxt": 0
+          }
         }
       ],
       "superClass": {
@@ -486,6 +494,14 @@
           "accessibility": null,
           "isAbstract": false,
           "isOptional": false
+        },
+        {
+          "type": "EmptyStatement",
+          "span": {
+            "start": 345,
+            "end": 346,
+            "ctxt": 0
+          }
         }
       ],
       "superClass": {
@@ -1508,6 +1524,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -1647,6 +1664,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -3309,6 +3327,14 @@
           "isOptional": false
         },
         {
+          "type": "EmptyStatement",
+          "span": {
+            "start": 1972,
+            "end": 1973,
+            "ctxt": 0
+          }
+        },
+        {
           "type": "ClassMethod",
           "span": {
             "start": 1978,
@@ -3442,6 +3468,14 @@
           "accessibility": null,
           "isAbstract": false,
           "isOptional": false
+        },
+        {
+          "type": "EmptyStatement",
+          "span": {
+            "start": 2055,
+            "end": 2056,
+            "ctxt": 0
+          }
         }
       ],
       "superClass": null,

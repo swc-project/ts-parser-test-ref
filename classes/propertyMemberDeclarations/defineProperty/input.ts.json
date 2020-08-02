@@ -148,6 +148,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -177,6 +178,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -206,6 +208,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -242,6 +245,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -279,6 +283,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -451,6 +456,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -480,6 +486,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": true,
           "definite": false
         }
       ],
@@ -537,6 +544,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -590,10 +598,11 @@
           "isStatic": false,
           "decorators": [],
           "computed": false,
-          "accessibility": null,
+          "accessibility": "public",
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": true,
           "definite": false
         },
         {
@@ -650,6 +659,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -803,6 +813,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],

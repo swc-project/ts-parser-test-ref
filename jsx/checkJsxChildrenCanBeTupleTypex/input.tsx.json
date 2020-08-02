@@ -114,72 +114,90 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsTypeReference",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 175,
                       "end": 190,
                       "ctxt": 0
                     },
-                    "typeName": {
-                      "type": "TsQualifiedName",
-                      "left": {
-                        "type": "Identifier",
-                        "span": {
-                          "start": 175,
-                          "end": 180,
-                          "ctxt": 0
-                        },
-                        "value": "React",
-                        "typeAnnotation": null,
-                        "optional": false
+                    "label": null,
+                    "ty": {
+                      "type": "TsTypeReference",
+                      "span": {
+                        "start": 175,
+                        "end": 190,
+                        "ctxt": 0
                       },
-                      "right": {
-                        "type": "Identifier",
-                        "span": {
-                          "start": 181,
-                          "end": 190,
-                          "ctxt": 0
+                      "typeName": {
+                        "type": "TsQualifiedName",
+                        "left": {
+                          "type": "Identifier",
+                          "span": {
+                            "start": 175,
+                            "end": 180,
+                            "ctxt": 0
+                          },
+                          "value": "React",
+                          "typeAnnotation": null,
+                          "optional": false
                         },
-                        "value": "ReactNode",
-                        "typeAnnotation": null,
-                        "optional": false
-                      }
-                    },
-                    "typeParams": null
+                        "right": {
+                          "type": "Identifier",
+                          "span": {
+                            "start": 181,
+                            "end": 190,
+                            "ctxt": 0
+                          },
+                          "value": "ReactNode",
+                          "typeAnnotation": null,
+                          "optional": false
+                        }
+                      },
+                      "typeParams": null
+                    }
                   },
                   {
-                    "type": "TsTypeReference",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 192,
                       "end": 207,
                       "ctxt": 0
                     },
-                    "typeName": {
-                      "type": "TsQualifiedName",
-                      "left": {
-                        "type": "Identifier",
-                        "span": {
-                          "start": 192,
-                          "end": 197,
-                          "ctxt": 0
-                        },
-                        "value": "React",
-                        "typeAnnotation": null,
-                        "optional": false
+                    "label": null,
+                    "ty": {
+                      "type": "TsTypeReference",
+                      "span": {
+                        "start": 192,
+                        "end": 207,
+                        "ctxt": 0
                       },
-                      "right": {
-                        "type": "Identifier",
-                        "span": {
-                          "start": 198,
-                          "end": 207,
-                          "ctxt": 0
+                      "typeName": {
+                        "type": "TsQualifiedName",
+                        "left": {
+                          "type": "Identifier",
+                          "span": {
+                            "start": 192,
+                            "end": 197,
+                            "ctxt": 0
+                          },
+                          "value": "React",
+                          "typeAnnotation": null,
+                          "optional": false
                         },
-                        "value": "ReactNode",
-                        "typeAnnotation": null,
-                        "optional": false
-                      }
-                    },
-                    "typeParams": null
+                        "right": {
+                          "type": "Identifier",
+                          "span": {
+                            "start": 198,
+                            "end": 207,
+                            "ctxt": 0
+                          },
+                          "value": "ReactNode",
+                          "typeAnnotation": null,
+                          "optional": false
+                        }
+                      },
+                      "typeParams": null
+                    }
                   }
                 ]
               }

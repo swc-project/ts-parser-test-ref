@@ -123,7 +123,7 @@
               "end": 152,
               "ctxt": 0
             },
-            "value": 9.671406556917008e24
+            "value": 9.671406556917009e24
           },
           "definite": false
         }
@@ -440,7 +440,7 @@
                     "end": 8464,
                     "ctxt": 0
                   },
-                  "value": 9.671406556917008e24
+                  "value": 9.671406556917009e24
                 },
                 "value": {
                   "type": "BooleanLiteral",

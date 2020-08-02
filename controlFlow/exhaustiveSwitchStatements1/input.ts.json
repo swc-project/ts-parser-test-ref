@@ -6951,6 +6951,11 @@
                   "end": 4100,
                   "ctxt": 0
                 },
+                "questionDotToken": {
+                  "start": 4092,
+                  "end": 4093,
+                  "ctxt": 0
+                },
                 "expr": {
                   "type": "MemberExpression",
                   "span": {

@@ -125,44 +125,62 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsTypeReference",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 33,
                       "end": 34,
                       "ctxt": 0
                     },
-                    "typeName": {
-                      "type": "Identifier",
+                    "label": null,
+                    "ty": {
+                      "type": "TsTypeReference",
                       "span": {
                         "start": 33,
                         "end": 34,
                         "ctxt": 0
                       },
-                      "value": "T",
-                      "typeAnnotation": null,
-                      "optional": false
-                    },
-                    "typeParams": null
+                      "typeName": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 33,
+                          "end": 34,
+                          "ctxt": 0
+                        },
+                        "value": "T",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "typeParams": null
+                    }
                   },
                   {
-                    "type": "TsTypeReference",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 36,
                       "end": 37,
                       "ctxt": 0
                     },
-                    "typeName": {
-                      "type": "Identifier",
+                    "label": null,
+                    "ty": {
+                      "type": "TsTypeReference",
                       "span": {
                         "start": 36,
                         "end": 37,
                         "ctxt": 0
                       },
-                      "value": "U",
-                      "typeAnnotation": null,
-                      "optional": false
-                    },
-                    "typeParams": null
+                      "typeName": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 36,
+                          "end": 37,
+                          "ctxt": 0
+                        },
+                        "value": "U",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "typeParams": null
+                    }
                   }
                 ]
               }

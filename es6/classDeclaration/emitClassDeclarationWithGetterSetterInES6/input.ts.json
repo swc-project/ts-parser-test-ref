@@ -70,6 +70,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -260,14 +261,22 @@
             "ctxt": 0
           },
           "key": {
-            "type": "StringLiteral",
+            "type": "Computed",
             "span": {
-              "start": 179,
-              "end": 193,
+              "start": 178,
+              "end": 194,
               "ctxt": 0
             },
-            "value": "computedname",
-            "hasEscape": false
+            "expression": {
+              "type": "StringLiteral",
+              "span": {
+                "start": 179,
+                "end": 193,
+                "ctxt": 0
+              },
+              "value": "computedname",
+              "hasEscape": false
+            }
           },
           "function": {
             "params": [],
@@ -324,14 +333,22 @@
             "ctxt": 0
           },
           "key": {
-            "type": "StringLiteral",
+            "type": "Computed",
             "span": {
-              "start": 233,
-              "end": 248,
+              "start": 232,
+              "end": 249,
               "ctxt": 0
             },
-            "value": "computedname1",
-            "hasEscape": false
+            "expression": {
+              "type": "StringLiteral",
+              "span": {
+                "start": 233,
+                "end": 248,
+                "ctxt": 0
+              },
+              "value": "computedname1",
+              "hasEscape": false
+            }
           },
           "function": {
             "params": [],
@@ -388,14 +405,22 @@
             "ctxt": 0
           },
           "key": {
-            "type": "StringLiteral",
+            "type": "Computed",
             "span": {
-              "start": 288,
-              "end": 303,
+              "start": 287,
+              "end": 304,
               "ctxt": 0
             },
-            "value": "computedname2",
-            "hasEscape": false
+            "expression": {
+              "type": "StringLiteral",
+              "span": {
+                "start": 288,
+                "end": 303,
+                "ctxt": 0
+              },
+              "value": "computedname2",
+              "hasEscape": false
+            }
           },
           "function": {
             "params": [],
@@ -452,14 +477,22 @@
             "ctxt": 0
           },
           "key": {
-            "type": "StringLiteral",
+            "type": "Computed",
             "span": {
-              "start": 344,
-              "end": 359,
+              "start": 343,
+              "end": 360,
               "ctxt": 0
             },
-            "value": "computedname3",
-            "hasEscape": false
+            "expression": {
+              "type": "StringLiteral",
+              "span": {
+                "start": 344,
+                "end": 359,
+                "ctxt": 0
+              },
+              "value": "computedname3",
+              "hasEscape": false
+            }
           },
           "function": {
             "params": [
@@ -534,14 +567,22 @@
             "ctxt": 0
           },
           "key": {
-            "type": "StringLiteral",
+            "type": "Computed",
             "span": {
-              "start": 386,
-              "end": 401,
+              "start": 385,
+              "end": 402,
               "ctxt": 0
             },
-            "value": "computedname4",
-            "hasEscape": false
+            "expression": {
+              "type": "StringLiteral",
+              "span": {
+                "start": 386,
+                "end": 401,
+                "ctxt": 0
+              },
+              "value": "computedname4",
+              "hasEscape": false
+            }
           },
           "function": {
             "params": [
@@ -782,14 +823,22 @@
             "ctxt": 0
           },
           "key": {
-            "type": "StringLiteral",
+            "type": "Computed",
             "span": {
-              "start": 500,
-              "end": 514,
+              "start": 499,
+              "end": 515,
               "ctxt": 0
             },
-            "value": "computedname",
-            "hasEscape": false
+            "expression": {
+              "type": "StringLiteral",
+              "span": {
+                "start": 500,
+                "end": 514,
+                "ctxt": 0
+              },
+              "value": "computedname",
+              "hasEscape": false
+            }
           },
           "function": {
             "params": [

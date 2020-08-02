@@ -618,6 +618,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -686,24 +687,33 @@
                           },
                           "elemTypes": [
                             {
-                              "type": "TsTypeReference",
+                              "type": "TsTupleElement",
                               "span": {
                                 "start": 401,
                                 "end": 402,
                                 "ctxt": 0
                               },
-                              "typeName": {
-                                "type": "Identifier",
+                              "label": null,
+                              "ty": {
+                                "type": "TsTypeReference",
                                 "span": {
                                   "start": 401,
                                   "end": 402,
                                   "ctxt": 0
                                 },
-                                "value": "T",
-                                "typeAnnotation": null,
-                                "optional": false
-                              },
-                              "typeParams": null
+                                "typeName": {
+                                  "type": "Identifier",
+                                  "span": {
+                                    "start": 401,
+                                    "end": 402,
+                                    "ctxt": 0
+                                  },
+                                  "value": "T",
+                                  "typeAnnotation": null,
+                                  "optional": false
+                                },
+                                "typeParams": null
+                              }
                             }
                           ]
                         },
@@ -716,13 +726,22 @@
                           },
                           "elemTypes": [
                             {
-                              "type": "TsKeywordType",
+                              "type": "TsTupleElement",
                               "span": {
                                 "start": 413,
                                 "end": 419,
                                 "ctxt": 0
                               },
-                              "kind": "string"
+                              "label": null,
+                              "ty": {
+                                "type": "TsKeywordType",
+                                "span": {
+                                  "start": 413,
+                                  "end": 419,
+                                  "ctxt": 0
+                                },
+                                "kind": "string"
+                              }
                             }
                           ]
                         },

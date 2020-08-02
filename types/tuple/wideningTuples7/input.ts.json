@@ -103,13 +103,22 @@
                             },
                             "elemTypes": [
                               {
-                                "type": "TsKeywordType",
+                                "type": "TsTupleElement",
                                 "span": {
                                   "start": 73,
                                   "end": 79,
                                   "ctxt": 0
                                 },
-                                "kind": "string"
+                                "label": null,
+                                "ty": {
+                                  "type": "TsKeywordType",
+                                  "span": {
+                                    "start": 73,
+                                    "end": 79,
+                                    "ctxt": 0
+                                  },
+                                  "kind": "string"
+                                }
                               }
                             ]
                           }

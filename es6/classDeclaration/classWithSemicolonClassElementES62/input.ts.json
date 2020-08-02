@@ -26,7 +26,24 @@
         "ctxt": 0
       },
       "decorators": [],
-      "body": [],
+      "body": [
+        {
+          "type": "EmptyStatement",
+          "span": {
+            "start": 29,
+            "end": 30,
+            "ctxt": 0
+          }
+        },
+        {
+          "type": "EmptyStatement",
+          "span": {
+            "start": 35,
+            "end": 36,
+            "ctxt": 0
+          }
+        }
+      ],
       "superClass": null,
       "isAbstract": false,
       "typeParams": null,

@@ -54,6 +54,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -111,6 +112,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -140,6 +142,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -178,14 +181,22 @@
             "ctxt": 0
           },
           "key": {
-            "type": "StringLiteral",
+            "type": "Computed",
             "span": {
-              "start": 72,
-              "end": 78,
+              "start": 71,
+              "end": 79,
               "ctxt": 0
             },
-            "value": "get1",
-            "hasEscape": false
+            "expression": {
+              "type": "StringLiteral",
+              "span": {
+                "start": 72,
+                "end": 78,
+                "ctxt": 0
+              },
+              "value": "get1",
+              "hasEscape": false
+            }
           },
           "function": {
             "params": [],
@@ -347,14 +358,22 @@
             "ctxt": 0
           },
           "key": {
-            "type": "StringLiteral",
+            "type": "Computed",
             "span": {
-              "start": 243,
-              "end": 249,
+              "start": 242,
+              "end": 250,
               "ctxt": 0
             },
-            "value": "set1",
-            "hasEscape": false
+            "expression": {
+              "type": "StringLiteral",
+              "span": {
+                "start": 243,
+                "end": 249,
+                "ctxt": 0
+              },
+              "value": "set1",
+              "hasEscape": false
+            }
           },
           "function": {
             "params": [

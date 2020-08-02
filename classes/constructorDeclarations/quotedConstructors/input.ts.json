@@ -275,14 +275,22 @@
             "ctxt": 0
           },
           "key": {
-            "type": "StringLiteral",
+            "type": "Computed",
             "span": {
-              "start": 151,
-              "end": 164,
+              "start": 150,
+              "end": 165,
               "ctxt": 0
             },
-            "value": "constructor",
-            "hasEscape": false
+            "expression": {
+              "type": "StringLiteral",
+              "span": {
+                "start": 151,
+                "end": 164,
+                "ctxt": 0
+              },
+              "value": "constructor",
+              "hasEscape": false
+            }
           },
           "function": {
             "params": [],

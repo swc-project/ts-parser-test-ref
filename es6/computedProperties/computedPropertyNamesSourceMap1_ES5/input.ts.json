@@ -35,14 +35,22 @@
             "ctxt": 0
           },
           "key": {
-            "type": "StringLiteral",
+            "type": "Computed",
             "span": {
-              "start": 51,
-              "end": 58,
+              "start": 50,
+              "end": 59,
               "ctxt": 0
             },
-            "value": "hello",
-            "hasEscape": false
+            "expression": {
+              "type": "StringLiteral",
+              "span": {
+                "start": 51,
+                "end": 58,
+                "ctxt": 0
+              },
+              "value": "hello",
+              "hasEscape": false
+            }
           },
           "function": {
             "params": [],
@@ -89,14 +97,22 @@
             "ctxt": 0
           },
           "key": {
-            "type": "StringLiteral",
+            "type": "Computed",
             "span": {
-              "start": 97,
-              "end": 106,
+              "start": 96,
+              "end": 107,
               "ctxt": 0
             },
-            "value": "goodbye",
-            "hasEscape": false
+            "expression": {
+              "type": "StringLiteral",
+              "span": {
+                "start": 97,
+                "end": 106,
+                "ctxt": 0
+              },
+              "value": "goodbye",
+              "hasEscape": false
+            }
           },
           "function": {
             "params": [],

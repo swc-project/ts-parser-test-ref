@@ -3223,94 +3223,112 @@
                       },
                       "elemTypes": [
                         {
-                          "type": "TsUnionType",
+                          "type": "TsTupleElement",
                           "span": {
                             "start": 1166,
                             "end": 1171,
                             "ctxt": 0
                           },
-                          "types": [
-                            {
-                              "type": "TsLiteralType",
-                              "span": {
-                                "start": 1166,
-                                "end": 1167,
-                                "ctxt": 0
-                              },
-                              "literal": {
-                                "type": "NumericLiteral",
+                          "label": null,
+                          "ty": {
+                            "type": "TsUnionType",
+                            "span": {
+                              "start": 1166,
+                              "end": 1171,
+                              "ctxt": 0
+                            },
+                            "types": [
+                              {
+                                "type": "TsLiteralType",
                                 "span": {
                                   "start": 1166,
                                   "end": 1167,
                                   "ctxt": 0
                                 },
-                                "value": 1.0
-                              }
-                            },
-                            {
-                              "type": "TsLiteralType",
-                              "span": {
-                                "start": 1170,
-                                "end": 1171,
-                                "ctxt": 0
+                                "literal": {
+                                  "type": "NumericLiteral",
+                                  "span": {
+                                    "start": 1166,
+                                    "end": 1167,
+                                    "ctxt": 0
+                                  },
+                                  "value": 1.0
+                                }
                               },
-                              "literal": {
-                                "type": "NumericLiteral",
+                              {
+                                "type": "TsLiteralType",
                                 "span": {
                                   "start": 1170,
                                   "end": 1171,
                                   "ctxt": 0
                                 },
-                                "value": 2.0
+                                "literal": {
+                                  "type": "NumericLiteral",
+                                  "span": {
+                                    "start": 1170,
+                                    "end": 1171,
+                                    "ctxt": 0
+                                  },
+                                  "value": 2.0
+                                }
                               }
-                            }
-                          ]
+                            ]
+                          }
                         },
                         {
-                          "type": "TsUnionType",
+                          "type": "TsTupleElement",
                           "span": {
                             "start": 1173,
                             "end": 1186,
                             "ctxt": 0
                           },
-                          "types": [
-                            {
-                              "type": "TsLiteralType",
-                              "span": {
-                                "start": 1173,
-                                "end": 1178,
-                                "ctxt": 0
-                              },
-                              "literal": {
-                                "type": "StringLiteral",
+                          "label": null,
+                          "ty": {
+                            "type": "TsUnionType",
+                            "span": {
+                              "start": 1173,
+                              "end": 1186,
+                              "ctxt": 0
+                            },
+                            "types": [
+                              {
+                                "type": "TsLiteralType",
                                 "span": {
                                   "start": 1173,
                                   "end": 1178,
                                   "ctxt": 0
                                 },
-                                "value": "foo",
-                                "hasEscape": false
-                              }
-                            },
-                            {
-                              "type": "TsLiteralType",
-                              "span": {
-                                "start": 1181,
-                                "end": 1186,
-                                "ctxt": 0
+                                "literal": {
+                                  "type": "StringLiteral",
+                                  "span": {
+                                    "start": 1173,
+                                    "end": 1178,
+                                    "ctxt": 0
+                                  },
+                                  "value": "foo",
+                                  "hasEscape": false
+                                }
                               },
-                              "literal": {
-                                "type": "StringLiteral",
+                              {
+                                "type": "TsLiteralType",
                                 "span": {
                                   "start": 1181,
                                   "end": 1186,
                                   "ctxt": 0
                                 },
-                                "value": "bar",
-                                "hasEscape": false
+                                "literal": {
+                                  "type": "StringLiteral",
+                                  "span": {
+                                    "start": 1181,
+                                    "end": 1186,
+                                    "ctxt": 0
+                                  },
+                                  "value": "bar",
+                                  "hasEscape": false
+                                }
                               }
-                            }
-                          ]
+                            ]
+                          }
                         }
                       ]
                     }
@@ -3865,6 +3883,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -3911,6 +3930,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -3966,6 +3986,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -4004,6 +4025,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -4042,6 +4064,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -4099,6 +4122,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -4136,6 +4160,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -4195,6 +4220,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -4232,6 +4258,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": true,
+          "declare": false,
           "definite": false
         },
         {
@@ -4278,6 +4305,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": true,
+          "declare": false,
           "definite": false
         },
         {
@@ -4333,6 +4361,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": true,
+          "declare": false,
           "definite": false
         },
         {
@@ -4371,6 +4400,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": true,
+          "declare": false,
           "definite": false
         },
         {
@@ -4409,6 +4439,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": true,
+          "declare": false,
           "definite": false
         },
         {
@@ -4466,6 +4497,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": true,
+          "declare": false,
           "definite": false
         },
         {
@@ -4503,6 +4535,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": true,
+          "declare": false,
           "definite": false
         },
         {
@@ -4562,6 +4595,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": true,
+          "declare": false,
           "definite": false
         }
       ],
@@ -5581,38 +5615,56 @@
                       },
                       "elemTypes": [
                         {
-                          "type": "TsLiteralType",
+                          "type": "TsTupleElement",
                           "span": {
                             "start": 2046,
                             "end": 2047,
                             "ctxt": 0
                           },
-                          "literal": {
-                            "type": "NumericLiteral",
+                          "label": null,
+                          "ty": {
+                            "type": "TsLiteralType",
                             "span": {
                               "start": 2046,
                               "end": 2047,
                               "ctxt": 0
                             },
-                            "value": 1.0
+                            "literal": {
+                              "type": "NumericLiteral",
+                              "span": {
+                                "start": 2046,
+                                "end": 2047,
+                                "ctxt": 0
+                              },
+                              "value": 1.0
+                            }
                           }
                         },
                         {
-                          "type": "TsLiteralType",
+                          "type": "TsTupleElement",
                           "span": {
                             "start": 2049,
                             "end": 2054,
                             "ctxt": 0
                           },
-                          "literal": {
-                            "type": "StringLiteral",
+                          "label": null,
+                          "ty": {
+                            "type": "TsLiteralType",
                             "span": {
                               "start": 2049,
                               "end": 2054,
                               "ctxt": 0
                             },
-                            "value": "foo",
-                            "hasEscape": false
+                            "literal": {
+                              "type": "StringLiteral",
+                              "span": {
+                                "start": 2049,
+                                "end": 2054,
+                                "ctxt": 0
+                              },
+                              "value": "foo",
+                              "hasEscape": false
+                            }
                           }
                         }
                       ]
@@ -5902,38 +5954,56 @@
                       },
                       "elemTypes": [
                         {
-                          "type": "TsLiteralType",
+                          "type": "TsTupleElement",
                           "span": {
                             "start": 2148,
                             "end": 2149,
                             "ctxt": 0
                           },
-                          "literal": {
-                            "type": "NumericLiteral",
+                          "label": null,
+                          "ty": {
+                            "type": "TsLiteralType",
                             "span": {
                               "start": 2148,
                               "end": 2149,
                               "ctxt": 0
                             },
-                            "value": 1.0
+                            "literal": {
+                              "type": "NumericLiteral",
+                              "span": {
+                                "start": 2148,
+                                "end": 2149,
+                                "ctxt": 0
+                              },
+                              "value": 1.0
+                            }
                           }
                         },
                         {
-                          "type": "TsLiteralType",
+                          "type": "TsTupleElement",
                           "span": {
                             "start": 2151,
                             "end": 2156,
                             "ctxt": 0
                           },
-                          "literal": {
-                            "type": "StringLiteral",
+                          "label": null,
+                          "ty": {
+                            "type": "TsLiteralType",
                             "span": {
                               "start": 2151,
                               "end": 2156,
                               "ctxt": 0
                             },
-                            "value": "foo",
-                            "hasEscape": false
+                            "literal": {
+                              "type": "StringLiteral",
+                              "span": {
+                                "start": 2151,
+                                "end": 2156,
+                                "ctxt": 0
+                              },
+                              "value": "foo",
+                              "hasEscape": false
+                            }
                           }
                         }
                       ]

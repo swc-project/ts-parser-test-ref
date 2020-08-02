@@ -389,22 +389,40 @@
                     },
                     "elemTypes": [
                       {
-                        "type": "TsKeywordType",
+                        "type": "TsTupleElement",
                         "span": {
                           "start": 212,
                           "end": 218,
                           "ctxt": 0
                         },
-                        "kind": "number"
+                        "label": null,
+                        "ty": {
+                          "type": "TsKeywordType",
+                          "span": {
+                            "start": 212,
+                            "end": 218,
+                            "ctxt": 0
+                          },
+                          "kind": "number"
+                        }
                       },
                       {
-                        "type": "TsKeywordType",
+                        "type": "TsTupleElement",
                         "span": {
                           "start": 220,
                           "end": 226,
                           "ctxt": 0
                         },
-                        "kind": "string"
+                        "label": null,
+                        "ty": {
+                          "type": "TsKeywordType",
+                          "span": {
+                            "start": 220,
+                            "end": 226,
+                            "ctxt": 0
+                          },
+                          "kind": "string"
+                        }
                       }
                     ]
                   },
@@ -1652,14 +1670,22 @@
                     {
                       "type": "KeyValuePatternProperty",
                       "key": {
-                        "type": "StringLiteral",
+                        "type": "Computed",
                         "span": {
-                          "start": 753,
-                          "end": 756,
+                          "start": 752,
+                          "end": 757,
                           "ctxt": 0
                         },
-                        "value": "x",
-                        "hasEscape": false
+                        "expression": {
+                          "type": "StringLiteral",
+                          "span": {
+                            "start": 753,
+                            "end": 756,
+                            "ctxt": 0
+                          },
+                          "value": "x",
+                          "hasEscape": false
+                        }
                       },
                       "value": {
                         "type": "Identifier",
@@ -1822,29 +1848,47 @@
         },
         "elemTypes": [
           {
-            "type": "TsKeywordType",
+            "type": "TsTupleElement",
             "span": {
               "start": 860,
               "end": 866,
               "ctxt": 0
             },
-            "kind": "string"
+            "label": null,
+            "ty": {
+              "type": "TsKeywordType",
+              "span": {
+                "start": 860,
+                "end": 866,
+                "ctxt": 0
+              },
+              "kind": "string"
+            }
           },
           {
-            "type": "TsOptionalType",
+            "type": "TsTupleElement",
             "span": {
               "start": 868,
               "end": 875,
               "ctxt": 0
             },
-            "typeAnnotation": {
-              "type": "TsKeywordType",
+            "label": null,
+            "ty": {
+              "type": "TsOptionalType",
               "span": {
                 "start": 868,
-                "end": 874,
+                "end": 875,
                 "ctxt": 0
               },
-              "kind": "string"
+              "typeAnnotation": {
+                "type": "TsKeywordType",
+                "span": {
+                  "start": 868,
+                  "end": 874,
+                  "ctxt": 0
+                },
+                "kind": "string"
+              }
             }
           }
         ]

@@ -194,6 +194,11 @@
                     "end": 198,
                     "ctxt": 0
                   },
+                  "questionDotToken": {
+                    "start": 195,
+                    "end": 196,
+                    "ctxt": 0
+                  },
                   "expr": {
                     "type": "MemberExpression",
                     "span": {
@@ -386,6 +391,11 @@
                   "span": {
                     "start": 239,
                     "end": 245,
+                    "ctxt": 0
+                  },
+                  "questionDotToken": {
+                    "start": 242,
+                    "end": 243,
                     "ctxt": 0
                   },
                   "expr": {

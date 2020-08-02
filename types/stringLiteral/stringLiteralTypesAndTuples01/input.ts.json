@@ -288,60 +288,87 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsLiteralType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 184,
                       "end": 189,
                       "ctxt": 0
                     },
-                    "literal": {
-                      "type": "StringLiteral",
+                    "label": null,
+                    "ty": {
+                      "type": "TsLiteralType",
                       "span": {
                         "start": 184,
                         "end": 189,
                         "ctxt": 0
                       },
-                      "value": "I'm",
-                      "hasEscape": false
+                      "literal": {
+                        "type": "StringLiteral",
+                        "span": {
+                          "start": 184,
+                          "end": 189,
+                          "ctxt": 0
+                        },
+                        "value": "I'm",
+                        "hasEscape": false
+                      }
                     }
                   },
                   {
-                    "type": "TsLiteralType",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 191,
                       "end": 194,
                       "ctxt": 0
                     },
-                    "literal": {
-                      "type": "StringLiteral",
+                    "label": null,
+                    "ty": {
+                      "type": "TsLiteralType",
                       "span": {
                         "start": 191,
                         "end": 194,
                         "ctxt": 0
                       },
-                      "value": "a",
-                      "hasEscape": false
+                      "literal": {
+                        "type": "StringLiteral",
+                        "span": {
+                          "start": 191,
+                          "end": 194,
+                          "ctxt": 0
+                        },
+                        "value": "a",
+                        "hasEscape": false
+                      }
                     }
                   },
                   {
-                    "type": "TsTypeReference",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 196,
                       "end": 207,
                       "ctxt": 0
                     },
-                    "typeName": {
-                      "type": "Identifier",
+                    "label": null,
+                    "ty": {
+                      "type": "TsTypeReference",
                       "span": {
                         "start": 196,
                         "end": 207,
                         "ctxt": 0
                       },
-                      "value": "RexOrRaptor",
-                      "typeAnnotation": null,
-                      "optional": false
-                    },
-                    "typeParams": null
+                      "typeName": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 196,
+                          "end": 207,
+                          "ctxt": 0
+                        },
+                        "value": "RexOrRaptor",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "typeParams": null
+                    }
                   }
                 ]
               }

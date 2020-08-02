@@ -54,6 +54,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -111,6 +112,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -140,6 +142,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -262,14 +265,22 @@
             "ctxt": 0
           },
           "key": {
-            "type": "StringLiteral",
+            "type": "Computed",
             "span": {
-              "start": 132,
-              "end": 134,
+              "start": 131,
+              "end": 135,
               "ctxt": 0
             },
-            "value": "",
-            "hasEscape": false
+            "expression": {
+              "type": "StringLiteral",
+              "span": {
+                "start": 132,
+                "end": 134,
+                "ctxt": 0
+              },
+              "value": "",
+              "hasEscape": false
+            }
           },
           "function": {
             "params": [],

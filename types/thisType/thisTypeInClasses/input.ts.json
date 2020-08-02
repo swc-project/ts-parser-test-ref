@@ -69,6 +69,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -504,6 +505,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -541,19 +543,37 @@
               },
               "elemTypes": [
                 {
-                  "type": "TsThisType",
+                  "type": "TsTupleElement",
                   "span": {
                     "start": 186,
                     "end": 190,
                     "ctxt": 0
+                  },
+                  "label": null,
+                  "ty": {
+                    "type": "TsThisType",
+                    "span": {
+                      "start": 186,
+                      "end": 190,
+                      "ctxt": 0
+                    }
                   }
                 },
                 {
-                  "type": "TsThisType",
+                  "type": "TsTupleElement",
                   "span": {
                     "start": 192,
                     "end": 196,
                     "ctxt": 0
+                  },
+                  "label": null,
+                  "ty": {
+                    "type": "TsThisType",
+                    "span": {
+                      "start": 192,
+                      "end": 196,
+                      "ctxt": 0
+                    }
                   }
                 }
               ]
@@ -566,6 +586,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -640,6 +661,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -714,6 +736,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -782,6 +805,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -871,6 +895,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -960,6 +985,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -1033,6 +1059,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -1150,6 +1177,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -1268,6 +1296,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],
@@ -1340,6 +1369,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {

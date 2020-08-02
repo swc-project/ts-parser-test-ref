@@ -4869,6 +4869,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -6857,14 +6858,22 @@
                     {
                       "type": "KeyValueProperty",
                       "key": {
-                        "type": "StringLiteral",
+                        "type": "Computed",
                         "span": {
-                          "start": 3233,
-                          "end": 3252,
+                          "start": 3232,
+                          "end": 3253,
                           "ctxt": 0
                         },
-                        "value": "before everything",
-                        "hasEscape": false
+                        "expression": {
+                          "type": "StringLiteral",
+                          "span": {
+                            "start": 3233,
+                            "end": 3252,
+                            "ctxt": 0
+                          },
+                          "value": "before everything",
+                          "hasEscape": false
+                        }
                       },
                       "value": {
                         "type": "NumericLiteral",
@@ -7149,14 +7158,22 @@
                     {
                       "type": "KeyValueProperty",
                       "key": {
-                        "type": "StringLiteral",
+                        "type": "Computed",
                         "span": {
-                          "start": 3376,
-                          "end": 3388,
+                          "start": 3375,
+                          "end": 3389,
                           "ctxt": 0
                         },
-                        "value": "at the end",
-                        "hasEscape": false
+                        "expression": {
+                          "type": "StringLiteral",
+                          "span": {
+                            "start": 3376,
+                            "end": 3388,
+                            "ctxt": 0
+                          },
+                          "value": "at the end",
+                          "hasEscape": false
+                        }
                       },
                       "value": {
                         "type": "NumericLiteral",

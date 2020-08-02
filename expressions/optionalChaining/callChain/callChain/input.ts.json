@@ -164,6 +164,11 @@
           "end": 84,
           "ctxt": 0
         },
+        "questionDotToken": {
+          "start": 80,
+          "end": 81,
+          "ctxt": 0
+        },
         "expr": {
           "type": "CallExpression",
           "span": {
@@ -199,6 +204,11 @@
         "span": {
           "start": 86,
           "end": 93,
+          "ctxt": 0
+        },
+        "questionDotToken": {
+          "start": 88,
+          "end": 89,
           "ctxt": 0
         },
         "expr": {
@@ -249,6 +259,11 @@
         "span": {
           "start": 95,
           "end": 110,
+          "ctxt": 0
+        },
+        "questionDotToken": {
+          "start": 97,
+          "end": 98,
           "ctxt": 0
         },
         "expr": {
@@ -328,6 +343,11 @@
         "span": {
           "start": 112,
           "end": 133,
+          "ctxt": 0
+        },
+        "questionDotToken": {
+          "start": 114,
+          "end": 115,
           "ctxt": 0
         },
         "expr": {
@@ -619,6 +639,11 @@
             "end": 206,
             "ctxt": 0
           },
+          "questionDotToken": {
+            "start": 203,
+            "end": 204,
+            "ctxt": 0
+          },
           "expr": {
             "type": "MemberExpression",
             "span": {
@@ -674,6 +699,11 @@
           "span": {
             "start": 210,
             "end": 215,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 212,
+            "end": 213,
             "ctxt": 0
           },
           "expr": {
@@ -744,6 +774,11 @@
           "span": {
             "start": 220,
             "end": 225,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 222,
+            "end": 223,
             "ctxt": 0
           },
           "expr": {
@@ -843,6 +878,11 @@
           "span": {
             "start": 238,
             "end": 243,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 240,
+            "end": 241,
             "ctxt": 0
           },
           "expr": {
@@ -968,6 +1008,11 @@
             "end": 271,
             "ctxt": 0
           },
+          "questionDotToken": {
+            "start": 264,
+            "end": 265,
+            "ctxt": 0
+          },
           "expr": {
             "type": "MemberExpression",
             "span": {
@@ -1022,6 +1067,11 @@
           "span": {
             "start": 275,
             "end": 284,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 277,
+            "end": 278,
             "ctxt": 0
           },
           "expr": {
@@ -1091,6 +1141,11 @@
           "span": {
             "start": 289,
             "end": 298,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 291,
+            "end": 292,
             "ctxt": 0
           },
           "expr": {
@@ -1189,6 +1244,11 @@
           "span": {
             "start": 311,
             "end": 320,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 313,
+            "end": 314,
             "ctxt": 0
           },
           "expr": {
@@ -1543,6 +1603,11 @@
             "end": 422,
             "ctxt": 0
           },
+          "questionDotToken": {
+            "start": 418,
+            "end": 419,
+            "ctxt": 0
+          },
           "expr": {
             "type": "CallExpression",
             "span": {
@@ -1618,6 +1683,11 @@
           "span": {
             "start": 426,
             "end": 435,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 430,
+            "end": 431,
             "ctxt": 0
           },
           "expr": {
@@ -1708,6 +1778,11 @@
           "span": {
             "start": 439,
             "end": 456,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 443,
+            "end": 444,
             "ctxt": 0
           },
           "expr": {
@@ -1827,6 +1902,11 @@
           "span": {
             "start": 460,
             "end": 483,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 464,
+            "end": 465,
             "ctxt": 0
           },
           "expr": {
@@ -1972,6 +2052,11 @@
             "end": 495,
             "ctxt": 0
           },
+          "questionDotToken": {
+            "start": 491,
+            "end": 492,
+            "ctxt": 0
+          },
           "expr": {
             "type": "CallExpression",
             "span": {
@@ -2046,6 +2131,11 @@
           "span": {
             "start": 502,
             "end": 511,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 506,
+            "end": 507,
             "ctxt": 0
           },
           "expr": {
@@ -2135,6 +2225,11 @@
           "span": {
             "start": 518,
             "end": 535,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 522,
+            "end": 523,
             "ctxt": 0
           },
           "expr": {
@@ -2253,6 +2348,11 @@
           "span": {
             "start": 542,
             "end": 565,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 546,
+            "end": 547,
             "ctxt": 0
           },
           "expr": {
@@ -2397,6 +2497,11 @@
             "end": 583,
             "ctxt": 0
           },
+          "questionDotToken": {
+            "start": 579,
+            "end": 580,
+            "ctxt": 0
+          },
           "expr": {
             "type": "CallExpression",
             "span": {
@@ -2471,6 +2576,11 @@
           "span": {
             "start": 587,
             "end": 599,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 594,
+            "end": 595,
             "ctxt": 0
           },
           "expr": {
@@ -2560,6 +2670,11 @@
           "span": {
             "start": 603,
             "end": 623,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 610,
+            "end": 611,
             "ctxt": 0
           },
           "expr": {
@@ -2678,6 +2793,11 @@
           "span": {
             "start": 627,
             "end": 653,
+            "ctxt": 0
+          },
+          "questionDotToken": {
+            "start": 634,
+            "end": 635,
             "ctxt": 0
           },
           "expr": {
@@ -3182,6 +3302,11 @@
               "end": 798,
               "ctxt": 0
             },
+            "questionDotToken": {
+              "start": 790,
+              "end": 791,
+              "ctxt": 0
+            },
             "expr": {
               "type": "CallExpression",
               "span": {
@@ -3379,6 +3504,11 @@
           "end": 882,
           "ctxt": 0
         },
+        "questionDotToken": {
+          "start": 878,
+          "end": 879,
+          "ctxt": 0
+        },
         "expr": {
           "type": "CallExpression",
           "span": {
@@ -3463,6 +3593,11 @@
               "span": {
                 "start": 897,
                 "end": 902,
+                "ctxt": 0
+              },
+              "questionDotToken": {
+                "start": 899,
+                "end": 900,
                 "ctxt": 0
               },
               "expr": {
@@ -3555,6 +3690,11 @@
                 "span": {
                   "start": 916,
                   "end": 921,
+                  "ctxt": 0
+                },
+                "questionDotToken": {
+                  "start": 918,
+                  "end": 919,
                   "ctxt": 0
                 },
                 "expr": {

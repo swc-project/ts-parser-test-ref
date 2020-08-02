@@ -177,24 +177,33 @@
           },
           "elemTypes": [
             {
-              "type": "TsTypeReference",
+              "type": "TsTupleElement",
               "span": {
                 "start": 104,
                 "end": 105,
                 "ctxt": 0
               },
-              "typeName": {
-                "type": "Identifier",
+              "label": null,
+              "ty": {
+                "type": "TsTypeReference",
                 "span": {
                   "start": 104,
                   "end": 105,
                   "ctxt": 0
                 },
-                "value": "T",
-                "typeAnnotation": null,
-                "optional": false
-              },
-              "typeParams": null
+                "typeName": {
+                  "type": "Identifier",
+                  "span": {
+                    "start": 104,
+                    "end": 105,
+                    "ctxt": 0
+                  },
+                  "value": "T",
+                  "typeAnnotation": null,
+                  "optional": false
+                },
+                "typeParams": null
+              }
             }
           ]
         }
@@ -667,24 +676,33 @@
           },
           "elemTypes": [
             {
-              "type": "TsTypeReference",
+              "type": "TsTupleElement",
               "span": {
                 "start": 311,
                 "end": 312,
                 "ctxt": 0
               },
-              "typeName": {
-                "type": "Identifier",
+              "label": null,
+              "ty": {
+                "type": "TsTypeReference",
                 "span": {
                   "start": 311,
                   "end": 312,
                   "ctxt": 0
                 },
-                "value": "T",
-                "typeAnnotation": null,
-                "optional": false
-              },
-              "typeParams": null
+                "typeName": {
+                  "type": "Identifier",
+                  "span": {
+                    "start": 311,
+                    "end": 312,
+                    "ctxt": 0
+                  },
+                  "value": "T",
+                  "typeAnnotation": null,
+                  "optional": false
+                },
+                "typeParams": null
+              }
             }
           ]
         }
@@ -1028,44 +1046,62 @@
         },
         "elemTypes": [
           {
-            "type": "TsTypeReference",
+            "type": "TsTupleElement",
             "span": {
               "start": 481,
               "end": 482,
               "ctxt": 0
             },
-            "typeName": {
-              "type": "Identifier",
+            "label": null,
+            "ty": {
+              "type": "TsTypeReference",
               "span": {
                 "start": 481,
                 "end": 482,
                 "ctxt": 0
               },
-              "value": "K",
-              "typeAnnotation": null,
-              "optional": false
-            },
-            "typeParams": null
+              "typeName": {
+                "type": "Identifier",
+                "span": {
+                  "start": 481,
+                  "end": 482,
+                  "ctxt": 0
+                },
+                "value": "K",
+                "typeAnnotation": null,
+                "optional": false
+              },
+              "typeParams": null
+            }
           },
           {
-            "type": "TsTypeReference",
+            "type": "TsTupleElement",
             "span": {
               "start": 484,
               "end": 485,
               "ctxt": 0
             },
-            "typeName": {
-              "type": "Identifier",
+            "label": null,
+            "ty": {
+              "type": "TsTypeReference",
               "span": {
                 "start": 484,
                 "end": 485,
                 "ctxt": 0
               },
-              "value": "T",
-              "typeAnnotation": null,
-              "optional": false
-            },
-            "typeParams": null
+              "typeName": {
+                "type": "Identifier",
+                "span": {
+                  "start": 484,
+                  "end": 485,
+                  "ctxt": 0
+                },
+                "value": "T",
+                "typeAnnotation": null,
+                "optional": false
+              },
+              "typeParams": null
+            }
           }
         ]
       }
@@ -1814,24 +1850,33 @@
           },
           "elemTypes": [
             {
-              "type": "TsTypeReference",
+              "type": "TsTupleElement",
               "span": {
                 "start": 848,
                 "end": 850,
                 "ctxt": 0
               },
-              "typeName": {
-                "type": "Identifier",
+              "label": null,
+              "ty": {
+                "type": "TsTypeReference",
                 "span": {
                   "start": 848,
                   "end": 850,
                   "ctxt": 0
                 },
-                "value": "T1",
-                "typeAnnotation": null,
-                "optional": false
-              },
-              "typeParams": null
+                "typeName": {
+                  "type": "Identifier",
+                  "span": {
+                    "start": 848,
+                    "end": 850,
+                    "ctxt": 0
+                  },
+                  "value": "T1",
+                  "typeAnnotation": null,
+                  "optional": false
+                },
+                "typeParams": null
+              }
             }
           ]
         }

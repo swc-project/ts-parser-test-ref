@@ -395,14 +395,22 @@
               {
                 "type": "KeyValuePatternProperty",
                 "key": {
-                  "type": "StringLiteral",
+                  "type": "Computed",
                   "span": {
-                    "start": 136,
-                    "end": 139,
+                    "start": 135,
+                    "end": 140,
                     "ctxt": 0
                   },
-                  "value": "b",
-                  "hasEscape": false
+                  "expression": {
+                    "type": "StringLiteral",
+                    "span": {
+                      "start": 136,
+                      "end": 139,
+                      "ctxt": 0
+                    },
+                    "value": "b",
+                    "hasEscape": false
+                  }
                 },
                 "value": {
                   "type": "Identifier",
@@ -2400,6 +2408,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -2445,6 +2454,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -2782,6 +2792,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         },
         {
@@ -2827,6 +2838,7 @@
           "isAbstract": false,
           "isOptional": false,
           "readonly": false,
+          "declare": false,
           "definite": false
         }
       ],

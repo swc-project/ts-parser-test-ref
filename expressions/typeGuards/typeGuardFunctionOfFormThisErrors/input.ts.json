@@ -386,6 +386,14 @@
           "accessibility": null,
           "isAbstract": false,
           "isOptional": false
+        },
+        {
+          "type": "EmptyStatement",
+          "span": {
+            "start": 278,
+            "end": 279,
+            "ctxt": 0
+          }
         }
       ],
       "superClass": {
@@ -486,6 +494,14 @@
           "accessibility": null,
           "isAbstract": false,
           "isOptional": false
+        },
+        {
+          "type": "EmptyStatement",
+          "span": {
+            "start": 345,
+            "end": 346,
+            "ctxt": 0
+          }
         }
       ],
       "superClass": {

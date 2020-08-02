@@ -5416,150 +5416,168 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsTypeReference",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 2089,
                       "end": 2098,
                       "ctxt": 0
                     },
-                    "typeName": {
-                      "type": "Identifier",
+                    "label": null,
+                    "ty": {
+                      "type": "TsTypeReference",
                       "span": {
                         "start": 2089,
-                        "end": 2095,
-                        "ctxt": 0
-                      },
-                      "value": "Vector",
-                      "typeAnnotation": null,
-                      "optional": false
-                    },
-                    "typeParams": {
-                      "type": "TsTypeParameterInstantiation",
-                      "span": {
-                        "start": 2095,
                         "end": 2098,
                         "ctxt": 0
                       },
-                      "params": [
-                        {
-                          "type": "TsTypeReference",
-                          "span": {
-                            "start": 2096,
-                            "end": 2097,
-                            "ctxt": 0
-                          },
-                          "typeName": {
-                            "type": "Identifier",
+                      "typeName": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 2089,
+                          "end": 2095,
+                          "ctxt": 0
+                        },
+                        "value": "Vector",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "typeParams": {
+                        "type": "TsTypeParameterInstantiation",
+                        "span": {
+                          "start": 2095,
+                          "end": 2098,
+                          "ctxt": 0
+                        },
+                        "params": [
+                          {
+                            "type": "TsTypeReference",
                             "span": {
                               "start": 2096,
                               "end": 2097,
                               "ctxt": 0
                             },
-                            "value": "U",
-                            "typeAnnotation": null,
-                            "optional": false
-                          },
-                          "typeParams": null
-                        }
-                      ]
+                            "typeName": {
+                              "type": "Identifier",
+                              "span": {
+                                "start": 2096,
+                                "end": 2097,
+                                "ctxt": 0
+                              },
+                              "value": "U",
+                              "typeAnnotation": null,
+                              "optional": false
+                            },
+                            "typeParams": null
+                          }
+                        ]
+                      }
                     }
                   },
                   {
-                    "type": "TsTypeReference",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 2099,
                       "end": 2120,
                       "ctxt": 0
                     },
-                    "typeName": {
-                      "type": "Identifier",
+                    "label": null,
+                    "ty": {
+                      "type": "TsTypeReference",
                       "span": {
                         "start": 2099,
-                        "end": 2105,
-                        "ctxt": 0
-                      },
-                      "value": "Vector",
-                      "typeAnnotation": null,
-                      "optional": false
-                    },
-                    "typeParams": {
-                      "type": "TsTypeParameterInstantiation",
-                      "span": {
-                        "start": 2105,
                         "end": 2120,
                         "ctxt": 0
                       },
-                      "params": [
-                        {
-                          "type": "TsTypeReference",
-                          "span": {
-                            "start": 2106,
-                            "end": 2119,
-                            "ctxt": 0
-                          },
-                          "typeName": {
-                            "type": "Identifier",
+                      "typeName": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 2099,
+                          "end": 2105,
+                          "ctxt": 0
+                        },
+                        "value": "Vector",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "typeParams": {
+                        "type": "TsTypeParameterInstantiation",
+                        "span": {
+                          "start": 2105,
+                          "end": 2120,
+                          "ctxt": 0
+                        },
+                        "params": [
+                          {
+                            "type": "TsTypeReference",
                             "span": {
                               "start": 2106,
-                              "end": 2113,
-                              "ctxt": 0
-                            },
-                            "value": "Exclude",
-                            "typeAnnotation": null,
-                            "optional": false
-                          },
-                          "typeParams": {
-                            "type": "TsTypeParameterInstantiation",
-                            "span": {
-                              "start": 2113,
                               "end": 2119,
                               "ctxt": 0
                             },
-                            "params": [
-                              {
-                                "type": "TsTypeReference",
-                                "span": {
-                                  "start": 2114,
-                                  "end": 2115,
-                                  "ctxt": 0
-                                },
-                                "typeName": {
-                                  "type": "Identifier",
+                            "typeName": {
+                              "type": "Identifier",
+                              "span": {
+                                "start": 2106,
+                                "end": 2113,
+                                "ctxt": 0
+                              },
+                              "value": "Exclude",
+                              "typeAnnotation": null,
+                              "optional": false
+                            },
+                            "typeParams": {
+                              "type": "TsTypeParameterInstantiation",
+                              "span": {
+                                "start": 2113,
+                                "end": 2119,
+                                "ctxt": 0
+                              },
+                              "params": [
+                                {
+                                  "type": "TsTypeReference",
                                   "span": {
                                     "start": 2114,
                                     "end": 2115,
                                     "ctxt": 0
                                   },
-                                  "value": "T",
-                                  "typeAnnotation": null,
-                                  "optional": false
+                                  "typeName": {
+                                    "type": "Identifier",
+                                    "span": {
+                                      "start": 2114,
+                                      "end": 2115,
+                                      "ctxt": 0
+                                    },
+                                    "value": "T",
+                                    "typeAnnotation": null,
+                                    "optional": false
+                                  },
+                                  "typeParams": null
                                 },
-                                "typeParams": null
-                              },
-                              {
-                                "type": "TsTypeReference",
-                                "span": {
-                                  "start": 2117,
-                                  "end": 2118,
-                                  "ctxt": 0
-                                },
-                                "typeName": {
-                                  "type": "Identifier",
+                                {
+                                  "type": "TsTypeReference",
                                   "span": {
                                     "start": 2117,
                                     "end": 2118,
                                     "ctxt": 0
                                   },
-                                  "value": "U",
-                                  "typeAnnotation": null,
-                                  "optional": false
-                                },
-                                "typeParams": null
-                              }
-                            ]
+                                  "typeName": {
+                                    "type": "Identifier",
+                                    "span": {
+                                      "start": 2117,
+                                      "end": 2118,
+                                      "ctxt": 0
+                                    },
+                                    "value": "U",
+                                    "typeAnnotation": null,
+                                    "optional": false
+                                  },
+                                  "typeParams": null
+                                }
+                              ]
+                            }
                           }
-                        }
-                      ]
+                        ]
+                      }
                     }
                   }
                 ]
@@ -5712,101 +5730,119 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsTypeReference",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 2166,
                       "end": 2175,
                       "ctxt": 0
                     },
-                    "typeName": {
-                      "type": "Identifier",
+                    "label": null,
+                    "ty": {
+                      "type": "TsTypeReference",
                       "span": {
                         "start": 2166,
-                        "end": 2172,
-                        "ctxt": 0
-                      },
-                      "value": "Vector",
-                      "typeAnnotation": null,
-                      "optional": false
-                    },
-                    "typeParams": {
-                      "type": "TsTypeParameterInstantiation",
-                      "span": {
-                        "start": 2172,
                         "end": 2175,
                         "ctxt": 0
                       },
-                      "params": [
-                        {
-                          "type": "TsTypeReference",
-                          "span": {
-                            "start": 2173,
-                            "end": 2174,
-                            "ctxt": 0
-                          },
-                          "typeName": {
-                            "type": "Identifier",
+                      "typeName": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 2166,
+                          "end": 2172,
+                          "ctxt": 0
+                        },
+                        "value": "Vector",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "typeParams": {
+                        "type": "TsTypeParameterInstantiation",
+                        "span": {
+                          "start": 2172,
+                          "end": 2175,
+                          "ctxt": 0
+                        },
+                        "params": [
+                          {
+                            "type": "TsTypeReference",
                             "span": {
                               "start": 2173,
                               "end": 2174,
                               "ctxt": 0
                             },
-                            "value": "T",
-                            "typeAnnotation": null,
-                            "optional": false
-                          },
-                          "typeParams": null
-                        }
-                      ]
+                            "typeName": {
+                              "type": "Identifier",
+                              "span": {
+                                "start": 2173,
+                                "end": 2174,
+                                "ctxt": 0
+                              },
+                              "value": "T",
+                              "typeAnnotation": null,
+                              "optional": false
+                            },
+                            "typeParams": null
+                          }
+                        ]
+                      }
                     }
                   },
                   {
-                    "type": "TsTypeReference",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 2176,
                       "end": 2185,
                       "ctxt": 0
                     },
-                    "typeName": {
-                      "type": "Identifier",
+                    "label": null,
+                    "ty": {
+                      "type": "TsTypeReference",
                       "span": {
                         "start": 2176,
-                        "end": 2182,
-                        "ctxt": 0
-                      },
-                      "value": "Vector",
-                      "typeAnnotation": null,
-                      "optional": false
-                    },
-                    "typeParams": {
-                      "type": "TsTypeParameterInstantiation",
-                      "span": {
-                        "start": 2182,
                         "end": 2185,
                         "ctxt": 0
                       },
-                      "params": [
-                        {
-                          "type": "TsTypeReference",
-                          "span": {
-                            "start": 2183,
-                            "end": 2184,
-                            "ctxt": 0
-                          },
-                          "typeName": {
-                            "type": "Identifier",
+                      "typeName": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 2176,
+                          "end": 2182,
+                          "ctxt": 0
+                        },
+                        "value": "Vector",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "typeParams": {
+                        "type": "TsTypeParameterInstantiation",
+                        "span": {
+                          "start": 2182,
+                          "end": 2185,
+                          "ctxt": 0
+                        },
+                        "params": [
+                          {
+                            "type": "TsTypeReference",
                             "span": {
                               "start": 2183,
                               "end": 2184,
                               "ctxt": 0
                             },
-                            "value": "T",
-                            "typeAnnotation": null,
-                            "optional": false
-                          },
-                          "typeParams": null
-                        }
-                      ]
+                            "typeName": {
+                              "type": "Identifier",
+                              "span": {
+                                "start": 2183,
+                                "end": 2184,
+                                "ctxt": 0
+                              },
+                              "value": "T",
+                              "typeAnnotation": null,
+                              "optional": false
+                            },
+                            "typeParams": null
+                          }
+                        ]
+                      }
                     }
                   }
                 ]
@@ -6053,90 +6089,108 @@
                 },
                 "elemTypes": [
                   {
-                    "type": "TsTypeReference",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 2244,
                       "end": 2253,
                       "ctxt": 0
                     },
-                    "typeName": {
-                      "type": "Identifier",
+                    "label": null,
+                    "ty": {
+                      "type": "TsTypeReference",
                       "span": {
                         "start": 2244,
-                        "end": 2250,
-                        "ctxt": 0
-                      },
-                      "value": "Vector",
-                      "typeAnnotation": null,
-                      "optional": false
-                    },
-                    "typeParams": {
-                      "type": "TsTypeParameterInstantiation",
-                      "span": {
-                        "start": 2250,
                         "end": 2253,
                         "ctxt": 0
                       },
-                      "params": [
-                        {
-                          "type": "TsTypeReference",
-                          "span": {
-                            "start": 2251,
-                            "end": 2252,
-                            "ctxt": 0
-                          },
-                          "typeName": {
-                            "type": "Identifier",
+                      "typeName": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 2244,
+                          "end": 2250,
+                          "ctxt": 0
+                        },
+                        "value": "Vector",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "typeParams": {
+                        "type": "TsTypeParameterInstantiation",
+                        "span": {
+                          "start": 2250,
+                          "end": 2253,
+                          "ctxt": 0
+                        },
+                        "params": [
+                          {
+                            "type": "TsTypeReference",
                             "span": {
                               "start": 2251,
                               "end": 2252,
                               "ctxt": 0
                             },
-                            "value": "U",
-                            "typeAnnotation": null,
-                            "optional": false
-                          },
-                          "typeParams": null
-                        }
-                      ]
+                            "typeName": {
+                              "type": "Identifier",
+                              "span": {
+                                "start": 2251,
+                                "end": 2252,
+                                "ctxt": 0
+                              },
+                              "value": "U",
+                              "typeAnnotation": null,
+                              "optional": false
+                            },
+                            "typeParams": null
+                          }
+                        ]
+                      }
                     }
                   },
                   {
-                    "type": "TsTypeReference",
+                    "type": "TsTupleElement",
                     "span": {
                       "start": 2254,
                       "end": 2265,
                       "ctxt": 0
                     },
-                    "typeName": {
-                      "type": "Identifier",
+                    "label": null,
+                    "ty": {
+                      "type": "TsTypeReference",
                       "span": {
                         "start": 2254,
-                        "end": 2260,
-                        "ctxt": 0
-                      },
-                      "value": "Vector",
-                      "typeAnnotation": null,
-                      "optional": false
-                    },
-                    "typeParams": {
-                      "type": "TsTypeParameterInstantiation",
-                      "span": {
-                        "start": 2260,
                         "end": 2265,
                         "ctxt": 0
                       },
-                      "params": [
-                        {
-                          "type": "TsKeywordType",
-                          "span": {
-                            "start": 2261,
-                            "end": 2264,
-                            "ctxt": 0
-                          },
-                          "kind": "any"
-                        }
-                      ]
+                      "typeName": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 2254,
+                          "end": 2260,
+                          "ctxt": 0
+                        },
+                        "value": "Vector",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "typeParams": {
+                        "type": "TsTypeParameterInstantiation",
+                        "span": {
+                          "start": 2260,
+                          "end": 2265,
+                          "ctxt": 0
+                        },
+                        "params": [
+                          {
+                            "type": "TsKeywordType",
+                            "span": {
+                              "start": 2261,
+                              "end": 2264,
+                              "ctxt": 0
+                            },
+                            "kind": "any"
+                          }
+                        ]
+                      }
                     }
                   }
                 ]

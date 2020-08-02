@@ -362,6 +362,7 @@
                                     "isAbstract": false,
                                     "isOptional": false,
                                     "readonly": true,
+                                    "declare": false,
                                     "definite": false
                                   }
                                 ],
@@ -574,6 +575,7 @@
                                     "isAbstract": false,
                                     "isOptional": false,
                                     "readonly": true,
+                                    "declare": false,
                                     "definite": false
                                   }
                                 ],

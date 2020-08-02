@@ -36,7 +36,7 @@
               "end": 59,
               "ctxt": 0
             },
-            "value": "this",
+            "value": "await",
             "typeAnnotation": null,
             "optional": false
           }
