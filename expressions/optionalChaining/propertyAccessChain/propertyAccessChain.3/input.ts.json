@@ -1644,12 +1644,68 @@
                   "ctxt": 0
                 },
                 "argument": {
-                  "type": "Invalid",
+                  "type": "MemberExpression",
                   "span": {
                     "start": 365,
                     "end": 373,
                     "ctxt": 0
-                  }
+                  },
+                  "object": {
+                    "type": "OptionalChainingExpression",
+                    "span": {
+                      "start": 365,
+                      "end": 371,
+                      "ctxt": 0
+                    },
+                    "questionDotToken": {
+                      "start": 368,
+                      "end": 369,
+                      "ctxt": 0
+                    },
+                    "expr": {
+                      "type": "MemberExpression",
+                      "span": {
+                        "start": 365,
+                        "end": 371,
+                        "ctxt": 0
+                      },
+                      "object": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 365,
+                          "end": 368,
+                          "ctxt": 0
+                        },
+                        "value": "obj",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "property": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 370,
+                          "end": 371,
+                          "ctxt": 0
+                        },
+                        "value": "a",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "computed": false
+                    }
+                  },
+                  "property": {
+                    "type": "Identifier",
+                    "span": {
+                      "start": 372,
+                      "end": 373,
+                      "ctxt": 0
+                    },
+                    "value": "b",
+                    "typeAnnotation": null,
+                    "optional": false
+                  },
+                  "computed": false
                 },
                 "typeAnnotation": null
               }

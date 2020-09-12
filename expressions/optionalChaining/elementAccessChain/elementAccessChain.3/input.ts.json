@@ -1627,12 +1627,67 @@
                   "ctxt": 0
                 },
                 "argument": {
-                  "type": "Invalid",
+                  "type": "MemberExpression",
                   "span": {
                     "start": 432,
                     "end": 443,
                     "ctxt": 0
-                  }
+                  },
+                  "object": {
+                    "type": "OptionalChainingExpression",
+                    "span": {
+                      "start": 432,
+                      "end": 438,
+                      "ctxt": 0
+                    },
+                    "questionDotToken": {
+                      "start": 435,
+                      "end": 436,
+                      "ctxt": 0
+                    },
+                    "expr": {
+                      "type": "MemberExpression",
+                      "span": {
+                        "start": 432,
+                        "end": 438,
+                        "ctxt": 0
+                      },
+                      "object": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 432,
+                          "end": 435,
+                          "ctxt": 0
+                        },
+                        "value": "obj",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "property": {
+                        "type": "Identifier",
+                        "span": {
+                          "start": 437,
+                          "end": 438,
+                          "ctxt": 0
+                        },
+                        "value": "a",
+                        "typeAnnotation": null,
+                        "optional": false
+                      },
+                      "computed": false
+                    }
+                  },
+                  "property": {
+                    "type": "StringLiteral",
+                    "span": {
+                      "start": 439,
+                      "end": 442,
+                      "ctxt": 0
+                    },
+                    "value": "b",
+                    "hasEscape": false
+                  },
+                  "computed": true
                 },
                 "typeAnnotation": null
               }
