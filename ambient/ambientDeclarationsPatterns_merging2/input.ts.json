@@ -164,7 +164,8 @@
         "value": "a.foo",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "TsModuleDeclaration",
@@ -324,7 +325,8 @@
         "value": "b.foo",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "TsModuleDeclaration",

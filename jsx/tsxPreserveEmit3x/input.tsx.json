@@ -235,7 +235,8 @@
         "value": "./test",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     }
   ],
   "interpreter": null

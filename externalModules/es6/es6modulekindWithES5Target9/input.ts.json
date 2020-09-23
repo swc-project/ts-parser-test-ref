@@ -44,7 +44,8 @@
         "value": "mod",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ImportDeclaration",
@@ -85,7 +86,8 @@
         "value": "mod",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ImportDeclaration",
@@ -125,7 +127,8 @@
         "value": "mod",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ExportNamedDeclaration",

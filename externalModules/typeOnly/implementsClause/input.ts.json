@@ -83,7 +83,8 @@
         "value": "./types",
         "hasEscape": false
       },
-      "typeOnly": true
+      "typeOnly": true,
+      "asserts": null
     },
     {
       "type": "ExportNamedDeclaration",
@@ -155,7 +156,8 @@
         "value": "./types",
         "hasEscape": false
       },
-      "typeOnly": true
+      "typeOnly": true,
+      "asserts": null
     },
     {
       "type": "ImportDeclaration",
@@ -195,7 +197,8 @@
         "value": "./ns",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ClassDeclaration",

@@ -220,7 +220,8 @@
         "value": "./a",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ExportNamedDeclaration",
@@ -312,7 +313,8 @@
         "value": "./b",
         "hasEscape": false
       },
-      "typeOnly": true
+      "typeOnly": true,
+      "asserts": null
     },
     {
       "type": "ExportNamedDeclaration",
@@ -395,7 +397,8 @@
         "value": "./c",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ExpressionStatement",

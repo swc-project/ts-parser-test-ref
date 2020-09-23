@@ -233,7 +233,8 @@
         "value": "./a",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "VariableDeclaration",
@@ -490,7 +491,8 @@
         "value": "./a",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "VariableDeclaration",
@@ -762,7 +764,8 @@
         "value": "./a",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "VariableDeclaration",
@@ -1004,7 +1007,8 @@
         "value": "./a",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ImportDeclaration",
@@ -1045,7 +1049,8 @@
         "value": "./a",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ImportDeclaration",
@@ -1096,7 +1101,8 @@
         "value": "./a",
         "hasEscape": false
       },
-      "typeOnly": true
+      "typeOnly": true,
+      "asserts": null
     },
     {
       "type": "ExpressionStatement",
@@ -1448,7 +1454,8 @@
         "value": "./a",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "VariableDeclaration",

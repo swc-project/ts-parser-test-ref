@@ -106,7 +106,8 @@
         "value": "jquery",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ImportDeclaration",
@@ -146,7 +147,8 @@
         "value": "fs",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "TsImportEqualsDeclaration",

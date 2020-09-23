@@ -295,7 +295,8 @@
         "value": "./renderer",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ExpressionStatement",
@@ -420,7 +421,8 @@
         "value": "./renderer",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ExpressionStatement",

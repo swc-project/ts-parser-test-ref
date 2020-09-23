@@ -88,7 +88,8 @@
         "value": "./foo",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ExpressionStatement",

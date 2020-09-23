@@ -44,7 +44,8 @@
         "value": "react",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ExportDeclaration",
@@ -420,7 +421,8 @@
         "value": "./component",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ImportDeclaration",
@@ -460,7 +462,8 @@
         "value": "react",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "VariableDeclaration",

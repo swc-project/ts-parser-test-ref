@@ -80,7 +80,8 @@
         "value": "./a",
         "hasEscape": false
       },
-      "typeOnly": true
+      "typeOnly": true,
+      "asserts": null
     },
     {
       "type": "VariableDeclaration",

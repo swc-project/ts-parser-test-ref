@@ -114,7 +114,8 @@
         "value": "./defaultPath",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ImportDeclaration",
@@ -154,7 +155,8 @@
         "value": "./anotherModule",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "VariableDeclaration",

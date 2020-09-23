@@ -94,7 +94,8 @@
         "value": "@see/saw",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     }
   ],
   "interpreter": null

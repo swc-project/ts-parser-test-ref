@@ -1401,7 +1401,8 @@
         "value": "./renderer2",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ExportDeclaration",
@@ -3225,7 +3226,8 @@
         "value": "./renderer",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ImportDeclaration",
@@ -3325,7 +3327,8 @@
         "value": "./component",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "VariableDeclaration",

@@ -338,7 +338,8 @@
         "value": "./ns",
         "hasEscape": false
       },
-      "typeOnly": true
+      "typeOnly": true,
+      "asserts": null
     },
     {
       "type": "ExpressionStatement",

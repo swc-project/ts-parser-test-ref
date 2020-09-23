@@ -397,7 +397,8 @@
         "value": "./index3",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ClassDeclaration",

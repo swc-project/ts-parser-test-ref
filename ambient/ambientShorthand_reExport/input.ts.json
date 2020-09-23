@@ -125,7 +125,8 @@
         "value": "./reExportX",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ImportDeclaration",
@@ -165,7 +166,8 @@
         "value": "./reExportAll",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ExpressionStatement",

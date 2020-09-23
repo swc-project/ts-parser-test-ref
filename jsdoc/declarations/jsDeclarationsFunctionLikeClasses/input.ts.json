@@ -364,7 +364,8 @@
         "value": "./source",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ExportDeclaration",

@@ -24,7 +24,8 @@
         "value": "module-not-existed",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     }
   ],
   "interpreter": null

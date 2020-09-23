@@ -187,7 +187,8 @@
         "value": "./a",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ImportDeclaration",
@@ -227,7 +228,8 @@
         "value": "./a",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "TsImportEqualsDeclaration",

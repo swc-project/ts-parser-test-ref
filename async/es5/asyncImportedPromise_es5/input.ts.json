@@ -149,7 +149,8 @@
         "value": "./task",
         "hasEscape": false
       },
-      "typeOnly": false
+      "typeOnly": false,
+      "asserts": null
     },
     {
       "type": "ClassDeclaration",

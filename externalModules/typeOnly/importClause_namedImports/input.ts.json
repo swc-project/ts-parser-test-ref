@@ -251,7 +251,8 @@
         "value": "./abc",
         "hasEscape": false
       },
-      "typeOnly": true
+      "typeOnly": true,
+      "asserts": null
     },
     {
       "type": "ExpressionStatement",

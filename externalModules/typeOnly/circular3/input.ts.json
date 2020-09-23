@@ -45,7 +45,8 @@
         "value": "./b",
         "hasEscape": false
       },
-      "typeOnly": true
+      "typeOnly": true,
+      "asserts": null
     },
     {
       "type": "ExportNamedDeclaration",
@@ -128,7 +129,8 @@
         "value": "./a",
         "hasEscape": false
       },
-      "typeOnly": true
+      "typeOnly": true,
+      "asserts": null
     },
     {
       "type": "ExportNamedDeclaration",
