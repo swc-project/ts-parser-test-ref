@@ -294,6 +294,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsLiteralType",
@@ -635,6 +636,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsLiteralType",
@@ -998,6 +1000,7 @@
             },
             "default": null
           },
+          "nameType": null,
           "optional": null,
           "typeAnnotation": {
             "type": "TsLiteralType",
@@ -1285,6 +1288,7 @@
             },
             "default": null
           },
+          "nameType": null,
           "optional": null,
           "typeAnnotation": {
             "type": "TsLiteralType",
@@ -1544,6 +1548,7 @@
             },
             "default": null
           },
+          "nameType": null,
           "optional": null,
           "typeAnnotation": {
             "type": "TsLiteralType",

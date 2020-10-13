@@ -257,6 +257,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -363,6 +364,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsTypeReference",
@@ -480,6 +482,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsIndexedAccessType",
@@ -609,6 +612,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsTypeReference",
@@ -709,6 +713,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsIndexedAccessType",
@@ -838,6 +843,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": true,
         "typeAnnotation": {
           "type": "TsIndexedAccessType",
@@ -967,6 +973,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsIndexedAccessType",
@@ -1096,6 +1103,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": true,
         "typeAnnotation": {
           "type": "TsIndexedAccessType",
@@ -1225,6 +1233,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsUnionType",
@@ -1373,6 +1382,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsTypeReference",
@@ -1520,6 +1530,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -1598,6 +1609,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -1676,6 +1688,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -1754,6 +1767,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -1832,6 +1846,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -1910,6 +1925,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -1988,6 +2004,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -2066,6 +2083,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -2144,6 +2162,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -2213,6 +2232,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -2319,6 +2339,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -2461,6 +2482,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -2612,6 +2634,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -2743,6 +2766,7 @@
             },
             "default": null
           },
+          "nameType": null,
           "optional": null,
           "typeAnnotation": {
             "type": "TsKeywordType",
@@ -2883,6 +2907,7 @@
             },
             "default": null
           },
+          "nameType": null,
           "optional": null,
           "typeAnnotation": {
             "type": "TsKeywordType",
@@ -3023,6 +3048,7 @@
             },
             "default": null
           },
+          "nameType": null,
           "optional": null,
           "typeAnnotation": {
             "type": "TsKeywordType",
@@ -3174,6 +3200,7 @@
             },
             "default": null
           },
+          "nameType": null,
           "optional": null,
           "typeAnnotation": {
             "type": "TsKeywordType",

@@ -173,6 +173,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsTypeReference",
@@ -2070,6 +2071,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsUnionType",
@@ -2614,6 +2616,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsTypeReference",
@@ -3535,6 +3538,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsIndexedAccessType",

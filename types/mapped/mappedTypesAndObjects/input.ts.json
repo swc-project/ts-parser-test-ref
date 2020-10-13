@@ -1820,6 +1820,7 @@
                 },
                 "default": null
               },
+              "nameType": null,
               "optional": true,
               "typeAnnotation": {
                 "type": "TsIndexedAccessType",

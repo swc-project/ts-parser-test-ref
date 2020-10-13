@@ -4704,6 +4704,7 @@
                 },
                 "default": null
               },
+              "nameType": null,
               "optional": null,
               "typeAnnotation": {
                 "type": "TsTypeReference",
@@ -6047,6 +6048,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsTypeReference",
@@ -6725,6 +6727,7 @@
             },
             "default": null
           },
+          "nameType": null,
           "optional": null,
           "typeAnnotation": {
             "type": "TsConditionalType",
@@ -7128,6 +7131,7 @@
             },
             "default": null
           },
+          "nameType": null,
           "optional": null,
           "typeAnnotation": {
             "type": "TsConditionalType",
@@ -9101,6 +9105,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsTypeReference",
@@ -22700,6 +22705,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsTypeReference",
@@ -23030,6 +23036,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsTypeReference",
@@ -23690,6 +23697,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsTypeReference",
@@ -23760,6 +23768,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsKeywordType",
@@ -25749,6 +25758,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsConditionalType",
@@ -26063,6 +26073,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": true,
         "typeAnnotation": {
           "type": "TsConditionalType",

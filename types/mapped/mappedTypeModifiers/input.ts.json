@@ -977,6 +977,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -1479,6 +1480,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": true,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -1716,6 +1718,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -2042,6 +2045,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -2279,6 +2283,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -2605,6 +2610,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": true,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -3167,6 +3173,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -3451,6 +3458,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsTypeLiteral",
@@ -4861,6 +4869,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -5363,6 +5372,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": true,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -5600,6 +5610,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -5926,6 +5937,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -6163,6 +6175,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -6489,6 +6502,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": true,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -7051,6 +7065,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -8157,6 +8172,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",

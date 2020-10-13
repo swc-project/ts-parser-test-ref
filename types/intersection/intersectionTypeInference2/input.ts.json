@@ -629,6 +629,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",

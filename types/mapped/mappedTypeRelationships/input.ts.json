@@ -8032,6 +8032,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsIndexedAccessType",
@@ -8191,6 +8192,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsIndexedAccessType",
@@ -8647,6 +8649,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsIndexedAccessType",
@@ -9388,6 +9391,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -9523,6 +9527,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -9803,6 +9808,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -9938,6 +9944,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -10258,6 +10265,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -10393,6 +10401,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -10704,6 +10713,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -10839,6 +10849,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -11159,6 +11170,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -11294,6 +11306,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -11654,6 +11667,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -11789,6 +11803,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -12149,6 +12164,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -12275,6 +12291,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -13687,6 +13704,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": true,
         "typeAnnotation": {
           "type": "TsKeywordType",

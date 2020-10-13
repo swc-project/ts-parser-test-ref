@@ -464,6 +464,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -533,6 +534,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -613,6 +615,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -2495,6 +2498,7 @@
                         },
                         "default": null
                       },
+                      "nameType": null,
                       "optional": null,
                       "typeAnnotation": {
                         "type": "TsIndexedAccessType",
@@ -2643,6 +2647,7 @@
                         },
                         "default": null
                       },
+                      "nameType": null,
                       "optional": null,
                       "typeAnnotation": {
                         "type": "TsIndexedAccessType",
@@ -2782,6 +2787,7 @@
                         },
                         "default": null
                       },
+                      "nameType": null,
                       "optional": null,
                       "typeAnnotation": {
                         "type": "TsIndexedAccessType",
@@ -2996,6 +3002,7 @@
                         },
                         "default": null
                       },
+                      "nameType": null,
                       "optional": null,
                       "typeAnnotation": {
                         "type": "TsIndexedAccessType",
@@ -3144,6 +3151,7 @@
                         },
                         "default": null
                       },
+                      "nameType": null,
                       "optional": true,
                       "typeAnnotation": {
                         "type": "TsIndexedAccessType",
@@ -3292,6 +3300,7 @@
                         },
                         "default": null
                       },
+                      "nameType": null,
                       "optional": null,
                       "typeAnnotation": {
                         "type": "TsIndexedAccessType",
@@ -3440,6 +3449,7 @@
                         },
                         "default": null
                       },
+                      "nameType": null,
                       "optional": true,
                       "typeAnnotation": {
                         "type": "TsIndexedAccessType",
@@ -3654,6 +3664,7 @@
                         },
                         "default": null
                       },
+                      "nameType": null,
                       "optional": null,
                       "typeAnnotation": {
                         "type": "TsIndexedAccessType",
@@ -3802,6 +3813,7 @@
                         },
                         "default": null
                       },
+                      "nameType": null,
                       "optional": null,
                       "typeAnnotation": {
                         "type": "TsArrayType",
@@ -8175,6 +8187,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -8452,6 +8465,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": true,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",
@@ -8584,6 +8598,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": true,
                 "typeAnnotation": {
                   "type": "TsIndexedAccessType",

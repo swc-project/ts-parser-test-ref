@@ -26676,6 +26676,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsFunctionType",
@@ -29936,6 +29937,7 @@
                   },
                   "default": null
                 },
+                "nameType": null,
                 "optional": null,
                 "typeAnnotation": {
                   "type": "TsArrayType",
@@ -32640,6 +32642,7 @@
                 },
                 "default": null
               },
+              "nameType": null,
               "optional": null,
               "typeAnnotation": {
                 "type": "TsFunctionType",
@@ -34945,6 +34948,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsFunctionType",
@@ -35222,6 +35226,7 @@
                 },
                 "default": null
               },
+              "nameType": null,
               "optional": null,
               "typeAnnotation": {
                 "type": "TsTypeLiteral",
@@ -35337,6 +35342,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsIndexedAccessType",
@@ -35753,6 +35759,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsTypeReference",
@@ -36022,6 +36029,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsIndexedAccessType",
@@ -36462,6 +36470,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsUnionType",
@@ -38897,6 +38906,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsKeywordType",
@@ -39044,6 +39054,7 @@
           },
           "default": null
         },
+        "nameType": null,
         "optional": null,
         "typeAnnotation": {
           "type": "TsTypeReference",
@@ -40258,6 +40269,7 @@
                           },
                           "default": null
                         },
+                        "nameType": null,
                         "optional": null,
                         "typeAnnotation": {
                           "type": "TsKeywordType",
@@ -40727,6 +40739,7 @@
                       },
                       "default": null
                     },
+                    "nameType": null,
                     "optional": null,
                     "typeAnnotation": {
                       "type": "TsKeywordType",
