@@ -41,7 +41,7 @@
               "end": 35,
               "ctxt": 0
             },
-            "value": "\u0000",
+            "value": "\\u{0}",
             "hasEscape": true
           },
           "definite": false

@@ -41,7 +41,7 @@
               "end": 147,
               "ctxt": 0
             },
-            "value": "￿",
+            "value": "\\u{ffff}",
             "hasEscape": true
           },
           "definite": false

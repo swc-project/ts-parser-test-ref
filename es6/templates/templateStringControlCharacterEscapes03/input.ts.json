@@ -58,7 +58,7 @@
                     "end": 27,
                     "ctxt": 0
                   },
-                  "value": "\u001f\u001f 1F 1f",
+                  "value": "\\u{1f}\\u{1f} 1F 1f",
                   "hasEscape": true
                 },
                 "raw": {

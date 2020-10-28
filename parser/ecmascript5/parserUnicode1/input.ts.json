@@ -149,7 +149,7 @@
                               "end": 100,
                               "ctxt": 0
                             },
-                            "value": "#6.1: var \\u0078x = 1; xx === 6. Actual: ",
+                            "value": "#6.1: var \\\\u0078x = 1; xx === 6. Actual: ",
                             "hasEscape": true
                           },
                           "right": {
@@ -252,7 +252,7 @@
                           "end": 183,
                           "ctxt": 0
                         },
-                        "value": "#6.2: var \\u0078x = 1; xx === 6. Actual: ",
+                        "value": "#6.2: var \\\\u0078x = 1; xx === 6. Actual: ",
                         "hasEscape": true
                       },
                       "right": {

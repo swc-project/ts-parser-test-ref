@@ -37,7 +37,7 @@
                 "end": 81,
                 "ctxt": 0
               },
-              "value": "\t\u000b\f  ﻿",
+              "value": "\\t\\u{b}\\u{c} \\u{a0}\\u{feff}",
               "hasEscape": true
             },
             "raw": {

@@ -2641,7 +2641,7 @@
                                                       "end": 2656,
                                                       "ctxt": 0
                                                     },
-                                                    "value": ", text=\"",
+                                                    "value": ", text=\\\"",
                                                     "hasEscape": true
                                                   }
                                                 },
@@ -2741,7 +2741,7 @@
                                                   "end": 2714,
                                                   "ctxt": 0
                                                 },
-                                                "value": "\"",
+                                                "value": "\\\"",
                                                 "hasEscape": true
                                               }
                                             }
@@ -7713,7 +7713,7 @@
                                       "end": 9063,
                                       "ctxt": 0
                                     },
-                                    "value": "\t",
+                                    "value": "\\t",
                                     "hasEscape": true
                                   }
                                 },
@@ -16397,7 +16397,7 @@
                                                     "end": 20964,
                                                     "ctxt": 0
                                                   },
-                                                  "value": "\t",
+                                                  "value": "\\t",
                                                   "hasEscape": true
                                                 }
                                               },
@@ -17196,7 +17196,7 @@
                                     "end": 21745,
                                     "ctxt": 0
                                   },
-                                  "value": "\t",
+                                  "value": "\\t",
                                   "hasEscape": true
                                 }
                               },
@@ -27053,7 +27053,7 @@
                                             "end": 33071,
                                             "ctxt": 0
                                           },
-                                          "value": "\t",
+                                          "value": "\\t",
                                           "hasEscape": true
                                         }
                                       }
