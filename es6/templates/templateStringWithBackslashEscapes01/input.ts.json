@@ -130,7 +130,7 @@
                     "end": 46,
                     "ctxt": 0
                   },
-                  "value": "hello\\\\world",
+                  "value": "hello\\world",
                   "hasEscape": true
                 },
                 "raw": {
@@ -202,7 +202,7 @@
                     "end": 71,
                     "ctxt": 0
                   },
-                  "value": "hello\\\\world",
+                  "value": "hello\\world",
                   "hasEscape": true
                 },
                 "raw": {
@@ -274,7 +274,7 @@
                     "end": 97,
                     "ctxt": 0
                   },
-                  "value": "hello\\\\\\\\world",
+                  "value": "hello\\\\world",
                   "hasEscape": true
                 },
                 "raw": {

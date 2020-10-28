@@ -52,7 +52,7 @@
                     "end": 41,
                     "ctxt": 0
                   },
-                  "value": "AB\\r\\nC",
+                  "value": "AB\r\nC",
                   "hasEscape": true
                 }
               }
@@ -149,7 +149,7 @@
                     "end": 77,
                     "ctxt": 0
                   },
-                  "value": "DE\\nF",
+                  "value": "DE\nF",
                   "hasEscape": true
                 }
               }
@@ -171,7 +171,7 @@
                   "end": 89,
                   "ctxt": 0
                 },
-                "value": "\\n",
+                "value": "\n",
                 "hasEscape": true
               }
             ],

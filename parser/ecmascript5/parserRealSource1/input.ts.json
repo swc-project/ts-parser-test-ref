@@ -4961,7 +4961,7 @@
                                               "end": 3512,
                                               "ctxt": 0
                                             },
-                                            "value": "\\\\t",
+                                            "value": "\\t",
                                             "hasEscape": true
                                           }
                                         }
@@ -5027,7 +5027,7 @@
                                               "end": 3616,
                                               "ctxt": 0
                                             },
-                                            "value": "\\\\n",
+                                            "value": "\\n",
                                             "hasEscape": true
                                           }
                                         }
@@ -5093,7 +5093,7 @@
                                               "end": 3723,
                                               "ctxt": 0
                                             },
-                                            "value": "\\\\v",
+                                            "value": "\\v",
                                             "hasEscape": true
                                           }
                                         }
@@ -5159,7 +5159,7 @@
                                               "end": 3827,
                                               "ctxt": 0
                                             },
-                                            "value": "\\\\f",
+                                            "value": "\\f",
                                             "hasEscape": true
                                           }
                                         }
@@ -5225,7 +5225,7 @@
                                               "end": 3937,
                                               "ctxt": 0
                                             },
-                                            "value": "\\\\r",
+                                            "value": "\\r",
                                             "hasEscape": true
                                           }
                                         }
@@ -5291,7 +5291,7 @@
                                               "end": 4046,
                                               "ctxt": 0
                                             },
-                                            "value": "\\\\\\\"",
+                                            "value": "\\\"",
                                             "hasEscape": true
                                           }
                                         }
@@ -5357,7 +5357,7 @@
                                               "end": 4154,
                                               "ctxt": 0
                                             },
-                                            "value": "\\\\\\'",
+                                            "value": "\\'",
                                             "hasEscape": true
                                           }
                                         }
@@ -5423,7 +5423,7 @@
                                               "end": 4257,
                                               "ctxt": 0
                                             },
-                                            "value": "\\\\",
+                                            "value": "\\",
                                             "hasEscape": true
                                           }
                                         }

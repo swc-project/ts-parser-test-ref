@@ -30,7 +30,7 @@
               "end": 296,
               "ctxt": 0
             },
-            "value": "\\u{410}",
+            "value": "А",
             "typeAnnotation": null,
             "optional": false
           },
@@ -162,7 +162,7 @@
               "end": 347,
               "ctxt": 0
             },
-            "value": "\\u{411}",
+            "value": "Б",
             "typeAnnotation": null,
             "optional": false
           },
@@ -294,7 +294,7 @@
               "end": 398,
               "ctxt": 0
             },
-            "value": "\\u{412}",
+            "value": "В",
             "typeAnnotation": null,
             "optional": false
           },
@@ -426,7 +426,7 @@
               "end": 449,
               "ctxt": 0
             },
-            "value": "\\u{413}",
+            "value": "Г",
             "typeAnnotation": null,
             "optional": false
           },
@@ -558,7 +558,7 @@
               "end": 500,
               "ctxt": 0
             },
-            "value": "\\u{414}",
+            "value": "Д",
             "typeAnnotation": null,
             "optional": false
           },
@@ -690,7 +690,7 @@
               "end": 551,
               "ctxt": 0
             },
-            "value": "\\u{415}",
+            "value": "Е",
             "typeAnnotation": null,
             "optional": false
           },
@@ -822,7 +822,7 @@
               "end": 602,
               "ctxt": 0
             },
-            "value": "\\u{416}",
+            "value": "Ж",
             "typeAnnotation": null,
             "optional": false
           },
@@ -954,7 +954,7 @@
               "end": 653,
               "ctxt": 0
             },
-            "value": "\\u{417}",
+            "value": "З",
             "typeAnnotation": null,
             "optional": false
           },
@@ -1086,7 +1086,7 @@
               "end": 704,
               "ctxt": 0
             },
-            "value": "\\u{418}",
+            "value": "И",
             "typeAnnotation": null,
             "optional": false
           },
@@ -1218,7 +1218,7 @@
               "end": 755,
               "ctxt": 0
             },
-            "value": "\\u{419}",
+            "value": "Й",
             "typeAnnotation": null,
             "optional": false
           },
@@ -1350,7 +1350,7 @@
               "end": 806,
               "ctxt": 0
             },
-            "value": "\\u{41a}",
+            "value": "К",
             "typeAnnotation": null,
             "optional": false
           },
@@ -1482,7 +1482,7 @@
               "end": 857,
               "ctxt": 0
             },
-            "value": "\\u{41b}",
+            "value": "Л",
             "typeAnnotation": null,
             "optional": false
           },
@@ -1614,7 +1614,7 @@
               "end": 908,
               "ctxt": 0
             },
-            "value": "\\u{41c}",
+            "value": "М",
             "typeAnnotation": null,
             "optional": false
           },
@@ -1746,7 +1746,7 @@
               "end": 959,
               "ctxt": 0
             },
-            "value": "\\u{41d}",
+            "value": "Н",
             "typeAnnotation": null,
             "optional": false
           },
@@ -1878,7 +1878,7 @@
               "end": 1010,
               "ctxt": 0
             },
-            "value": "\\u{41e}",
+            "value": "О",
             "typeAnnotation": null,
             "optional": false
           },
@@ -2010,7 +2010,7 @@
               "end": 1061,
               "ctxt": 0
             },
-            "value": "\\u{41f}",
+            "value": "П",
             "typeAnnotation": null,
             "optional": false
           },
@@ -2142,7 +2142,7 @@
               "end": 1112,
               "ctxt": 0
             },
-            "value": "\\u{420}",
+            "value": "Р",
             "typeAnnotation": null,
             "optional": false
           },
@@ -2274,7 +2274,7 @@
               "end": 1163,
               "ctxt": 0
             },
-            "value": "\\u{421}",
+            "value": "С",
             "typeAnnotation": null,
             "optional": false
           },
@@ -2406,7 +2406,7 @@
               "end": 1214,
               "ctxt": 0
             },
-            "value": "\\u{422}",
+            "value": "Т",
             "typeAnnotation": null,
             "optional": false
           },
@@ -2538,7 +2538,7 @@
               "end": 1265,
               "ctxt": 0
             },
-            "value": "\\u{423}",
+            "value": "У",
             "typeAnnotation": null,
             "optional": false
           },
@@ -2670,7 +2670,7 @@
               "end": 1316,
               "ctxt": 0
             },
-            "value": "\\u{424}",
+            "value": "Ф",
             "typeAnnotation": null,
             "optional": false
           },
@@ -2802,7 +2802,7 @@
               "end": 1367,
               "ctxt": 0
             },
-            "value": "\\u{425}",
+            "value": "Х",
             "typeAnnotation": null,
             "optional": false
           },
@@ -2934,7 +2934,7 @@
               "end": 1418,
               "ctxt": 0
             },
-            "value": "\\u{426}",
+            "value": "Ц",
             "typeAnnotation": null,
             "optional": false
           },
@@ -3066,7 +3066,7 @@
               "end": 1469,
               "ctxt": 0
             },
-            "value": "\\u{427}",
+            "value": "Ч",
             "typeAnnotation": null,
             "optional": false
           },
@@ -3198,7 +3198,7 @@
               "end": 1520,
               "ctxt": 0
             },
-            "value": "\\u{428}",
+            "value": "Ш",
             "typeAnnotation": null,
             "optional": false
           },
@@ -3330,7 +3330,7 @@
               "end": 1571,
               "ctxt": 0
             },
-            "value": "\\u{429}",
+            "value": "Щ",
             "typeAnnotation": null,
             "optional": false
           },
@@ -3462,7 +3462,7 @@
               "end": 1622,
               "ctxt": 0
             },
-            "value": "\\u{42a}",
+            "value": "Ъ",
             "typeAnnotation": null,
             "optional": false
           },
@@ -3594,7 +3594,7 @@
               "end": 1673,
               "ctxt": 0
             },
-            "value": "\\u{42b}",
+            "value": "Ы",
             "typeAnnotation": null,
             "optional": false
           },
@@ -3726,7 +3726,7 @@
               "end": 1724,
               "ctxt": 0
             },
-            "value": "\\u{42c}",
+            "value": "Ь",
             "typeAnnotation": null,
             "optional": false
           },
@@ -3858,7 +3858,7 @@
               "end": 1775,
               "ctxt": 0
             },
-            "value": "\\u{42d}",
+            "value": "Э",
             "typeAnnotation": null,
             "optional": false
           },
@@ -3990,7 +3990,7 @@
               "end": 1826,
               "ctxt": 0
             },
-            "value": "\\u{42e}",
+            "value": "Ю",
             "typeAnnotation": null,
             "optional": false
           },
@@ -4122,7 +4122,7 @@
               "end": 1877,
               "ctxt": 0
             },
-            "value": "\\u{42f}",
+            "value": "Я",
             "typeAnnotation": null,
             "optional": false
           },
@@ -4254,7 +4254,7 @@
               "end": 1928,
               "ctxt": 0
             },
-            "value": "\\u{401}",
+            "value": "Ё",
             "typeAnnotation": null,
             "optional": false
           },
