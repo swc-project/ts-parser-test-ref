@@ -1,5 +1,5 @@
 {
-  "type": "Module",
+  "type": "Script",
   "span": {
     "start": 1,
     "end": 144,
@@ -93,13 +93,32 @@
       ]
     },
     {
-      "type": "TsInterfaceDeclaration",
+      "type": "ExpressionStatement",
       "span": {
         "start": 36,
-        "end": 144,
+        "end": 45,
         "ctxt": 0
       },
-      "id": {
+      "expression": {
+        "type": "Identifier",
+        "span": {
+          "start": 36,
+          "end": 45,
+          "ctxt": 0
+        },
+        "value": "interface",
+        "typeAnnotation": null,
+        "optional": false
+      }
+    },
+    {
+      "type": "ExpressionStatement",
+      "span": {
+        "start": 93,
+        "end": 94,
+        "ctxt": 0
+      },
+      "expression": {
         "type": "Identifier",
         "span": {
           "start": 93,
@@ -109,19 +128,16 @@
         "value": "I",
         "typeAnnotation": null,
         "optional": false
-      },
-      "declare": false,
-      "typeParams": null,
-      "extends": [],
-      "body": {
-        "type": "TsInterfaceBody",
-        "span": {
-          "start": 142,
-          "end": 144,
-          "ctxt": 0
-        },
-        "body": []
       }
+    },
+    {
+      "type": "BlockStatement",
+      "span": {
+        "start": 142,
+        "end": 144,
+        "ctxt": 0
+      },
+      "stmts": []
     }
   ],
   "interpreter": null
