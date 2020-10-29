@@ -1,5 +1,5 @@
 {
-  "type": "Script",
+  "type": "Module",
   "span": {
     "start": 244,
     "end": 510,
