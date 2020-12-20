@@ -99,7 +99,7 @@
       "params": [],
       "decorators": [],
       "span": {
-        "start": 184,
+        "start": 176,
         "end": 216,
         "ctxt": 0
       },
@@ -142,7 +142,7 @@
       "params": [],
       "decorators": [],
       "span": {
-        "start": 225,
+        "start": 217,
         "end": 264,
         "ctxt": 0
       },
@@ -171,7 +171,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 273,
+        "start": 265,
         "end": 297,
         "ctxt": 0
       },
@@ -220,7 +220,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 306,
+        "start": 298,
         "end": 330,
         "ctxt": 0
       },
@@ -269,7 +269,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 339,
+        "start": 331,
         "end": 364,
         "ctxt": 0
       },

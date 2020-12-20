@@ -9,7 +9,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 48,
+        "start": 40,
         "end": 63,
         "ctxt": 0
       },
@@ -58,7 +58,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 72,
+        "start": 64,
         "end": 96,
         "ctxt": 0
       },

@@ -23,7 +23,7 @@
       "params": [],
       "decorators": [],
       "span": {
-        "start": 93,
+        "start": 85,
         "end": 125,
         "ctxt": 0
       },
@@ -52,7 +52,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 134,
+        "start": 126,
         "end": 158,
         "ctxt": 0
       },
@@ -101,7 +101,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 167,
+        "start": 159,
         "end": 191,
         "ctxt": 0
       },
@@ -150,7 +150,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 200,
+        "start": 192,
         "end": 225,
         "ctxt": 0
       },

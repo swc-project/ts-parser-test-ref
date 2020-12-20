@@ -9,7 +9,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 45,
+        "start": 37,
         "end": 62,
         "ctxt": 0
       },
@@ -58,7 +58,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 71,
+        "start": 63,
         "end": 87,
         "ctxt": 0
       },
@@ -107,7 +107,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 96,
+        "start": 88,
         "end": 122,
         "ctxt": 0
       },
@@ -303,7 +303,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 132,
+        "start": 124,
         "end": 171,
         "ctxt": 0
       },
@@ -1027,7 +1027,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 442,
+        "start": 434,
         "end": 480,
         "ctxt": 0
       },
@@ -1287,7 +1287,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 534,
+        "start": 526,
         "end": 575,
         "ctxt": 0
       },
@@ -1773,7 +1773,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 729,
+        "start": 721,
         "end": 762,
         "ctxt": 0
       },
@@ -3119,7 +3119,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 1087,
+        "start": 1079,
         "end": 1128,
         "ctxt": 0
       },
@@ -3178,7 +3178,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 1137,
+        "start": 1129,
         "end": 1166,
         "ctxt": 0
       },
@@ -3463,7 +3463,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 1184,
+        "start": 1176,
         "end": 1224,
         "ctxt": 0
       },
@@ -4999,7 +4999,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 1900,
+        "start": 1892,
         "end": 1932,
         "ctxt": 0
       },
@@ -5069,7 +5069,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 1941,
+        "start": 1933,
         "end": 1975,
         "ctxt": 0
       },

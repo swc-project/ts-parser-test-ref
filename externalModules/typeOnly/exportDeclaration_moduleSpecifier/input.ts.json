@@ -127,7 +127,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 143,
+        "start": 135,
         "end": 154,
         "ctxt": 0
       },

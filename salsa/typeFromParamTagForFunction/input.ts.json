@@ -60,7 +60,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 106,
+        "start": 98,
         "end": 140,
         "ctxt": 0
       },
@@ -89,7 +89,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 149,
+        "start": 141,
         "end": 179,
         "ctxt": 0
       },

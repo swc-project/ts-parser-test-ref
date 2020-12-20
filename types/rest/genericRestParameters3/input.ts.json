@@ -9,7 +9,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 48,
+        "start": 40,
         "end": 115,
         "ctxt": 0
       },
@@ -220,7 +220,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 124,
+        "start": 116,
         "end": 163,
         "ctxt": 0
       },
@@ -342,7 +342,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 172,
+        "start": 164,
         "end": 223,
         "ctxt": 0
       },
@@ -491,7 +491,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 232,
+        "start": 224,
         "end": 304,
         "ctxt": 0
       },
@@ -711,7 +711,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 314,
+        "start": 306,
         "end": 353,
         "ctxt": 0
       },
@@ -835,7 +835,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 362,
+        "start": 354,
         "end": 410,
         "ctxt": 0
       },
@@ -968,7 +968,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 419,
+        "start": 411,
         "end": 467,
         "ctxt": 0
       },
@@ -1101,7 +1101,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 476,
+        "start": 468,
         "end": 533,
         "ctxt": 0
       },
@@ -2218,7 +2218,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 945,
+        "start": 937,
         "end": 1007,
         "ctxt": 0
       },
@@ -3047,7 +3047,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 1265,
+        "start": 1257,
         "end": 1310,
         "ctxt": 0
       },
@@ -3106,7 +3106,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 1319,
+        "start": 1311,
         "end": 1347,
         "ctxt": 0
       },
@@ -3433,7 +3433,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 1468,
+        "start": 1460,
         "end": 1532,
         "ctxt": 0
       },
@@ -3783,7 +3783,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 1677,
+        "start": 1669,
         "end": 1727,
         "ctxt": 0
       },

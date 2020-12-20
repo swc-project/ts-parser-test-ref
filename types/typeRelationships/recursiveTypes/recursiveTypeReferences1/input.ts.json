@@ -3213,7 +3213,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 1247,
+        "start": 1239,
         "end": 1290,
         "ctxt": 0
       },
@@ -3462,7 +3462,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 1299,
+        "start": 1291,
         "end": 1350,
         "ctxt": 0
       },
@@ -3770,7 +3770,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 1359,
+        "start": 1351,
         "end": 1422,
         "ctxt": 0
       },
@@ -6277,7 +6277,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 2319,
+        "start": 2311,
         "end": 2360,
         "ctxt": 0
       },
@@ -6347,7 +6347,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 2369,
+        "start": 2361,
         "end": 2400,
         "ctxt": 0
       },
@@ -6860,7 +6860,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 2540,
+        "start": 2532,
         "end": 2581,
         "ctxt": 0
       },
@@ -6930,7 +6930,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 2590,
+        "start": 2582,
         "end": 2621,
         "ctxt": 0
       },

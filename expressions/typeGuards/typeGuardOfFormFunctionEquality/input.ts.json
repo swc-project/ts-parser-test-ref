@@ -107,7 +107,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 8,
+        "start": 0,
         "end": 62,
         "ctxt": 0
       },
@@ -226,7 +226,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 72,
+        "start": 64,
         "end": 115,
         "ctxt": 0
       },

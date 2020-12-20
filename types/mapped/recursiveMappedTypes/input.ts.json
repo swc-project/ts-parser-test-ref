@@ -1964,7 +1964,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 965,
+        "start": 957,
         "end": 997,
         "ctxt": 0
       },
@@ -3449,7 +3449,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 1710,
+        "start": 1702,
         "end": 1727,
         "ctxt": 0
       },

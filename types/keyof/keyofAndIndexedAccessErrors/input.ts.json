@@ -2602,7 +2602,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 1374,
+        "start": 1366,
         "end": 1392,
         "ctxt": 0
       },

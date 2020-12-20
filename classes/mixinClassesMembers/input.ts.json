@@ -715,7 +715,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 367,
+        "start": 359,
         "end": 403,
         "ctxt": 0
       },
@@ -803,7 +803,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 412,
+        "start": 404,
         "end": 448,
         "ctxt": 0
       },
@@ -891,7 +891,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 457,
+        "start": 449,
         "end": 505,
         "ctxt": 0
       },
@@ -998,7 +998,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 514,
+        "start": 506,
         "end": 562,
         "ctxt": 0
       },
@@ -1105,7 +1105,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 571,
+        "start": 563,
         "end": 607,
         "ctxt": 0
       },

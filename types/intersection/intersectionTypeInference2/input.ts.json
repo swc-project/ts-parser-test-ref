@@ -114,7 +114,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 8,
+        "start": 0,
         "end": 41,
         "ctxt": 0
       },
@@ -184,7 +184,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 51,
+        "start": 43,
         "end": 96,
         "ctxt": 0
       },
@@ -338,7 +338,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 105,
+        "start": 97,
         "end": 140,
         "ctxt": 0
       },
@@ -735,7 +735,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 205,
+        "start": 197,
         "end": 288,
         "ctxt": 0
       },
@@ -883,7 +883,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 298,
+        "start": 290,
         "end": 339,
         "ctxt": 0
       },

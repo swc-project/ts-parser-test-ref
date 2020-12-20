@@ -168,7 +168,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 214,
+        "start": 206,
         "end": 245,
         "ctxt": 0
       },
@@ -2230,7 +2230,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 2456,
+        "start": 2448,
         "end": 2467,
         "ctxt": 0
       },
@@ -3603,7 +3603,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 3694,
+        "start": 3686,
         "end": 3705,
         "ctxt": 0
       },
@@ -4122,7 +4122,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 4080,
+        "start": 4072,
         "end": 4091,
         "ctxt": 0
       },
@@ -4993,7 +4993,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 4789,
+        "start": 4781,
         "end": 4812,
         "ctxt": 0
       },
@@ -5140,7 +5140,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 4869,
+        "start": 4861,
         "end": 4903,
         "ctxt": 0
       },
@@ -5374,7 +5374,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 4912,
+        "start": 4904,
         "end": 4935,
         "ctxt": 0
       },
@@ -5505,7 +5505,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 4944,
+        "start": 4936,
         "end": 4974,
         "ctxt": 0
       },
@@ -5609,7 +5609,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 4983,
+        "start": 4975,
         "end": 5015,
         "ctxt": 0
       },

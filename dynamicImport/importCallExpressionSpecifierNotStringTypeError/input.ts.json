@@ -23,7 +23,7 @@
       "params": [],
       "decorators": [],
       "span": {
-        "start": 71,
+        "start": 63,
         "end": 104,
         "ctxt": 0
       },
@@ -52,7 +52,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 113,
+        "start": 105,
         "end": 137,
         "ctxt": 0
       },

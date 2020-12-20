@@ -9,7 +9,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 52,
+        "start": 44,
         "end": 58,
         "ctxt": 0
       },
@@ -42,7 +42,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 109,
+        "start": 101,
         "end": 123,
         "ctxt": 0
       },
@@ -105,7 +105,7 @@
       "params": [],
       "decorators": [],
       "span": {
-        "start": 178,
+        "start": 170,
         "end": 193,
         "ctxt": 0
       },
@@ -169,7 +169,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 245,
+        "start": 237,
         "end": 277,
         "ctxt": 0
       },
@@ -249,7 +249,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 328,
+        "start": 320,
         "end": 360,
         "ctxt": 0
       },
@@ -365,7 +365,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 369,
+        "start": 361,
         "end": 412,
         "ctxt": 0
       },
@@ -449,7 +449,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 467,
+        "start": 459,
         "end": 487,
         "ctxt": 0
       },
@@ -497,7 +497,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 496,
+        "start": 488,
         "end": 513,
         "ctxt": 0
       },
@@ -599,7 +599,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 522,
+        "start": 514,
         "end": 548,
         "ctxt": 0
       },
@@ -705,7 +705,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 557,
+        "start": 549,
         "end": 590,
         "ctxt": 0
       },
@@ -791,7 +791,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 599,
+        "start": 591,
         "end": 624,
         "ctxt": 0
       },
@@ -888,7 +888,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 633,
+        "start": 625,
         "end": 661,
         "ctxt": 0
       },

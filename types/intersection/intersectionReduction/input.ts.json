@@ -9,7 +9,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 27,
+        "start": 19,
         "end": 53,
         "ctxt": 0
       },
@@ -67,7 +67,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 62,
+        "start": 54,
         "end": 88,
         "ctxt": 0
       },
@@ -2402,7 +2402,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 1077,
+        "start": 1069,
         "end": 1091,
         "ctxt": 0
       },
@@ -2531,7 +2531,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 1120,
+        "start": 1112,
         "end": 1139,
         "ctxt": 0
       },
@@ -5459,7 +5459,7 @@
       ],
       "decorators": [],
       "span": {
-        "start": 1944,
+        "start": 1936,
         "end": 1978,
         "ctxt": 0
       },
@@ -5529,7 +5529,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 1988,
+        "start": 1980,
         "end": 2002,
         "ctxt": 0
       },
@@ -5619,7 +5619,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 2011,
+        "start": 2003,
         "end": 2029,
         "ctxt": 0
       },
@@ -6053,7 +6053,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 2188,
+        "start": 2180,
         "end": 2205,
         "ctxt": 0
       },
@@ -6333,7 +6333,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 2319,
+        "start": 2311,
         "end": 2341,
         "ctxt": 0
       },
@@ -6412,7 +6412,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 2350,
+        "start": 2342,
         "end": 2372,
         "ctxt": 0
       },
@@ -6491,7 +6491,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 2382,
+        "start": 2374,
         "end": 2416,
         "ctxt": 0
       },
@@ -6589,7 +6589,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 2425,
+        "start": 2417,
         "end": 2459,
         "ctxt": 0
       },
@@ -8319,7 +8319,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 3046,
+        "start": 3038,
         "end": 3078,
         "ctxt": 0
       },

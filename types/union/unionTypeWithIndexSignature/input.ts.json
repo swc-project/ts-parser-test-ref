@@ -258,7 +258,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 116,
+        "start": 108,
         "end": 126,
         "ctxt": 0
       },
@@ -647,7 +647,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 245,
+        "start": 237,
         "end": 257,
         "ctxt": 0
       },
@@ -1014,7 +1014,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 367,
+        "start": 359,
         "end": 381,
         "ctxt": 0
       },
@@ -1319,7 +1319,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 470,
+        "start": 462,
         "end": 480,
         "ctxt": 0
       },
@@ -1584,7 +1584,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 565,
+        "start": 557,
         "end": 577,
         "ctxt": 0
       },
@@ -2114,7 +2114,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 745,
+        "start": 737,
         "end": 759,
         "ctxt": 0
       },

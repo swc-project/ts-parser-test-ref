@@ -9,7 +9,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 76,
+        "start": 68,
         "end": 99,
         "ctxt": 0
       },
@@ -77,7 +77,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 108,
+        "start": 100,
         "end": 157,
         "ctxt": 0
       },
@@ -203,7 +203,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 166,
+        "start": 158,
         "end": 202,
         "ctxt": 0
       },
@@ -300,7 +300,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 211,
+        "start": 203,
         "end": 247,
         "ctxt": 0
       },
@@ -397,7 +397,7 @@
     {
       "type": "VariableDeclaration",
       "span": {
-        "start": 256,
+        "start": 248,
         "end": 301,
         "ctxt": 0
       },
