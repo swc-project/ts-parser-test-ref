@@ -37,7 +37,7 @@
                 "end": 41,
                 "ctxt": 0
               },
-              "value": "\r",
+              "value": "\n",
               "hasEscape": true
             },
             "raw": {
@@ -47,7 +47,7 @@
                 "end": 41,
                 "ctxt": 0
               },
-              "value": "\r\\\r",
+              "value": "\n\\\r",
               "hasEscape": true
             }
           }
