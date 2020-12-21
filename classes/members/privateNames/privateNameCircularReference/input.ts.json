@@ -186,7 +186,11 @@
               "ctxt": 0
             },
             "value": "#baz",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "value": {
             "type": "MemberExpression",
@@ -211,7 +215,11 @@
                 "ctxt": 0
               },
               "value": "#baz",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },

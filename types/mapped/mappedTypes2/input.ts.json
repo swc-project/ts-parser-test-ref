@@ -3804,7 +3804,11 @@
                             "ctxt": 0
                           },
                           "value": "circle",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         }
                       }
                     ]
@@ -4703,7 +4707,11 @@
                           "ctxt": 0
                         },
                         "value": "name",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     },
                     {
@@ -4716,7 +4724,11 @@
                           "ctxt": 0
                         },
                         "value": "location",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   ],
@@ -4819,7 +4831,11 @@
                           "ctxt": 0
                         },
                         "value": "hello",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     },
                     {
@@ -4843,7 +4859,11 @@
                           "ctxt": 0
                         },
                         "value": "world",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     },
                     {
@@ -4867,7 +4887,11 @@
                           "ctxt": 0
                         },
                         "value": "bye",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   ]

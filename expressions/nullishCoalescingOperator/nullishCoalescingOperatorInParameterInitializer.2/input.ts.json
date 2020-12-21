@@ -181,7 +181,11 @@
                       "ctxt": 0
                     },
                     "value": "d",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 },
                 "typeAnnotation": null
@@ -276,7 +280,11 @@
               "ctxt": 0
             },
             "value": "",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }
@@ -366,7 +374,11 @@
                       "ctxt": 0
                     },
                     "value": "d",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 },
                 "typeAnnotation": null

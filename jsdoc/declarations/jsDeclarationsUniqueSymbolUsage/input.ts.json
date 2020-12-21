@@ -70,7 +70,11 @@
                       "ctxt": 0
                     },
                     "value": "my-symbol",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],

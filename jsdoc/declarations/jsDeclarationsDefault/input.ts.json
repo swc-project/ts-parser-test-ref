@@ -395,7 +395,11 @@
           "ctxt": 0
         },
         "value": "./index3",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null

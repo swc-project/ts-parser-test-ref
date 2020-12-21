@@ -312,7 +312,11 @@
                       "ctxt": 0
                     },
                     "value": "",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 },
                 {
@@ -351,7 +355,11 @@
                       "ctxt": 0
                     },
                     "value": "string",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ]
@@ -503,7 +511,11 @@
                         "ctxt": 0
                       },
                       "value": "number",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   }
                 ]

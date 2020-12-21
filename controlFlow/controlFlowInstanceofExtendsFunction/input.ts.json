@@ -209,7 +209,11 @@
                     "ctxt": 0
                   },
                   "value": "now",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ]

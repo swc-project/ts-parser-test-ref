@@ -311,7 +311,11 @@
             "ctxt": 0
           },
           "value": "this is fine",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "computed": true
       }
@@ -479,7 +483,11 @@
             "ctxt": 0
           },
           "value": "that's ok",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "computed": true
       }

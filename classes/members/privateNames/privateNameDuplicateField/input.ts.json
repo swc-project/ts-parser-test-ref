@@ -61,7 +61,11 @@
               "ctxt": 0
             },
             "value": "foo",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": null,
           "isStatic": false,
@@ -107,7 +111,11 @@
               "ctxt": 0
             },
             "value": "foo",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": null,
           "isStatic": false,

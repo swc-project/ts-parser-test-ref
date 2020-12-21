@@ -295,7 +295,11 @@
                         "ctxt": 0
                       },
                       "value": "foo",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     },
                     "property": {
                       "type": "Identifier",
@@ -375,7 +379,11 @@
                         "ctxt": 0
                       },
                       "value": "foo",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     },
                     "property": {
                       "type": "Identifier",
@@ -647,7 +655,11 @@
                         "ctxt": 0
                       },
                       "value": "foo",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     },
                     "property": {
                       "type": "Identifier",

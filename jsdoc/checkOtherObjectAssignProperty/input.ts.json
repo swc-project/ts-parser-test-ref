@@ -164,7 +164,11 @@
                 "ctxt": 0
               },
               "value": "thing",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           {
@@ -228,7 +232,11 @@
                 "ctxt": 0
               },
               "value": "other",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           "definite": false
@@ -408,7 +416,11 @@
               "ctxt": 0
             },
             "value": "prop",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }
@@ -621,7 +633,11 @@
                 "ctxt": 0
               },
               "value": "bad1",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           {
@@ -710,7 +726,11 @@
                 "ctxt": 0
               },
               "value": "bad2",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           {
@@ -796,7 +816,11 @@
                       "ctxt": 0
                     },
                     "value": "no",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ]
@@ -876,7 +900,11 @@
                 "ctxt": 0
               },
               "value": "bad3",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           {
@@ -976,7 +1004,11 @@
                     "ctxt": 0
                   },
                   "value": "./mod1",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],

@@ -122,7 +122,11 @@
                         "ctxt": 0
                       },
                       "value": "",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   }
                 ]
@@ -219,7 +223,11 @@
               "ctxt": 0
             },
             "value": "",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "consequent": []
         },
@@ -491,7 +499,11 @@
                     "ctxt": 0
                   },
                   "value": "a",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ]
@@ -670,7 +682,11 @@
                 "ctxt": 0
               },
               "value": "",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "async": false,
             "generator": false,
@@ -774,7 +790,11 @@
                     "ctxt": 0
                   },
                   "value": "",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 },
                 "async": false,
                 "generator": false,
@@ -1118,7 +1138,11 @@
                     "ctxt": 0
                   },
                   "value": "",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ]
@@ -1172,7 +1196,11 @@
           "ctxt": 0
         },
         "value": "",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "cases": []
     },
@@ -1444,7 +1472,11 @@
                 "ctxt": 0
               },
               "value": "a",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         ]
@@ -1502,7 +1534,11 @@
             "ctxt": 0
           },
           "value": "",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "async": false,
         "generator": false,
@@ -1617,7 +1653,11 @@
                 "ctxt": 0
               },
               "value": "",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "async": false,
             "generator": false,

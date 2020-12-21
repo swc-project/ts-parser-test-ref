@@ -70,7 +70,11 @@
                       "ctxt": 0
                     },
                     "value": "start",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 },
                 {
@@ -94,7 +98,11 @@
                       "ctxt": 0
                     },
                     "value": "middle",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 },
                 {
@@ -118,7 +126,11 @@
                       "ctxt": 0
                     },
                     "value": "end",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 },
                 {
@@ -806,7 +818,11 @@
                     "ctxt": 0
                   },
                   "value": "something else",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             }

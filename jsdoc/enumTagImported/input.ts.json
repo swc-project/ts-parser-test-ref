@@ -42,7 +42,11 @@
               "ctxt": 0
             },
             "value": "add",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }
@@ -84,7 +88,11 @@
               "ctxt": 0
             },
             "value": "remove",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }
@@ -127,7 +135,11 @@
           "ctxt": 0
         },
         "value": "./mod1",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -259,7 +271,11 @@
                       "ctxt": 0
                     },
                     "value": "add",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 },
                 {
@@ -283,7 +299,11 @@
                       "ctxt": 0
                     },
                     "value": "remove",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ]

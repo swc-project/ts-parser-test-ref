@@ -108,7 +108,11 @@
               "ctxt": 0
             },
             "value": "",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": null,
           "isStatic": false,
@@ -242,7 +246,11 @@
                 "ctxt": 0
               },
               "value": "y",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },
@@ -304,7 +312,11 @@
                 "ctxt": 0
               },
               "value": "a",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },
@@ -616,7 +628,11 @@
                 "ctxt": 0
               },
               "value": "y",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },
@@ -678,7 +694,11 @@
                 "ctxt": 0
               },
               "value": "a",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },
@@ -948,7 +968,11 @@
                 "ctxt": 0
               },
               "value": "y",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },
@@ -1010,7 +1034,11 @@
                 "ctxt": 0
               },
               "value": "a",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },
@@ -1208,7 +1236,11 @@
                     "ctxt": 0
                   },
                   "value": "",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ]
@@ -1271,7 +1303,11 @@
                 "ctxt": 0
               },
               "value": "y",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },
@@ -1333,7 +1369,11 @@
                 "ctxt": 0
               },
               "value": "a",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },

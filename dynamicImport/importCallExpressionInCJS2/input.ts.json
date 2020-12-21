@@ -57,7 +57,11 @@
                   "ctxt": 0
                 },
                 "value": "foo",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               }
             }
           ]
@@ -119,7 +123,11 @@
                   "ctxt": 0
                 },
                 "value": "backup",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               }
             }
           ]
@@ -373,7 +381,11 @@
                                 "ctxt": 0
                               },
                               "value": "./1",
-                              "hasEscape": false
+                              "hasEscape": false,
+                              "kind": {
+                                "type": "normal",
+                                "containsQuote": true
+                              }
                             }
                           }
                         ],
@@ -548,7 +560,11 @@
                       "ctxt": 0
                     },
                     "value": "./0",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],

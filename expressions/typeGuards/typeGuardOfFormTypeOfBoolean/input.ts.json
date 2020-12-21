@@ -856,7 +856,11 @@
             "ctxt": 0
           },
           "value": "boolean",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -1001,7 +1005,11 @@
             "ctxt": 0
           },
           "value": "boolean",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -1146,7 +1154,11 @@
             "ctxt": 0
           },
           "value": "boolean",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -1291,7 +1303,11 @@
             "ctxt": 0
           },
           "value": "boolean",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -1436,7 +1452,11 @@
             "ctxt": 0
           },
           "value": "boolean",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -1640,7 +1660,11 @@
             "ctxt": 0
           },
           "value": "boolean",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -1785,7 +1809,11 @@
             "ctxt": 0
           },
           "value": "boolean",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -1930,7 +1958,11 @@
             "ctxt": 0
           },
           "value": "boolean",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -2075,7 +2107,11 @@
             "ctxt": 0
           },
           "value": "boolean",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -2220,7 +2256,11 @@
             "ctxt": 0
           },
           "value": "boolean",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {

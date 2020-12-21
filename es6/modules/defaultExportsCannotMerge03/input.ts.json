@@ -254,7 +254,11 @@
           "ctxt": 0
         },
         "value": "m1",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null

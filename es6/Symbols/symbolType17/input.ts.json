@@ -205,7 +205,11 @@
             "ctxt": 0
           },
           "value": "symbol",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {

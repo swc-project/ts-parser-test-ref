@@ -1395,7 +1395,11 @@
               "ctxt": 0
             },
             "value": "abc",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": {
             "type": "TsTypeAnnotation",
@@ -1564,7 +1568,11 @@
               "ctxt": 0
             },
             "value": "abc",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": {
             "type": "TsTypeAnnotation",
@@ -2774,7 +2782,11 @@
               "ctxt": 0
             },
             "value": "b",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "value": null,
           "typeAnnotation": {

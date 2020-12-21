@@ -52,7 +52,11 @@
                 "ctxt": 0
               },
               "value": "a",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "right": {
               "type": "StringLiteral",
@@ -62,7 +66,11 @@
                 "ctxt": 0
               },
               "value": "b",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           "computed": true

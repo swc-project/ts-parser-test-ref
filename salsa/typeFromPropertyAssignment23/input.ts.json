@@ -465,7 +465,11 @@
                       "ctxt": 0
                     },
                     "value": "not checked, so no error",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               }
@@ -730,7 +734,11 @@
                       "ctxt": 0
                     },
                     "value": "normal",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ]

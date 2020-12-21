@@ -2283,7 +2283,11 @@
                                   "ctxt": 0
                                 },
                                 "value": "serial",
-                                "hasEscape": false
+                                "hasEscape": false,
+                                "kind": {
+                                  "type": "normal",
+                                  "containsQuote": true
+                                }
                               }
                             }
                           ]

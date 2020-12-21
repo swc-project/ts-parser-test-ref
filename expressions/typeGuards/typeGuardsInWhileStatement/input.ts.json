@@ -183,7 +183,11 @@
                   "ctxt": 0
                 },
                 "value": "string",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               }
             },
             "body": {
@@ -409,7 +413,11 @@
                   "ctxt": 0
                 },
                 "value": "string",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               }
             },
             "body": {
@@ -664,7 +672,11 @@
                   "ctxt": 0
                 },
                 "value": "string",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               }
             },
             "body": {

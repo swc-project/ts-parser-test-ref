@@ -42,7 +42,11 @@
               "ctxt": 0
             },
             "value": "constructor",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "params": [],
           "body": {
@@ -162,7 +166,11 @@
               "ctxt": 0
             },
             "value": "constructor",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "params": [],
           "body": {
@@ -289,7 +297,11 @@
                 "ctxt": 0
               },
               "value": "constructor",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           "function": {
@@ -428,7 +440,11 @@
                   "ctxt": 0
                 },
                 "value": "constructor",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               },
               "params": [],
               "body": {
@@ -562,7 +578,11 @@
                     "ctxt": 0
                   },
                   "value": "constructor",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 },
                 "params": [],
                 "decorators": [],
@@ -627,7 +647,11 @@
               "ctxt": 0
             },
             "value": "constructor",
-            "hasEscape": true
+            "hasEscape": true,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "params": [],
           "body": {

@@ -141,7 +141,11 @@
                       "ctxt": 0
                     },
                     "value": "nope, not going to happen",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               }

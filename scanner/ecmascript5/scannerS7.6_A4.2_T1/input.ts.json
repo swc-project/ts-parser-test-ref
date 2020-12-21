@@ -127,7 +127,11 @@
                       "ctxt": 0
                     },
                     "value": "#А",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -259,7 +263,11 @@
                       "ctxt": 0
                     },
                     "value": "#Б",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -391,7 +399,11 @@
                       "ctxt": 0
                     },
                     "value": "#В",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -523,7 +535,11 @@
                       "ctxt": 0
                     },
                     "value": "#Г",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -655,7 +671,11 @@
                       "ctxt": 0
                     },
                     "value": "#Д",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -787,7 +807,11 @@
                       "ctxt": 0
                     },
                     "value": "#Е",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -919,7 +943,11 @@
                       "ctxt": 0
                     },
                     "value": "#Ж",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -1051,7 +1079,11 @@
                       "ctxt": 0
                     },
                     "value": "#З",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -1183,7 +1215,11 @@
                       "ctxt": 0
                     },
                     "value": "#И",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -1315,7 +1351,11 @@
                       "ctxt": 0
                     },
                     "value": "#Й",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -1447,7 +1487,11 @@
                       "ctxt": 0
                     },
                     "value": "#К",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -1579,7 +1623,11 @@
                       "ctxt": 0
                     },
                     "value": "#Л",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -1711,7 +1759,11 @@
                       "ctxt": 0
                     },
                     "value": "#М",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -1843,7 +1895,11 @@
                       "ctxt": 0
                     },
                     "value": "#Н",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -1975,7 +2031,11 @@
                       "ctxt": 0
                     },
                     "value": "#О",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -2107,7 +2167,11 @@
                       "ctxt": 0
                     },
                     "value": "#П",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -2239,7 +2303,11 @@
                       "ctxt": 0
                     },
                     "value": "#Р",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -2371,7 +2439,11 @@
                       "ctxt": 0
                     },
                     "value": "#С",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -2503,7 +2575,11 @@
                       "ctxt": 0
                     },
                     "value": "#Т",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -2635,7 +2711,11 @@
                       "ctxt": 0
                     },
                     "value": "#У",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -2767,7 +2847,11 @@
                       "ctxt": 0
                     },
                     "value": "#Ф",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -2899,7 +2983,11 @@
                       "ctxt": 0
                     },
                     "value": "#Х",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -3031,7 +3119,11 @@
                       "ctxt": 0
                     },
                     "value": "#Ц",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -3163,7 +3255,11 @@
                       "ctxt": 0
                     },
                     "value": "#Ч",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -3295,7 +3391,11 @@
                       "ctxt": 0
                     },
                     "value": "#Ш",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -3427,7 +3527,11 @@
                       "ctxt": 0
                     },
                     "value": "#Щ",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -3559,7 +3663,11 @@
                       "ctxt": 0
                     },
                     "value": "#Ъ",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -3691,7 +3799,11 @@
                       "ctxt": 0
                     },
                     "value": "#Ы",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -3823,7 +3935,11 @@
                       "ctxt": 0
                     },
                     "value": "#Ь",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -3955,7 +4071,11 @@
                       "ctxt": 0
                     },
                     "value": "#Э",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -4087,7 +4207,11 @@
                       "ctxt": 0
                     },
                     "value": "#Ю",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -4219,7 +4343,11 @@
                       "ctxt": 0
                     },
                     "value": "#Я",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -4351,7 +4479,11 @@
                       "ctxt": 0
                     },
                     "value": "#Ё",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],

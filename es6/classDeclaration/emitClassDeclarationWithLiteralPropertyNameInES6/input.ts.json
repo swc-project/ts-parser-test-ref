@@ -42,7 +42,11 @@
               "ctxt": 0
             },
             "value": "hello",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "value": {
             "type": "NumericLiteral",
@@ -88,7 +92,11 @@
               "ctxt": 0
             },
             "value": "world",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": null,
           "isStatic": false,
@@ -125,7 +133,11 @@
               "ctxt": 0
             },
             "value": "WORLD",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": null,
           "isStatic": false,
@@ -162,7 +174,11 @@
               "ctxt": 0
             },
             "value": "twenty",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": null,
           "isStatic": false,
@@ -190,7 +206,11 @@
               "ctxt": 0
             },
             "value": "foo",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "function": {
             "params": [],
@@ -369,7 +389,11 @@
               "ctxt": 0
             },
             "value": "hi",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "value": {
             "type": "NumericLiteral",
@@ -415,7 +439,11 @@
               "ctxt": 0
             },
             "value": "twenty-two",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": null,
           "isStatic": true,
@@ -452,7 +480,11 @@
               "ctxt": 0
             },
             "value": "binary",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": null,
           "isStatic": true,
@@ -489,7 +521,11 @@
               "ctxt": 0
             },
             "value": "octal",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": null,
           "isStatic": true,

@@ -727,7 +727,11 @@
             "ctxt": 0
           },
           "value": "eager",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -773,7 +777,11 @@
               "ctxt": 0
             },
             "value": "lazy",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "async": false,
           "generator": false,
@@ -1396,7 +1404,11 @@
             "ctxt": 0
           },
           "value": "string",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -1455,7 +1467,11 @@
                   "ctxt": 0
                 },
                 "value": "hello",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               }
             }
           ]
@@ -1538,7 +1554,11 @@
                         "ctxt": 0
                       },
                       "value": "world",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   }
                 ]
@@ -1981,7 +2001,11 @@
             "ctxt": 0
           },
           "value": "hello",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -2694,7 +2718,11 @@
             "ctxt": 0
           },
           "value": "test",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },

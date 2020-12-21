@@ -1074,7 +1074,11 @@
                       "ctxt": 0
                     },
                     "value": "./foo",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   },
                   "qualifier": null,
                   "typeArguments": {
@@ -1305,7 +1309,11 @@
                       "ctxt": 0
                     },
                     "value": "./foo2",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   },
                   "qualifier": {
                     "type": "TsQualifiedName",
@@ -1427,7 +1435,11 @@
                       "ctxt": 0
                     },
                     "value": "",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 },
                 {
@@ -1928,7 +1940,11 @@
                         "ctxt": 0
                       },
                       "value": "./foo2",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     },
                     "qualifier": null,
                     "typeArguments": null

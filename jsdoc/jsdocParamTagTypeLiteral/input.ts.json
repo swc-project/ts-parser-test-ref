@@ -277,7 +277,11 @@
                       "ctxt": 0
                     },
                     "value": "abc",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ]
@@ -468,7 +472,11 @@
                             "ctxt": 0
                           },
                           "value": "world",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         }
                       }
                     ]
@@ -634,7 +642,11 @@
                       "ctxt": 0
                     },
                     "value": "abc",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ]
@@ -825,7 +837,11 @@
                             "ctxt": 0
                           },
                           "value": "hi",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         }
                       }
                     ]
@@ -1134,7 +1150,11 @@
                             "ctxt": 0
                           },
                           "value": "help",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         }
                       },
                       {
@@ -1179,7 +1199,11 @@
                                   "ctxt": 0
                                 },
                                 "value": "a",
-                                "hasEscape": false
+                                "hasEscape": false,
+                                "kind": {
+                                  "type": "normal",
+                                  "containsQuote": true
+                                }
                               }
                             },
                             {
@@ -1234,7 +1258,11 @@
                                               "ctxt": 0
                                             },
                                             "value": "idea",
-                                            "hasEscape": false
+                                            "hasEscape": false,
+                                            "kind": {
+                                              "type": "normal",
+                                              "containsQuote": true
+                                            }
                                           }
                                         },
                                         {

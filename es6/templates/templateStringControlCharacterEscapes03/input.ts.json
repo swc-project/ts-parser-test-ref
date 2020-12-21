@@ -59,7 +59,11 @@
                     "ctxt": 0
                   },
                   "value": "\u001f\u001f 1F 1f",
-                  "hasEscape": true
+                  "hasEscape": true,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": false
+                  }
                 },
                 "raw": {
                   "type": "StringLiteral",
@@ -69,7 +73,11 @@
                     "ctxt": 0
                   },
                   "value": "\\0x1F\\u001f 1F 1f",
-                  "hasEscape": true
+                  "hasEscape": true,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": false
+                  }
                 }
               }
             ]

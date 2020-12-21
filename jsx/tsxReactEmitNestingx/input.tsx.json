@@ -264,7 +264,11 @@
                         "ctxt": 0
                       },
                       "value": "todoapp",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   }
                 ],
@@ -334,7 +338,11 @@
                             "ctxt": 0
                           },
                           "value": "header",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         }
                       }
                     ],
@@ -475,7 +483,11 @@
                                 "ctxt": 0
                               },
                               "value": "new-todo",
-                              "hasEscape": false
+                              "hasEscape": false,
+                              "kind": {
+                                "type": "normal",
+                                "containsQuote": true
+                              }
                             }
                           },
                           {
@@ -524,7 +536,11 @@
                                 "ctxt": 0
                               },
                               "value": "off",
-                              "hasEscape": false
+                              "hasEscape": false,
+                              "kind": {
+                                "type": "normal",
+                                "containsQuote": true
+                              }
                             }
                           },
                           {
@@ -553,7 +569,11 @@
                                 "ctxt": 0
                               },
                               "value": "What needs to be done?",
-                              "hasEscape": false
+                              "hasEscape": false,
+                              "kind": {
+                                "type": "normal",
+                                "containsQuote": true
+                              }
                             }
                           },
                           {
@@ -831,7 +851,11 @@
                             "ctxt": 0
                           },
                           "value": "main",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         }
                       },
                       {
@@ -994,7 +1018,11 @@
                                       "ctxt": 0
                                     },
                                     "value": "block",
-                                    "hasEscape": false
+                                    "hasEscape": false,
+                                    "kind": {
+                                      "type": "normal",
+                                      "containsQuote": true
+                                    }
                                   },
                                   "alternate": {
                                     "type": "StringLiteral",
@@ -1004,7 +1032,11 @@
                                       "ctxt": 0
                                     },
                                     "value": "none",
-                                    "hasEscape": false
+                                    "hasEscape": false,
+                                    "kind": {
+                                      "type": "normal",
+                                      "containsQuote": true
+                                    }
                                   }
                                 }
                               }
@@ -1079,7 +1111,11 @@
                                 "ctxt": 0
                               },
                               "value": "toggle-all",
-                              "hasEscape": false
+                              "hasEscape": false,
+                              "kind": {
+                                "type": "normal",
+                                "containsQuote": true
+                              }
                             }
                           },
                           {
@@ -1108,7 +1144,11 @@
                                 "ctxt": 0
                               },
                               "value": "checkbox",
-                              "hasEscape": false
+                              "hasEscape": false,
+                              "kind": {
+                                "type": "normal",
+                                "containsQuote": true
+                              }
                             }
                           },
                           {
@@ -1283,7 +1323,11 @@
                                 "ctxt": 0
                               },
                               "value": "todo-list",
-                              "hasEscape": false
+                              "hasEscape": false,
+                              "kind": {
+                                "type": "normal",
+                                "containsQuote": true
+                              }
                             }
                           }
                         ],
@@ -1652,7 +1696,11 @@
                                                   "ctxt": 0
                                                 },
                                                 "value": "view",
-                                                "hasEscape": false
+                                                "hasEscape": false,
+                                                "kind": {
+                                                  "type": "normal",
+                                                  "containsQuote": true
+                                                }
                                               }
                                             }
                                           ],
@@ -1784,7 +1832,11 @@
                                                           "ctxt": 0
                                                         },
                                                         "value": "toggle",
-                                                        "hasEscape": false
+                                                        "hasEscape": false,
+                                                        "kind": {
+                                                          "type": "normal",
+                                                          "containsQuote": true
+                                                        }
                                                       }
                                                     },
                                                     {
@@ -1813,7 +1865,11 @@
                                                           "ctxt": 0
                                                         },
                                                         "value": "checkbox",
-                                                        "hasEscape": false
+                                                        "hasEscape": false,
+                                                        "kind": {
+                                                          "type": "normal",
+                                                          "containsQuote": true
+                                                        }
                                                       }
                                                     }
                                                   ],
@@ -2128,7 +2184,11 @@
                                                       "ctxt": 0
                                                     },
                                                     "value": "destroy",
-                                                    "hasEscape": false
+                                                    "hasEscape": false,
+                                                    "kind": {
+                                                      "type": "normal",
+                                                      "containsQuote": true
+                                                    }
                                                   }
                                                 },
                                                 {
@@ -2335,7 +2395,11 @@
                                                       "ctxt": 0
                                                     },
                                                     "value": "iconBorder",
-                                                    "hasEscape": false
+                                                    "hasEscape": false,
+                                                    "kind": {
+                                                      "type": "normal",
+                                                      "containsQuote": true
+                                                    }
                                                   }
                                                 }
                                               ],
@@ -2405,7 +2469,11 @@
                                                           "ctxt": 0
                                                         },
                                                         "value": "icon",
-                                                        "hasEscape": false
+                                                        "hasEscape": false,
+                                                        "kind": {
+                                                          "type": "normal",
+                                                          "containsQuote": true
+                                                        }
                                                       }
                                                     }
                                                   ],

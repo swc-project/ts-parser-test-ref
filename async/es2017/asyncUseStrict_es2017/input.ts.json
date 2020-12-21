@@ -177,7 +177,11 @@
                 "ctxt": 0
               },
               "value": "use strict",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           {

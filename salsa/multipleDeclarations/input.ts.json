@@ -448,7 +448,11 @@
                       "ctxt": 0
                     },
                     "value": "frankly, complete nonsense",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               }
@@ -1080,7 +1084,11 @@
                       "ctxt": 0
                     },
                     "value": "even more nonsense",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               }

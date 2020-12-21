@@ -86,7 +86,11 @@
                       "ctxt": 0
                     },
                     "value": "foo",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -180,7 +184,11 @@
                       "ctxt": 0
                     },
                     "value": "foo.jpg",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -442,7 +450,11 @@
                       "ctxt": 0
                     },
                     "value": "bar.jpg",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],
@@ -974,7 +986,11 @@
                               "ctxt": 0
                             },
                             "value": "oops",
-                            "hasEscape": false
+                            "hasEscape": false,
+                            "kind": {
+                              "type": "normal",
+                              "containsQuote": true
+                            }
                           }
                         }
                       ]

@@ -479,7 +479,11 @@
                 "ctxt": 0
               },
               "value": "test",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         ],

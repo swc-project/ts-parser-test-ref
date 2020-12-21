@@ -227,7 +227,11 @@
                     "ctxt": 0
                   },
                   "value": "iterator",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 },
                 "computed": true
               },

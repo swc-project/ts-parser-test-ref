@@ -81,7 +81,11 @@
           "ctxt": 0
         },
         "value": "./types",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": true,
       "asserts": null
@@ -154,7 +158,11 @@
           "ctxt": 0
         },
         "value": "./types",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": true,
       "asserts": null
@@ -195,7 +203,11 @@
           "ctxt": 0
         },
         "value": "./ns",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null

@@ -96,7 +96,11 @@
                     "ctxt": 0
                   },
                   "value": "name",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -141,7 +145,11 @@
                           "ctxt": 0
                         },
                         "value": "x.png",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     },
                     {
@@ -165,7 +173,11 @@
                           "ctxt": 0
                         },
                         "value": "y.png",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   ]
@@ -308,7 +320,11 @@
                     "ctxt": 0
                   },
                   "value": "uppsala",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -355,7 +371,11 @@
                     "ctxt": 0
                   },
                   "value": "ok",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ]

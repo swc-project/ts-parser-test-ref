@@ -23,7 +23,11 @@
           "ctxt": 0
         },
         "value": "jquery",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "body": null
     },
@@ -64,7 +68,11 @@
           "ctxt": 0
         },
         "value": "jquery",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false
     },
@@ -83,7 +91,11 @@
           "ctxt": 0
         },
         "value": "jquery",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       }
     },
     {
@@ -123,7 +135,11 @@
           "ctxt": 0
         },
         "value": "./reExportX",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -164,7 +180,11 @@
           "ctxt": 0
         },
         "value": "./reExportAll",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null

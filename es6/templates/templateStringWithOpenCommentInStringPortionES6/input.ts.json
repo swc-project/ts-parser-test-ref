@@ -57,7 +57,11 @@
                 "ctxt": 0
               },
               "value": " /**head  ",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": false
+              }
             },
             "raw": {
               "type": "StringLiteral",
@@ -67,7 +71,11 @@
                 "ctxt": 0
               },
               "value": " /**head  ",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": false
+              }
             }
           },
           {
@@ -86,7 +94,11 @@
                 "ctxt": 0
               },
               "value": " // still middle  ",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": false
+              }
             },
             "raw": {
               "type": "StringLiteral",
@@ -96,7 +108,11 @@
                 "ctxt": 0
               },
               "value": " // still middle  ",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": false
+              }
             }
           },
           {
@@ -115,7 +131,11 @@
                 "ctxt": 0
               },
               "value": " /* still tail ",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": false
+              }
             },
             "raw": {
               "type": "StringLiteral",
@@ -125,7 +145,11 @@
                 "ctxt": 0
               },
               "value": " /* still tail ",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": false
+              }
             }
           }
         ]

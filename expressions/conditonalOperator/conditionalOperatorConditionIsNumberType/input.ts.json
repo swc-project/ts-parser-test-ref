@@ -1450,7 +1450,11 @@
               "ctxt": 0
             },
             "value": "string",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "property": {
             "type": "Identifier",
@@ -2805,7 +2809,11 @@
                   "ctxt": 0
                 },
                 "value": "string",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               },
               "property": {
                 "type": "Identifier",

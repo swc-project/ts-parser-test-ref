@@ -143,7 +143,11 @@
                     "ctxt": 0
                   },
                   "value": "./b/c",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 },
                 "qualifier": {
                   "type": "Identifier",
@@ -292,7 +296,11 @@
                         "ctxt": 0
                       },
                       "value": "./a/inner",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     },
                     "qualifier": null,
                     "typeArguments": null
@@ -313,7 +321,11 @@
                       "ctxt": 0
                     },
                     "value": "c",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               }

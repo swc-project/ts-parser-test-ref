@@ -171,7 +171,11 @@
               "ctxt": 0
             },
             "value": "o",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "computed": true
         },
@@ -234,7 +238,11 @@
                     "ctxt": 0
                   },
                   "value": "o",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 },
                 "computed": true
               },

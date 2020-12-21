@@ -83,7 +83,11 @@
                     "ctxt": 0
                   },
                   "value": "add",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -254,7 +258,11 @@
             "ctxt": 0
           },
           "value": "",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -357,7 +365,11 @@
             "ctxt": 0
           },
           "value": "",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "right": {
           "type": "Identifier",
@@ -571,7 +583,11 @@
                 "ctxt": 0
               },
               "value": "",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         },
@@ -583,7 +599,11 @@
             "ctxt": 0
           },
           "value": "",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -610,7 +630,11 @@
             "ctxt": 0
           },
           "value": "",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "right": {
           "type": "ParenthesisExpression",
@@ -646,7 +670,11 @@
                 "ctxt": 0
               },
               "value": "",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         }

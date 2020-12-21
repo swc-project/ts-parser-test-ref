@@ -1269,7 +1269,11 @@
                     "ctxt": 0
                   },
                   "value": "abc",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -1603,7 +1607,11 @@
                     "ctxt": 0
                   },
                   "value": "abc",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -1937,7 +1945,11 @@
                     "ctxt": 0
                   },
                   "value": "abc",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],

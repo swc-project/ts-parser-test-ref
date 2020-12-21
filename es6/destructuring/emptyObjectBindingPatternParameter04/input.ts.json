@@ -99,7 +99,11 @@
                       "ctxt": 0
                     },
                     "value": "2",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 },
                 {

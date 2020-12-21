@@ -483,7 +483,11 @@
                       "ctxt": 0
                     },
                     "value": "&rct=j",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               }
@@ -621,7 +625,11 @@
                             "ctxt": 0
                           },
                           "value": "&q=",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         },
                         "right": {
                           "type": "CallExpression",
@@ -689,7 +697,11 @@
                                             "ctxt": 0
                                           },
                                           "value": "q",
-                                          "hasEscape": false
+                                          "hasEscape": false,
+                                          "kind": {
+                                            "type": "normal",
+                                            "containsQuote": true
+                                          }
                                         }
                                       }
                                     ],
@@ -724,7 +736,11 @@
                                             "ctxt": 0
                                           },
                                           "value": "as_q",
-                                          "hasEscape": false
+                                          "hasEscape": false,
+                                          "kind": {
+                                            "type": "normal",
+                                            "containsQuote": true
+                                          }
                                         }
                                       }
                                     ],

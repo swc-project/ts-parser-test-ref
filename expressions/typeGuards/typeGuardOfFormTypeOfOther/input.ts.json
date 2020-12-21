@@ -905,7 +905,11 @@
             "ctxt": 0
           },
           "value": "Object",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -1070,7 +1074,11 @@
             "ctxt": 0
           },
           "value": "Object",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -1235,7 +1243,11 @@
             "ctxt": 0
           },
           "value": "Object",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -1407,7 +1419,11 @@
               "ctxt": 0
             },
             "value": "Object",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": {
             "type": "TsKeywordType",
@@ -1582,7 +1598,11 @@
             "ctxt": 0
           },
           "value": "Object",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -1795,7 +1815,11 @@
             "ctxt": 0
           },
           "value": "Object",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -1960,7 +1984,11 @@
             "ctxt": 0
           },
           "value": "Object",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -2125,7 +2153,11 @@
             "ctxt": 0
           },
           "value": "Object",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {
@@ -2290,7 +2322,11 @@
             "ctxt": 0
           },
           "value": "Object",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       },
       "consequent": {

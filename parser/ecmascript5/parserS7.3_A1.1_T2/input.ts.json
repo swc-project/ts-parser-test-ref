@@ -135,7 +135,11 @@
                         "ctxt": 0
                       },
                       "value": "#1: var\\nx\\n=\\n1\\n; x === 1. Actual: ",
-                      "hasEscape": true
+                      "hasEscape": true,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     },
                     "right": {
                       "type": "ParenthesisExpression",

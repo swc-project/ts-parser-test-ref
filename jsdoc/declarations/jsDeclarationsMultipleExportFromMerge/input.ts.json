@@ -230,7 +230,11 @@
           "ctxt": 0
         },
         "value": "./items",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false
     },
@@ -271,7 +275,11 @@
           "ctxt": 0
         },
         "value": "./items",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false
     },
@@ -332,7 +340,11 @@
           "ctxt": 0
         },
         "value": "./items",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false
     },
@@ -393,7 +405,11 @@
           "ctxt": 0
         },
         "value": "./items",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false
     },
@@ -444,7 +460,11 @@
           "ctxt": 0
         },
         "value": "./two",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false
     },
@@ -495,7 +515,11 @@
           "ctxt": 0
         },
         "value": "./two",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false
     },
@@ -536,7 +560,11 @@
           "ctxt": 0
         },
         "value": "./two",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false
     },
@@ -587,7 +615,11 @@
           "ctxt": 0
         },
         "value": "./items",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false
     }

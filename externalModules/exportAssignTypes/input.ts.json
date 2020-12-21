@@ -42,7 +42,11 @@
               "ctxt": 0
             },
             "value": "test",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }
@@ -618,7 +622,11 @@
             "ctxt": 0
           },
           "value": "./expString",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -716,7 +724,11 @@
             "ctxt": 0
           },
           "value": "./expNumber",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -814,7 +826,11 @@
             "ctxt": 0
           },
           "value": "./expBoolean",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -912,7 +928,11 @@
             "ctxt": 0
           },
           "value": "./expArray",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -1039,7 +1059,11 @@
             "ctxt": 0
           },
           "value": "./expObject",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -1148,7 +1172,11 @@
             "ctxt": 0
           },
           "value": "./expAny",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -1230,7 +1258,11 @@
             "ctxt": 0
           },
           "value": "./expGeneric",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },

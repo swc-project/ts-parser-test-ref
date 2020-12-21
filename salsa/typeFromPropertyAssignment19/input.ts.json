@@ -432,7 +432,11 @@
                     "ctxt": 0
                   },
                   "value": "./semver",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],

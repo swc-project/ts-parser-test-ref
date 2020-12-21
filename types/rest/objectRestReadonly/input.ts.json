@@ -276,7 +276,11 @@
                     "ctxt": 0
                   },
                   "value": "bar",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -300,7 +304,11 @@
                     "ctxt": 0
                   },
                   "value": "qux",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -324,7 +332,11 @@
                     "ctxt": 0
                   },
                   "value": "quuz",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ]

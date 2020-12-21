@@ -150,7 +150,11 @@
                               "ctxt": 0
                             },
                             "value": "#6.1: var \\u0078x = 1; xx === 6. Actual: ",
-                            "hasEscape": true
+                            "hasEscape": true,
+                            "kind": {
+                              "type": "normal",
+                              "containsQuote": true
+                            }
                           },
                           "right": {
                             "type": "ParenthesisExpression",
@@ -253,7 +257,11 @@
                           "ctxt": 0
                         },
                         "value": "#6.2: var \\u0078x = 1; xx === 6. Actual: ",
-                        "hasEscape": true
+                        "hasEscape": true,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       },
                       "right": {
                         "type": "ParenthesisExpression",

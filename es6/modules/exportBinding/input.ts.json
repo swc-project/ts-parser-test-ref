@@ -135,7 +135,11 @@
               "ctxt": 0
             },
             "value": "x",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }
@@ -339,7 +343,11 @@
               "ctxt": 0
             },
             "value": "y",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }

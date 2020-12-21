@@ -42,7 +42,11 @@
               "ctxt": 0
             },
             "value": "1",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": false
+            }
           },
           "init": null
         },
@@ -61,7 +65,11 @@
               "ctxt": 0
             },
             "value": "2",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": false
+            }
           },
           "init": null
         },
@@ -80,7 +88,11 @@
               "ctxt": 0
             },
             "value": "3",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": false
+            }
           },
           "init": null
         }

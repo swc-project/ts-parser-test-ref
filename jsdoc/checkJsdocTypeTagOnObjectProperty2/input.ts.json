@@ -162,7 +162,11 @@
                           "ctxt": 0
                         },
                         "value": "42",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   ]
@@ -213,7 +217,11 @@
                       "ctxt": 0
                     },
                     "value": "lol",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   },
                   "async": false,
                   "generator": false,
@@ -268,7 +276,11 @@
                           "ctxt": 0
                         },
                         "value": "0",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       },
                       "typeAnnotation": null
                     }
@@ -359,7 +371,11 @@
             "ctxt": 0
           },
           "value": "string",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -526,7 +542,11 @@
                     "ctxt": 0
                   },
                   "value": "0",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],

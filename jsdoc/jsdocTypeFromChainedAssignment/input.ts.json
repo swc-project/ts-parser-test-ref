@@ -736,7 +736,11 @@
                 "ctxt": 0
               },
               "value": "no",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         ],
@@ -799,7 +803,11 @@
                 "ctxt": 0
               },
               "value": "not really",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         ],
@@ -862,7 +870,11 @@
                 "ctxt": 0
               },
               "value": "still no",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         ],
@@ -925,7 +937,11 @@
                 "ctxt": 0
               },
               "value": "not here either",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         ],

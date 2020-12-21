@@ -279,7 +279,11 @@
             "ctxt": 0
           },
           "value": "x",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "computed": true
       }
@@ -317,7 +321,11 @@
             "ctxt": 0
           },
           "value": "y",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "computed": true
       }
@@ -355,7 +363,11 @@
             "ctxt": 0
           },
           "value": "z",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "computed": true
       }
@@ -520,7 +532,11 @@
                       "ctxt": 0
                     },
                     "value": "x",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               }
@@ -614,7 +630,11 @@
                       "ctxt": 0
                     },
                     "value": "y",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               }
@@ -708,7 +728,11 @@
                       "ctxt": 0
                     },
                     "value": "z",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               }

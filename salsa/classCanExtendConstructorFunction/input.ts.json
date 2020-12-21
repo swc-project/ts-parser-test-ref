@@ -972,7 +972,11 @@
                         "ctxt": 0
                       },
                       "value": "xmlolololol",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   },
                   "consequent": {
@@ -1019,7 +1023,11 @@
                                   "ctxt": 0
                                 },
                                 "value": "please do not use XML. It was a joke.",
-                                "hasEscape": false
+                                "hasEscape": false,
+                                "kind": {
+                                  "type": "normal",
+                                  "containsQuote": true
+                                }
                               }
                             }
                           ],
@@ -1711,7 +1719,11 @@
                           "ctxt": 0
                         },
                         "value": "nope",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   ],
@@ -2450,7 +2462,11 @@
                           "ctxt": 0
                         },
                         "value": "ignorant",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   ]

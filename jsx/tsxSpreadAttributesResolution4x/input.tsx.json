@@ -41,7 +41,11 @@
             "ctxt": 0
           },
           "value": "react",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -465,7 +469,11 @@
                     "ctxt": 0
                   },
                   "value": "hello world",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -1349,7 +1357,11 @@
                             "ctxt": 0
                           },
                           "value": "data-prop",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         },
                         "value": {
                           "type": "BooleanLiteral",

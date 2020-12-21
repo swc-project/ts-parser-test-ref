@@ -84,7 +84,11 @@
                           "ctxt": 0
                         },
                         "value": "parseHTML",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     },
                     {
@@ -108,7 +112,11 @@
                           "ctxt": 0
                         },
                         "value": "Parse HTML & CSS",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   ]
@@ -156,7 +164,11 @@
                           "ctxt": 0
                         },
                         "value": "styleLayout",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     },
                     {
@@ -180,7 +192,11 @@
                           "ctxt": 0
                         },
                         "value": "Style & Layout",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   ]
@@ -411,7 +427,11 @@
                     "ctxt": 0
                   },
                   "value": "./module.js",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],

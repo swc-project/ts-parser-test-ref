@@ -41,7 +41,11 @@
             "ctxt": 0
           },
           "value": "react",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -300,7 +304,11 @@
                         "ctxt": 0
                       },
                       "value": "ignore-prop",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     },
                     "computed": false,
                     "optional": false,
@@ -901,7 +909,11 @@
                             "ctxt": 0
                           },
                           "value": "hello",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         }
                       },
                       {
@@ -1034,7 +1046,11 @@
                             "ctxt": 0
                           },
                           "value": "hello world",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         }
                       }
                     ],
@@ -1399,7 +1415,11 @@
                             "ctxt": 0
                           },
                           "value": "hello",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         }
                       },
                       {

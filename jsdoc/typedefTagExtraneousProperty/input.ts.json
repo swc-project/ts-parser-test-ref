@@ -63,7 +63,11 @@
                     "ctxt": 0
                   },
                   "value": "no",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ]
@@ -145,7 +149,11 @@
             "ctxt": 0
           },
           "value": "ok but just because of the index signature",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -190,7 +198,11 @@
               "ctxt": 0
             },
             "value": "hi",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "computed": true
         },
@@ -202,7 +214,11 @@
             "ctxt": 0
           },
           "value": "yes",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     }

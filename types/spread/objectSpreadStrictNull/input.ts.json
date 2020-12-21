@@ -1984,7 +1984,11 @@
                     "ctxt": 0
                   },
                   "value": "The Matrix",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {

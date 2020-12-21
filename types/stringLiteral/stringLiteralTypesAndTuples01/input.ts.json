@@ -97,7 +97,11 @@
                     "ctxt": 0
                   },
                   "value": "Hello",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -110,7 +114,11 @@
                     "ctxt": 0
                   },
                   "value": "Brave",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -123,7 +131,11 @@
                     "ctxt": 0
                   },
                   "value": "New",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -136,7 +148,11 @@
                     "ctxt": 0
                   },
                   "value": "World",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ]
@@ -188,7 +204,11 @@
                 "ctxt": 0
               },
               "value": "t-rex",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           {
@@ -206,7 +226,11 @@
                 "ctxt": 0
               },
               "value": "raptor",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         ]
@@ -310,7 +334,11 @@
                           "ctxt": 0
                         },
                         "value": "I'm",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   },
@@ -337,7 +365,11 @@
                           "ctxt": 0
                         },
                         "value": "a",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   },
@@ -392,7 +424,11 @@
                     "ctxt": 0
                   },
                   "value": "I'm",
-                  "hasEscape": true
+                  "hasEscape": true,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -405,7 +441,11 @@
                     "ctxt": 0
                   },
                   "value": "a",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -418,7 +458,11 @@
                     "ctxt": 0
                   },
                   "value": "t-rex",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ]
@@ -582,7 +626,11 @@
                   "ctxt": 0
                 },
                 "value": "t-rex",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               }
             },
             "consequent": {
@@ -608,7 +656,11 @@
                       "ctxt": 0
                     },
                     "value": "ROAAAAR!",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ]
@@ -649,7 +701,11 @@
                   "ctxt": 0
                 },
                 "value": "raptor",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               }
             },
             "consequent": {
@@ -675,7 +731,11 @@
                       "ctxt": 0
                     },
                     "value": "yip yip!",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ]
@@ -705,7 +765,11 @@
                   "ctxt": 0
                 },
                 "value": "Unexpected ",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               },
               "right": {
                 "type": "Identifier",

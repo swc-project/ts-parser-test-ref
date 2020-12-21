@@ -22,7 +22,11 @@
           "ctxt": 0
         },
         "value": "module-not-existed",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null

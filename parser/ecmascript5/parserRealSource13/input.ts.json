@@ -11038,7 +11038,11 @@
                               "ctxt": 0
                             },
                             "value": "Callback",
-                            "hasEscape": false
+                            "hasEscape": false,
+                            "kind": {
+                              "type": "normal",
+                              "containsQuote": true
+                            }
                           }
                         },
                         "definite": false

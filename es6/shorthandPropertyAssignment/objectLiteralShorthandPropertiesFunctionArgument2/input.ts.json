@@ -115,7 +115,11 @@
               "ctxt": 0
             },
             "value": "my name",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }

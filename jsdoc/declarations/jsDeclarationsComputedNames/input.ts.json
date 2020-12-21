@@ -613,7 +613,11 @@
                 "ctxt": 0
               },
               "value": "ok",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "typeAnnotation": null,
             "isStatic": false,

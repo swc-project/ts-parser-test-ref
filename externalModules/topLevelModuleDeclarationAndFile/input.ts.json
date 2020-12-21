@@ -88,7 +88,11 @@
           "ctxt": 0
         },
         "value": "vs/foo_0",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "body": {
         "type": "TsModuleBlock",
@@ -211,7 +215,11 @@
             "ctxt": 0
           },
           "value": "vs/foo_0",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },

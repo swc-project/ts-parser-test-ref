@@ -256,7 +256,11 @@
                 "ctxt": 0
               },
               "value": "",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           "definite": false
@@ -449,7 +453,11 @@
                 "ctxt": 0
               },
               "value": "",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "right": {
               "type": "Identifier",

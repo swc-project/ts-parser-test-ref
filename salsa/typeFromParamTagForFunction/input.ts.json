@@ -377,7 +377,11 @@
                     "ctxt": 0
                   },
                   "value": "./a-ext",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -712,7 +716,11 @@
                     "ctxt": 0
                   },
                   "value": "./b-ext",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -994,7 +1002,11 @@
                     "ctxt": 0
                   },
                   "value": "./c-ext",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -1297,7 +1309,11 @@
                     "ctxt": 0
                   },
                   "value": "./d-ext",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -1603,7 +1619,11 @@
                     "ctxt": 0
                   },
                   "value": "./e-ext",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],

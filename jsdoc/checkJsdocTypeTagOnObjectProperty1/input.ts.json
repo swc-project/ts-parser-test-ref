@@ -42,7 +42,11 @@
               "ctxt": 0
             },
             "value": "hello Lol",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }
@@ -130,7 +134,11 @@
                     "ctxt": 0
                   },
                   "value": "42",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -262,7 +270,11 @@
                         "ctxt": 0
                       },
                       "value": "b",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     },
                     "right": {
                       "type": "StringLiteral",
@@ -272,7 +284,11 @@
                         "ctxt": 0
                       },
                       "value": "ar1",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   }
                 },
@@ -414,7 +430,11 @@
             "ctxt": 0
           },
           "value": "string",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -656,7 +676,11 @@
             "ctxt": 0
           },
           "value": "42",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },

@@ -63,7 +63,11 @@
                     "ctxt": 0
                   },
                   "value": "cat",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -87,7 +91,11 @@
                     "ctxt": 0
                   },
                   "value": "dog",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ]

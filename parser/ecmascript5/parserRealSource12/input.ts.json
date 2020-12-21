@@ -16688,7 +16688,11 @@
                                                 "ctxt": 0
                                               },
                                               "value": "initWalkers function is not up to date with enum content!",
-                                              "hasEscape": false
+                                              "hasEscape": false,
+                                              "kind": {
+                                                "type": "normal",
+                                                "containsQuote": true
+                                              }
                                             }
                                           }
                                         ],

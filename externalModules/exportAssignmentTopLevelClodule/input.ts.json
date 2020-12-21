@@ -53,7 +53,11 @@
               "ctxt": 0
             },
             "value": "test",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": null,
           "isStatic": false,
@@ -207,7 +211,11 @@
             "ctxt": 0
           },
           "value": "./foo_0",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },

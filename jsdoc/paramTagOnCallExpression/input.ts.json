@@ -161,7 +161,11 @@
                   "ctxt": 0
                 },
                 "value": "inherits",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               }
             }
           ],

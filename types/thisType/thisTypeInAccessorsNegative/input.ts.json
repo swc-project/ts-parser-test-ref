@@ -204,7 +204,11 @@
                         "ctxt": 0
                       },
                       "value": "place",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   },
                   {
@@ -222,7 +226,11 @@
                         "ctxt": 0
                       },
                       "value": "time",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   },
                   {
@@ -240,7 +248,11 @@
                         "ctxt": 0
                       },
                       "value": "method",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   },
                   {
@@ -258,7 +270,11 @@
                         "ctxt": 0
                       },
                       "value": "technique",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   }
                 ]
@@ -509,7 +525,11 @@
                             "ctxt": 0
                           },
                           "value": "method",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         }
                       }
                     }

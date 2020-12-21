@@ -172,7 +172,11 @@
                 "ctxt": 0
               },
               "value": "foo",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },
@@ -241,7 +245,11 @@
                   "ctxt": 0
                 },
                 "value": "fn",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               },
               "computed": true
             },
@@ -477,7 +485,11 @@
                   "ctxt": 0
                 },
                 "value": "0",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               },
               "computed": true
             },

@@ -1165,7 +1165,11 @@
           "ctxt": 0
         },
         "value": "./renderer2",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -1265,7 +1269,11 @@
           "ctxt": 0
         },
         "value": "./renderer",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -1306,7 +1314,11 @@
           "ctxt": 0
         },
         "value": "./component",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null

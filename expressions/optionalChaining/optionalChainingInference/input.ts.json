@@ -1529,7 +1529,11 @@
                         "ctxt": 0
                       },
                       "value": "length",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     },
                     "computed": true
                   }
@@ -1937,7 +1941,11 @@
                       "ctxt": 0
                     },
                     "value": "length",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   },
                   "computed": true
                 }

@@ -371,7 +371,11 @@
                           "ctxt": 0
                         },
                         "value": "Sprocket",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   ]
@@ -511,7 +515,11 @@
                           "ctxt": 0
                         },
                         "value": "Sprocket",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     },
                     {
@@ -535,7 +543,11 @@
                           "ctxt": 0
                         },
                         "value": "Bumpy wheel",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   ]
@@ -675,7 +687,11 @@
                           "ctxt": 0
                         },
                         "value": "Sprocket",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     },
                     {

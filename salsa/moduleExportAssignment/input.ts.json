@@ -250,7 +250,11 @@
                 "ctxt": 0
               },
               "value": "hi",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         ],
@@ -333,7 +337,11 @@
                 "ctxt": 0
               },
               "value": "hi",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         ],
@@ -629,7 +637,11 @@
                     "ctxt": 0
                   },
                   "value": "./npmlog",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],

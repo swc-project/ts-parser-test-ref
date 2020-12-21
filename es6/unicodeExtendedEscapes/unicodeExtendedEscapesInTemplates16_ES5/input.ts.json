@@ -59,7 +59,11 @@
                     "ctxt": 0
                   },
                   "value": "ꯍ㑖碐",
-                  "hasEscape": true
+                  "hasEscape": true,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": false
+                  }
                 },
                 "raw": {
                   "type": "StringLiteral",
@@ -69,7 +73,11 @@
                     "ctxt": 0
                   },
                   "value": "\\u{ABCD}\\u{EF12}\\u{3456}\\u{7890}",
-                  "hasEscape": true
+                  "hasEscape": true,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": false
+                  }
                 }
               }
             ]

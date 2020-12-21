@@ -2094,7 +2094,11 @@
                     "ctxt": 0
                   },
                   "value": "number",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             }
@@ -2673,7 +2677,11 @@
                                               "ctxt": 0
                                             },
                                             "value": "pegasus - 4 legs, wings",
-                                            "hasEscape": false
+                                            "hasEscape": false,
+                                            "kind": {
+                                              "type": "normal",
+                                              "containsQuote": false
+                                            }
                                           },
                                           "raw": {
                                             "type": "StringLiteral",
@@ -2683,7 +2691,11 @@
                                               "ctxt": 0
                                             },
                                             "value": "pegasus - 4 legs, wings",
-                                            "hasEscape": false
+                                            "hasEscape": false,
+                                            "kind": {
+                                              "type": "normal",
+                                              "containsQuote": false
+                                            }
                                           }
                                         }
                                       ]
@@ -2812,7 +2824,11 @@
                                                 "ctxt": 0
                                               },
                                               "value": "bird - 2 legs, wings",
-                                              "hasEscape": false
+                                              "hasEscape": false,
+                                              "kind": {
+                                                "type": "normal",
+                                                "containsQuote": false
+                                              }
                                             },
                                             "raw": {
                                               "type": "StringLiteral",
@@ -2822,7 +2838,11 @@
                                                 "ctxt": 0
                                               },
                                               "value": "bird - 2 legs, wings",
-                                              "hasEscape": false
+                                              "hasEscape": false,
+                                              "kind": {
+                                                "type": "normal",
+                                                "containsQuote": false
+                                              }
                                             }
                                           }
                                         ]
@@ -2927,7 +2947,11 @@
                                                 "ctxt": 0
                                               },
                                               "value": "unknown - ",
-                                              "hasEscape": false
+                                              "hasEscape": false,
+                                              "kind": {
+                                                "type": "normal",
+                                                "containsQuote": false
+                                              }
                                             },
                                             "raw": {
                                               "type": "StringLiteral",
@@ -2937,7 +2961,11 @@
                                                 "ctxt": 0
                                               },
                                               "value": "unknown - ",
-                                              "hasEscape": false
+                                              "hasEscape": false,
+                                              "kind": {
+                                                "type": "normal",
+                                                "containsQuote": false
+                                              }
                                             }
                                           },
                                           {
@@ -2956,7 +2984,11 @@
                                                 "ctxt": 0
                                               },
                                               "value": " legs, wings",
-                                              "hasEscape": false
+                                              "hasEscape": false,
+                                              "kind": {
+                                                "type": "normal",
+                                                "containsQuote": false
+                                              }
                                             },
                                             "raw": {
                                               "type": "StringLiteral",
@@ -2966,7 +2998,11 @@
                                                 "ctxt": 0
                                               },
                                               "value": " legs, wings",
-                                              "hasEscape": false
+                                              "hasEscape": false,
+                                              "kind": {
+                                                "type": "normal",
+                                                "containsQuote": false
+                                              }
                                             }
                                           }
                                         ]
@@ -3075,7 +3111,11 @@
                                         "ctxt": 0
                                       },
                                       "value": "manbearpig - ",
-                                      "hasEscape": false
+                                      "hasEscape": false,
+                                      "kind": {
+                                        "type": "normal",
+                                        "containsQuote": false
+                                      }
                                     },
                                     "raw": {
                                       "type": "StringLiteral",
@@ -3085,7 +3125,11 @@
                                         "ctxt": 0
                                       },
                                       "value": "manbearpig - ",
-                                      "hasEscape": false
+                                      "hasEscape": false,
+                                      "kind": {
+                                        "type": "normal",
+                                        "containsQuote": false
+                                      }
                                     }
                                   },
                                   {
@@ -3104,7 +3148,11 @@
                                         "ctxt": 0
                                       },
                                       "value": " legs, no wings",
-                                      "hasEscape": false
+                                      "hasEscape": false,
+                                      "kind": {
+                                        "type": "normal",
+                                        "containsQuote": false
+                                      }
                                     },
                                     "raw": {
                                       "type": "StringLiteral",
@@ -3114,7 +3162,11 @@
                                         "ctxt": 0
                                       },
                                       "value": " legs, no wings",
-                                      "hasEscape": false
+                                      "hasEscape": false,
+                                      "kind": {
+                                        "type": "normal",
+                                        "containsQuote": false
+                                      }
                                     }
                                   }
                                 ]
@@ -3241,7 +3293,11 @@
                                         "ctxt": 0
                                       },
                                       "value": "quetzalcoatl - no legs, wings",
-                                      "hasEscape": false
+                                      "hasEscape": false,
+                                      "kind": {
+                                        "type": "normal",
+                                        "containsQuote": false
+                                      }
                                     },
                                     "raw": {
                                       "type": "StringLiteral",
@@ -3251,7 +3307,11 @@
                                         "ctxt": 0
                                       },
                                       "value": "quetzalcoatl - no legs, wings",
-                                      "hasEscape": false
+                                      "hasEscape": false,
+                                      "kind": {
+                                        "type": "normal",
+                                        "containsQuote": false
+                                      }
                                     }
                                   }
                                 ]
@@ -3324,7 +3384,11 @@
                                         "ctxt": 0
                                       },
                                       "value": "snake - no legs, no wings",
-                                      "hasEscape": false
+                                      "hasEscape": false,
+                                      "kind": {
+                                        "type": "normal",
+                                        "containsQuote": false
+                                      }
                                     },
                                     "raw": {
                                       "type": "StringLiteral",
@@ -3334,7 +3398,11 @@
                                         "ctxt": 0
                                       },
                                       "value": "snake - no legs, no wings",
-                                      "hasEscape": false
+                                      "hasEscape": false,
+                                      "kind": {
+                                        "type": "normal",
+                                        "containsQuote": false
+                                      }
                                     }
                                   }
                                 ]

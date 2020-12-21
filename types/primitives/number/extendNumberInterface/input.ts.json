@@ -423,7 +423,11 @@
                     "ctxt": 0
                   },
                   "value": "hm",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -510,7 +514,11 @@
                   "ctxt": 0
                 },
                 "value": "doStuff",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               },
               "computed": true
             },
@@ -598,7 +606,11 @@
                   "ctxt": 0
                 },
                 "value": "doOtherStuff",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               },
               "computed": true
             },
@@ -613,7 +625,11 @@
                     "ctxt": 0
                   },
                   "value": "hm",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],

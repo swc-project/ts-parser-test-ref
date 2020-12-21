@@ -67,7 +67,11 @@
                         "ctxt": 0
                       },
                       "value": "    ",
-                      "hasEscape": true
+                      "hasEscape": true,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": false
+                      }
                     },
                     "raw": {
                       "type": "StringLiteral",
@@ -77,7 +81,11 @@
                         "ctxt": 0
                       },
                       "value": "\\u{20}\\u{020}\\u{0020}\\u{000020}",
-                      "hasEscape": true
+                      "hasEscape": true,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": false
+                      }
                     }
                   }
                 ]
@@ -100,7 +108,11 @@
                     "ctxt": 0
                   },
                   "value": "Hello",
-                  "hasEscape": true
+                  "hasEscape": true,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": false
+                  }
                 },
                 "raw": {
                   "type": "StringLiteral",
@@ -110,7 +122,11 @@
                     "ctxt": 0
                   },
                   "value": "\\u{48}\\u{65}\\u{6c}\\u{6c}\\u{6f}",
-                  "hasEscape": true
+                  "hasEscape": true,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": false
+                  }
                 }
               },
               {
@@ -129,7 +145,11 @@
                     "ctxt": 0
                   },
                   "value": "world",
-                  "hasEscape": true
+                  "hasEscape": true,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": false
+                  }
                 },
                 "raw": {
                   "type": "StringLiteral",
@@ -139,7 +159,11 @@
                     "ctxt": 0
                   },
                   "value": "\\u{77}\\u{6f}\\u{72}\\u{6c}\\u{64}",
-                  "hasEscape": true
+                  "hasEscape": true,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": false
+                  }
                 }
               }
             ]

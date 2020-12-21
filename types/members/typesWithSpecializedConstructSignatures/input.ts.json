@@ -326,7 +326,11 @@
                         "ctxt": 0
                       },
                       "value": "hi",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   }
                 },
@@ -395,7 +399,11 @@
                         "ctxt": 0
                       },
                       "value": "bye",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   }
                 },
@@ -603,7 +611,11 @@
                     "ctxt": 0
                   },
                   "value": "a",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -680,7 +692,11 @@
                         "ctxt": 0
                       },
                       "value": "hi",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   }
                 },
@@ -755,7 +771,11 @@
                         "ctxt": 0
                       },
                       "value": "bye",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     }
                   }
                 },
@@ -999,7 +1019,11 @@
                                 "ctxt": 0
                               },
                               "value": "hi",
-                              "hasEscape": false
+                              "hasEscape": false,
+                              "kind": {
+                                "type": "normal",
+                                "containsQuote": true
+                              }
                             }
                           }
                         },
@@ -1074,7 +1098,11 @@
                                 "ctxt": 0
                               },
                               "value": "bye",
-                              "hasEscape": false
+                              "hasEscape": false,
+                              "kind": {
+                                "type": "normal",
+                                "containsQuote": true
+                              }
                             }
                           }
                         },
@@ -1400,7 +1428,11 @@
                     "ctxt": 0
                   },
                   "value": "hi",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -1494,7 +1526,11 @@
                     "ctxt": 0
                   },
                   "value": "bye",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -1588,7 +1624,11 @@
                     "ctxt": 0
                   },
                   "value": "hm",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],

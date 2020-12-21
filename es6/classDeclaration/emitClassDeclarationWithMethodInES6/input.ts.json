@@ -141,7 +141,11 @@
                 "ctxt": 0
               },
               "value": "computedName1",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           "function": {
@@ -194,7 +198,11 @@
                 "ctxt": 0
               },
               "value": "computedName2",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           "function": {
@@ -284,7 +292,11 @@
                 "ctxt": 0
               },
               "value": "computedName3",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           "function": {
@@ -607,7 +619,11 @@
                       "ctxt": 0
                     },
                     "value": "HELLO",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ]
@@ -661,7 +677,11 @@
                 "ctxt": 0
               },
               "value": "computedname4",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           "function": {
@@ -714,7 +734,11 @@
                 "ctxt": 0
               },
               "value": "computedname5",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           "function": {
@@ -804,7 +828,11 @@
                 "ctxt": 0
               },
               "value": "computedname6",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           "function": {

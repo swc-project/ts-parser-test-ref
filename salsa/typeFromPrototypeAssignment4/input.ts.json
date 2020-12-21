@@ -145,7 +145,11 @@
               "ctxt": 0
             },
             "value": "prototype",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "computed": true
         },
@@ -275,7 +279,11 @@
                             "ctxt": 0
                           },
                           "value": "",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         }
                       },
                       "computed": true
@@ -340,7 +348,11 @@
                 "ctxt": 0
               },
               "value": "prototype",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },
@@ -352,7 +364,11 @@
               "ctxt": 0
             },
             "value": "add-on",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "computed": true
         },
@@ -430,7 +446,11 @@
                 "ctxt": 0
               },
               "value": "prototype",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },
@@ -442,7 +462,11 @@
               "ctxt": 0
             },
             "value": "addon",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "computed": true
         },
@@ -520,7 +544,11 @@
                 "ctxt": 0
               },
               "value": "prototype",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },
@@ -532,7 +560,11 @@
               "ctxt": 0
             },
             "value": "__underscores__",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "computed": true
         },
@@ -671,7 +703,11 @@
                 "ctxt": 0
               },
               "value": "",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         ],
@@ -718,7 +754,11 @@
               "ctxt": 0
             },
             "value": "add-on",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "computed": true
         },

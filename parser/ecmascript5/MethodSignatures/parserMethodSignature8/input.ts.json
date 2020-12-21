@@ -51,7 +51,11 @@
                 "ctxt": 0
               },
               "value": "H",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": false,
             "optional": true,

@@ -336,7 +336,11 @@
                           "ctxt": 0
                         },
                         "value": "",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": false
+                        }
                       },
                       "raw": {
                         "type": "StringLiteral",
@@ -346,7 +350,11 @@
                           "ctxt": 0
                         },
                         "value": "",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": false
+                        }
                       }
                     },
                     {
@@ -365,7 +373,11 @@
                           "ctxt": 0
                         },
                         "value": "${moduleFile}",
-                        "hasEscape": true
+                        "hasEscape": true,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": false
+                        }
                       },
                       "raw": {
                         "type": "StringLiteral",
@@ -375,7 +387,11 @@
                           "ctxt": 0
                         },
                         "value": "\\${moduleFile}",
-                        "hasEscape": true
+                        "hasEscape": true,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": false
+                        }
                       }
                     }
                   ]
@@ -562,7 +578,11 @@
                       "ctxt": 0
                     },
                     "value": "defaulPath",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               }

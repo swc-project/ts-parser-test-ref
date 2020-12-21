@@ -41,7 +41,11 @@
             "ctxt": 0
           },
           "value": "react",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -669,7 +673,11 @@
                       "ctxt": 0
                     },
                     "value": "T1B 0L3",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 },
                 {
@@ -698,7 +706,11 @@
                       "ctxt": 0
                     },
                     "value": "vancouver",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 },
                 {
@@ -727,7 +739,11 @@
                       "ctxt": 0
                     },
                     "value": "CA",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               ],

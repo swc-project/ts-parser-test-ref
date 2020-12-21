@@ -119,7 +119,11 @@
           "ctxt": 0
         },
         "value": "hello",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       }
     },
     {
@@ -201,7 +205,11 @@
               "ctxt": 0
             },
             "value": "x",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }
@@ -243,7 +251,11 @@
               "ctxt": 0
             },
             "value": "y",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }
@@ -285,7 +297,11 @@
               "ctxt": 0
             },
             "value": "z",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }
@@ -378,7 +394,11 @@
           "ctxt": 0
         },
         "value": "./t1",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       }
     },
     {
@@ -396,7 +416,11 @@
           "ctxt": 0
         },
         "value": "./t2",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       }
     },
     {
@@ -414,7 +438,11 @@
           "ctxt": 0
         },
         "value": "./t3",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       }
     },
     {
@@ -533,7 +561,11 @@
           "ctxt": 0
         },
         "value": "./t4",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null

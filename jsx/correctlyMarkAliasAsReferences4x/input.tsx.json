@@ -23,7 +23,11 @@
           "ctxt": 0
         },
         "value": "classnames",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "body": null
     },
@@ -63,7 +67,11 @@
           "ctxt": 0
         },
         "value": "classnames",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -104,7 +112,11 @@
           "ctxt": 0
         },
         "value": "react",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -202,7 +214,11 @@
                             "ctxt": 0
                           },
                           "value": "",
-                          "hasEscape": false
+                          "hasEscape": false,
+                          "kind": {
+                            "type": "normal",
+                            "containsQuote": true
+                          }
                         }
                       }
                     },
@@ -350,7 +366,11 @@
                               "ctxt": 0
                             },
                             "value": "class1",
-                            "hasEscape": false
+                            "hasEscape": false,
+                            "kind": {
+                              "type": "normal",
+                              "containsQuote": true
+                            }
                           }
                         },
                         {

@@ -38,7 +38,11 @@
                 "ctxt": 0
               },
               "value": "\\\\",
-              "hasEscape": true
+              "hasEscape": true,
+              "kind": {
+                "type": "normal",
+                "containsQuote": false
+              }
             },
             "raw": {
               "type": "StringLiteral",
@@ -48,7 +52,11 @@
                 "ctxt": 0
               },
               "value": "\\\\\\\\",
-              "hasEscape": true
+              "hasEscape": true,
+              "kind": {
+                "type": "normal",
+                "containsQuote": false
+              }
             }
           }
         ]

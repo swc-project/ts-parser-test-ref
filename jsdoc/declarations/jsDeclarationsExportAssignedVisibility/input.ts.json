@@ -224,7 +224,11 @@
                     "ctxt": 0
                   },
                   "value": "./obj",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],

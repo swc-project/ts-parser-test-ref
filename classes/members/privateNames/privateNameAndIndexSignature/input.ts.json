@@ -142,7 +142,11 @@
               "ctxt": 0
             },
             "value": "#bar",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "value": {
             "type": "MemberExpression",
@@ -167,7 +171,11 @@
                 "ctxt": 0
               },
               "value": "#bar",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "computed": true
           },
@@ -346,7 +354,11 @@
                         "ctxt": 0
                       },
                       "value": "#foo",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     },
                     "computed": true
                   },

@@ -556,7 +556,11 @@
               "ctxt": 0
             },
             "value": "1",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "value": null,
           "typeAnnotation": {
@@ -640,7 +644,11 @@
               "ctxt": 0
             },
             "value": "1.1",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "value": null,
           "typeAnnotation": {

@@ -59,7 +59,11 @@
                     "ctxt": 0
                   },
                   "value": "\u0019\u0019 19",
-                  "hasEscape": true
+                  "hasEscape": true,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": false
+                  }
                 },
                 "raw": {
                   "type": "StringLiteral",
@@ -69,7 +73,11 @@
                     "ctxt": 0
                   },
                   "value": "\\0x19\\u0019 19",
-                  "hasEscape": true
+                  "hasEscape": true,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": false
+                  }
                 }
               }
             ]

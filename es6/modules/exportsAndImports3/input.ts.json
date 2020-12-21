@@ -1225,7 +1225,11 @@
           "ctxt": 0
         },
         "value": "./t1",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false
     },
@@ -1546,7 +1550,11 @@
           "ctxt": 0
         },
         "value": "./t1",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null

@@ -23,7 +23,11 @@
           "ctxt": 0
         },
         "value": "react",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "body": {
         "type": "TsModuleBlock",
@@ -168,7 +172,11 @@
           "ctxt": 0
         },
         "value": "react",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -210,7 +218,11 @@
           "ctxt": 0
         },
         "value": "./file1",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null

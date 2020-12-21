@@ -23,7 +23,11 @@
           "ctxt": 0
         },
         "value": "foo*baz",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "body": {
         "type": "TsModuleBlock",
@@ -141,7 +145,11 @@
           "ctxt": 0
         },
         "value": "foo*baz",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "body": {
         "type": "TsModuleBlock",
@@ -228,7 +236,11 @@
           "ctxt": 0
         },
         "value": "foos*",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "body": {
         "type": "TsModuleBlock",
@@ -315,7 +327,11 @@
           "ctxt": 0
         },
         "value": "*!text",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "body": {
         "type": "TsModuleBlock",
@@ -453,7 +469,11 @@
           "ctxt": 0
         },
         "value": "foobarbaz",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -539,7 +559,11 @@
           "ctxt": 0
         },
         "value": "foosball",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -624,7 +648,11 @@
           "ctxt": 0
         },
         "value": "./file!text",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null

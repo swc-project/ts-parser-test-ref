@@ -23,7 +23,11 @@
           "ctxt": 0
         },
         "value": "foo",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "body": null
     },
@@ -44,7 +48,11 @@
           "ctxt": 0
         },
         "value": "foo",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "body": {
         "type": "TsModuleBlock",
@@ -170,7 +178,11 @@
           "ctxt": 0
         },
         "value": "foo",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null

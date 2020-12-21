@@ -127,7 +127,11 @@
               "ctxt": 0
             },
             "value": "roar",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "typeAnnotation": null,
           "isStatic": false,

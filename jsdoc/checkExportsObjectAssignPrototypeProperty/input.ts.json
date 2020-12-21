@@ -226,7 +226,11 @@
                       "ctxt": 0
                     },
                     "value": "Person called ",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   },
                   "right": {
                     "type": "MemberExpression",
@@ -357,7 +361,11 @@
                 "ctxt": 0
               },
               "value": "thing",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           {
@@ -513,7 +521,11 @@
                 "ctxt": 0
               },
               "value": "readonlyProp",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           {
@@ -547,7 +559,11 @@
                       "ctxt": 0
                     },
                     "value": "Smith",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 },
                 {
@@ -670,7 +686,11 @@
                 "ctxt": 0
               },
               "value": "rwAccessors",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           {
@@ -887,7 +907,11 @@
                 "ctxt": 0
               },
               "value": "readonlyAccessor",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           {
@@ -1049,7 +1073,11 @@
                 "ctxt": 0
               },
               "value": "setonlyAccessor",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           {
@@ -1281,7 +1309,11 @@
           "ctxt": 0
         },
         "value": "./",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -1321,7 +1353,11 @@
             "ctxt": 0
           },
           "value": "./mod1",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -1382,7 +1418,11 @@
                     "ctxt": 0
                   },
                   "value": "Name",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -1755,7 +1795,11 @@
             "ctxt": 0
           },
           "value": "yes",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -1813,7 +1857,11 @@
             "ctxt": 0
           },
           "value": "name",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -1928,7 +1976,11 @@
             "ctxt": 0
           },
           "value": "no",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -1986,7 +2038,11 @@
             "ctxt": 0
           },
           "value": "no",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },

@@ -209,7 +209,11 @@
                   "ctxt": 0
                 },
                 "value": "21EC2020-3AEA-4069-A2DD-08002B30309D",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               },
               "typeAnnotation": {
                 "type": "TsTypeReference",
@@ -764,7 +768,11 @@
             "ctxt": 0
           },
           "value": "hello",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         }
       }
     },
@@ -820,7 +828,11 @@
                   "ctxt": 0
                 },
                 "value": "{",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               },
               "right": {
                 "type": "Identifier",
@@ -842,7 +854,11 @@
                 "ctxt": 0
               },
               "value": "}",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           "definite": false
@@ -1313,7 +1329,11 @@
                 "ctxt": 0
               },
               "value": "",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           },
           "definite": false

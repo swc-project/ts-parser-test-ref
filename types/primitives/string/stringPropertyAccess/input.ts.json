@@ -42,7 +42,11 @@
               "ctxt": 0
             },
             "value": "",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }
@@ -211,7 +215,11 @@
                     "ctxt": 0
                   },
                   "value": "charAt",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -282,7 +290,11 @@
                   "ctxt": 0
                 },
                 "value": "charAt",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               },
               "computed": true
             },
@@ -367,7 +379,11 @@
                   "ctxt": 0
                 },
                 "value": "hasOwnProperty",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               },
               "computed": true
             },
@@ -382,7 +398,11 @@
                     "ctxt": 0
                   },
                   "value": "toFixed",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],

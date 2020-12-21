@@ -326,7 +326,11 @@
                       "ctxt": 0
                     },
                     "value": "defaulPath",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               }
@@ -541,7 +545,11 @@
                           "ctxt": 0
                         },
                         "value": "path1",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     },
                     {
@@ -554,7 +562,11 @@
                           "ctxt": 0
                         },
                         "value": "path2",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": true
+                        }
                       }
                     }
                   ]
@@ -632,7 +644,11 @@
                       "ctxt": 0
                     },
                     "value": "PathToModule",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   },
                   "async": false,
                   "generator": false,

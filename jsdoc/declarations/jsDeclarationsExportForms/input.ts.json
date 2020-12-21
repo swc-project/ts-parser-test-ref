@@ -99,7 +99,11 @@
           "ctxt": 0
         },
         "value": "./cls",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       }
     },
     {
@@ -117,7 +121,11 @@
           "ctxt": 0
         },
         "value": "./func",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       }
     },
     {
@@ -135,7 +143,11 @@
           "ctxt": 0
         },
         "value": "./cls",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       }
     },
     {
@@ -175,7 +187,11 @@
           "ctxt": 0
         },
         "value": "./cls",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -248,7 +264,11 @@
           "ctxt": 0
         },
         "value": "./cls",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -308,7 +328,11 @@
           "ctxt": 0
         },
         "value": "./cls",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -381,7 +405,11 @@
           "ctxt": 0
         },
         "value": "./cls",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -485,7 +513,11 @@
                     "ctxt": 0
                   },
                   "value": "./cls",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -621,7 +653,11 @@
                     "ctxt": 0
                   },
                   "value": "./cls",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -747,7 +783,11 @@
                     "ctxt": 0
                   },
                   "value": "./cls",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -893,7 +933,11 @@
                     "ctxt": 0
                   },
                   "value": "./cls",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ],
@@ -998,7 +1042,11 @@
           "ctxt": 0
         },
         "value": "./cjs4",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -1019,7 +1067,11 @@
           "ctxt": 0
         },
         "value": "./cjs3",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -1040,7 +1092,11 @@
           "ctxt": 0
         },
         "value": "./cjs2",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -1061,7 +1117,11 @@
           "ctxt": 0
         },
         "value": "./cjs",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -1082,7 +1142,11 @@
           "ctxt": 0
         },
         "value": "./bol",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -1103,7 +1167,11 @@
           "ctxt": 0
         },
         "value": "./ban",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -1124,7 +1192,11 @@
           "ctxt": 0
         },
         "value": "./bat",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -1145,7 +1217,11 @@
           "ctxt": 0
         },
         "value": "./baz",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -1166,7 +1242,11 @@
           "ctxt": 0
         },
         "value": "./bar",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null
@@ -1187,7 +1267,11 @@
           "ctxt": 0
         },
         "value": "./bar2",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false,
       "asserts": null

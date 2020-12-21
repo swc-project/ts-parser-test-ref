@@ -42,7 +42,11 @@
               "ctxt": 0
             },
             "value": "zh-CN",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           },
           "definite": false
         }
@@ -127,7 +131,11 @@
                           "ctxt": 0
                         },
                         "value": "./locales/",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": false
+                        }
                       },
                       "raw": {
                         "type": "StringLiteral",
@@ -137,7 +145,11 @@
                           "ctxt": 0
                         },
                         "value": "./locales/",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": false
+                        }
                       }
                     },
                     {
@@ -156,7 +168,11 @@
                           "ctxt": 0
                         },
                         "value": ".js",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": false
+                        }
                       },
                       "raw": {
                         "type": "StringLiteral",
@@ -166,7 +182,11 @@
                           "ctxt": 0
                         },
                         "value": ".js",
-                        "hasEscape": false
+                        "hasEscape": false,
+                        "kind": {
+                          "type": "normal",
+                          "containsQuote": false
+                        }
                       }
                     }
                   ]
@@ -340,7 +360,11 @@
                         "ctxt": 0
                       },
                       "value": "./locales/",
-                      "hasEscape": false
+                      "hasEscape": false,
+                      "kind": {
+                        "type": "normal",
+                        "containsQuote": true
+                      }
                     },
                     "right": {
                       "type": "Identifier",
@@ -362,7 +386,11 @@
                       "ctxt": 0
                     },
                     "value": ".js",
-                    "hasEscape": false
+                    "hasEscape": false,
+                    "kind": {
+                      "type": "normal",
+                      "containsQuote": true
+                    }
                   }
                 }
               }

@@ -143,7 +143,11 @@
           "ctxt": 0
         },
         "value": "./source",
-        "hasEscape": false
+        "hasEscape": false,
+        "kind": {
+          "type": "normal",
+          "containsQuote": true
+        }
       },
       "typeOnly": false
     }

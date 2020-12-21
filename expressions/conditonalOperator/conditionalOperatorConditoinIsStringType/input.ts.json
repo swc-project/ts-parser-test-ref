@@ -883,7 +883,11 @@
             "ctxt": 0
           },
           "value": "",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "consequent": {
           "type": "Identifier",
@@ -931,7 +935,11 @@
             "ctxt": 0
           },
           "value": "string",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "consequent": {
           "type": "Identifier",
@@ -979,7 +987,11 @@
             "ctxt": 0
           },
           "value": "c",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "consequent": {
           "type": "Identifier",
@@ -1027,7 +1039,11 @@
             "ctxt": 0
           },
           "value": "string",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "consequent": {
           "type": "Identifier",
@@ -1075,7 +1091,11 @@
             "ctxt": 0
           },
           "value": "  ",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "consequent": {
           "type": "Identifier",
@@ -1123,7 +1143,11 @@
             "ctxt": 0
           },
           "value": "hello ",
-          "hasEscape": false
+          "hasEscape": false,
+          "kind": {
+            "type": "normal",
+            "containsQuote": true
+          }
         },
         "consequent": {
           "type": "Identifier",
@@ -1193,7 +1217,11 @@
                 "ctxt": 0
               },
               "value": "string",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             }
           }
         ]
@@ -1257,7 +1285,11 @@
                     "ctxt": 0
                   },
                   "value": "1",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -1270,7 +1302,11 @@
                     "ctxt": 0
                   },
                   "value": "2",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               },
               {
@@ -1283,7 +1319,11 @@
                     "ctxt": 0
                   },
                   "value": "3",
-                  "hasEscape": false
+                  "hasEscape": false,
+                  "kind": {
+                    "type": "normal",
+                    "containsQuote": true
+                  }
                 }
               }
             ]
@@ -1460,7 +1500,11 @@
               "ctxt": 0
             },
             "value": "string",
-            "hasEscape": false
+            "hasEscape": false,
+            "kind": {
+              "type": "normal",
+              "containsQuote": true
+            }
           }
         },
         "consequent": {
@@ -2153,7 +2197,11 @@
                 "ctxt": 0
               },
               "value": "",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "consequent": {
               "type": "Identifier",
@@ -2225,7 +2273,11 @@
                 "ctxt": 0
               },
               "value": "string",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "consequent": {
               "type": "Identifier",
@@ -2297,7 +2349,11 @@
                 "ctxt": 0
               },
               "value": "c",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "consequent": {
               "type": "Identifier",
@@ -2369,7 +2425,11 @@
                 "ctxt": 0
               },
               "value": "string",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "consequent": {
               "type": "Identifier",
@@ -2441,7 +2501,11 @@
                 "ctxt": 0
               },
               "value": "  ",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "consequent": {
               "type": "Identifier",
@@ -2513,7 +2577,11 @@
                 "ctxt": 0
               },
               "value": "hello",
-              "hasEscape": false
+              "hasEscape": false,
+              "kind": {
+                "type": "normal",
+                "containsQuote": true
+              }
             },
             "consequent": {
               "type": "Identifier",
@@ -2779,7 +2847,11 @@
                   "ctxt": 0
                 },
                 "value": "string",
-                "hasEscape": false
+                "hasEscape": false,
+                "kind": {
+                  "type": "normal",
+                  "containsQuote": true
+                }
               }
             },
             "consequent": {
