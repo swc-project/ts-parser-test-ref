@@ -43,7 +43,7 @@
             },
             "value": "method",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "function": {
             "params": [],

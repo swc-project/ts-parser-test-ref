@@ -43,7 +43,7 @@
             },
             "value": "x",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "value": null,
           "typeAnnotation": {
@@ -89,7 +89,7 @@
             },
             "value": "f",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "function": {
             "params": [],
@@ -163,7 +163,7 @@
             },
             "value": "x",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "value": null,
           "typeAnnotation": {
@@ -220,7 +220,7 @@
             },
             "value": "f",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "function": {
             "params": [

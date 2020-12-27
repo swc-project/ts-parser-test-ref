@@ -43,7 +43,7 @@
             },
             "value": "prop",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "value": null,
           "typeAnnotation": null,

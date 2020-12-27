@@ -1488,7 +1488,7 @@
             },
             "value": "a",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "value": null,
           "typeAnnotation": {
@@ -1562,7 +1562,7 @@
             },
             "value": "b",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "value": null,
           "typeAnnotation": {

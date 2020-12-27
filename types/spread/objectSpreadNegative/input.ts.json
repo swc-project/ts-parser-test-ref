@@ -136,7 +136,7 @@
             },
             "value": "x",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "value": null,
           "typeAnnotation": {

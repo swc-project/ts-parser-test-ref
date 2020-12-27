@@ -219,7 +219,7 @@
             },
             "value": "d",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "value": null,
           "typeAnnotation": {
@@ -719,7 +719,7 @@
             },
             "value": "d",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "value": null,
           "typeAnnotation": {
@@ -1219,7 +1219,7 @@
             },
             "value": "d",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "value": null,
           "typeAnnotation": {
@@ -3080,7 +3080,7 @@
             },
             "value": "d",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "value": null,
           "typeAnnotation": {
@@ -3246,7 +3246,7 @@
             },
             "value": "c",
             "typeAnnotation": null,
-            "optional": false
+            "optional": true
           },
           "value": null,
           "typeAnnotation": {
